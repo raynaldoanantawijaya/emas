@@ -12,6 +12,7 @@ jobs:
       contents: write
     env:
       TZ: "Asia/Jakarta"
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       
     steps:
       - name: Checkout repository
@@ -36,10 +37,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
-          echo "Processing galeri24_co_id_1773287359.json..."
-          new_file_0=$(ls -t hasil_scrape/emas/*galeri24_co_id*.json 2>/dev/null | head -1 || true)
+          echo "Processing logammulia_com_1773285528.json..."
+          new_file_0=$(ls -t hasil_scrape/emas/*logammulia_com*.json 2>/dev/null | head -1 || true)
           if [ -z "$new_file_0" ]; then
-              new_file_0=$(ls -t hasil_scrape/*/*galeri24_co_id*.json 2>/dev/null | head -1 || true)
+              new_file_0=$(ls -t hasil_scrape/*/*logammulia_com*.json 2>/dev/null | head -1 || true)
           fi
           if [ -z "$new_file_0" ]; then
               # Ultimate fallback: category newest
@@ -47,14 +48,14 @@ jobs:
           fi
           
           if [ -n "$new_file_0" ] && [ -f "$new_file_0" ]; then
-             echo "Updating galeri24_co_id_1773287359.json with $new_file_0"
-             cp "$new_file_0" "galeri24_co_id_1773287359.json"
-             git add "galeri24_co_id_1773287359.json"
+             echo "Updating logammulia_com_1773285528.json with $new_file_0"
+             cp "$new_file_0" "logammulia_com_1773285528.json"
+             git add "logammulia_com_1773285528.json"
           else
-             echo "Warning: Could not find output for pattern 'galeri24_co_id'"
+             echo "Warning: Could not find output for pattern 'logammulia_com'"
           fi
 
-          echo "Processing harga-emas_org_1773287342.json..."
+          echo "Processing harga-emas_org_1773285527.json..."
           new_file_1=$(ls -t hasil_scrape/emas/*harga-emas_org*.json 2>/dev/null | head -1 || true)
           if [ -z "$new_file_1" ]; then
               new_file_1=$(ls -t hasil_scrape/*/*harga-emas_org*.json 2>/dev/null | head -1 || true)
@@ -65,17 +66,17 @@ jobs:
           fi
           
           if [ -n "$new_file_1" ] && [ -f "$new_file_1" ]; then
-             echo "Updating harga-emas_org_1773287342.json with $new_file_1"
-             cp "$new_file_1" "harga-emas_org_1773287342.json"
-             git add "harga-emas_org_1773287342.json"
+             echo "Updating harga-emas_org_1773285527.json with $new_file_1"
+             cp "$new_file_1" "harga-emas_org_1773285527.json"
+             git add "harga-emas_org_1773285527.json"
           else
              echo "Warning: Could not find output for pattern 'harga-emas_org'"
           fi
 
-          echo "Processing logammulia_com_1773287304.json..."
-          new_file_2=$(ls -t hasil_scrape/emas/*logammulia_com*.json 2>/dev/null | head -1 || true)
+          echo "Processing galeri24_co_id_1773285449.json..."
+          new_file_2=$(ls -t hasil_scrape/emas/*galeri24_co_id*.json 2>/dev/null | head -1 || true)
           if [ -z "$new_file_2" ]; then
-              new_file_2=$(ls -t hasil_scrape/*/*logammulia_com*.json 2>/dev/null | head -1 || true)
+              new_file_2=$(ls -t hasil_scrape/*/*galeri24_co_id*.json 2>/dev/null | head -1 || true)
           fi
           if [ -z "$new_file_2" ]; then
               # Ultimate fallback: category newest
@@ -83,11 +84,11 @@ jobs:
           fi
           
           if [ -n "$new_file_2" ] && [ -f "$new_file_2" ]; then
-             echo "Updating logammulia_com_1773287304.json with $new_file_2"
-             cp "$new_file_2" "logammulia_com_1773287304.json"
-             git add "logammulia_com_1773287304.json"
+             echo "Updating galeri24_co_id_1773285449.json with $new_file_2"
+             cp "$new_file_2" "galeri24_co_id_1773285449.json"
+             git add "galeri24_co_id_1773285449.json"
           else
-             echo "Warning: Could not find output for pattern 'logammulia_com'"
+             echo "Warning: Could not find output for pattern 'galeri24_co_id'"
           fi
 
           git diff --quiet && git diff --staged --quiet || (git commit -m "bot: Auto-update emas API endpoints" && git push)

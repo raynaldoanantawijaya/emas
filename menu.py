@@ -39,9 +39,10 @@ from pathlib import Path
 
 # Push GitHub Module
 try:
-    from push_github import push_to_github
+    from push_github import push_to_github, clear_github_repo
 except ImportError:
     push_to_github = None
+    clear_github_repo = None
 
 # ─── Colorama (terminal warna) ───────────────────────────────────────────────
 try:
@@ -1212,6 +1213,13 @@ def run_scrape_emas():
         ("Antam Logam Mulia", "https://www.logammulia.com/id/harga-emas-hari-ini"),
     ]
 
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        info("Menjalankan semua sumber Emas secara sekuensial (CI Mode)...")
+        for name, url in sources:
+            print()
+            _scrape_single_url(name, url, subfolder="emas")
+        return
+
     print(f"  {Fore.CYAN}Pilih sumber:{Style.RESET_ALL}\n")
     for i, (name, url) in enumerate(sources, 1):
         print(f"    {Fore.YELLOW}{i}{Style.RESET_ALL}. {name}  {Fore.CYAN}{url}{Style.RESET_ALL}")
@@ -1261,6 +1269,13 @@ def run_scrape_crypto():
         ("CoinMarketCap",   "https://coinmarketcap.com/"),
         ("CoinGecko",       "https://www.coingecko.com/"),
     ]
+
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        info("Menjalankan semua sumber Crypto secara sekuensial (CI Mode)...")
+        for name, url in sources:
+            print()
+            _scrape_single_url(name, url, subfolder="crypto")
+        return
 
     print(f"  {Fore.CYAN}Pilih sumber:{Style.RESET_ALL}\n")
     for i, (name, url) in enumerate(sources, 1):
@@ -1317,6 +1332,13 @@ def run_scrape_berita():
         ("Antaranews",     "https://www.antaranews.com/"),
     ]
 
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        info("Menjalankan semua sumber Berita secara sekuensial (CI Mode)...")
+        for name, url in sources:
+            print()
+            _scrape_single_url(name, url, subfolder="berita")
+        return
+
     print(f"  {Fore.CYAN}Pilih sumber berita:{Style.RESET_ALL}\n")
     for i, (name, url) in enumerate(sources, 1):
         print(f"    {Fore.YELLOW}{i}{Style.RESET_ALL}. {name}  {Fore.CYAN}{url}{Style.RESET_ALL}")
@@ -1366,6 +1388,34 @@ def run_scrape_saham():
         ("Bursa Efek Indonesia (IDX)", "Scrape 900+ saham IHSG & Ringkasan Perdagangan/Broker"),
         ("Pluang (Saham AS)",          "https://pluang.com/saham-as"),
     ]
+
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        info("Menjalankan semua sumber Saham secara sekuensial (CI Mode)...")
+        
+        ok("Memulai scraping data dari Bursa Efek Indonesia (IDX)...")
+        from scrape_idx import scrape_idx_all
+        res = scrape_idx_all()
+        if res:
+            timestamp = int(time.time())
+            save_dir = os.path.join(OUTPUT_DIR, "saham")
+            os.makedirs(save_dir, exist_ok=True)
+            out_path = os.path.join(save_dir, f"idx_combined_{timestamp}.json")
+            with open(out_path, "w", encoding="utf-8") as f:
+                json.dump(res, f, ensure_ascii=False, indent=2)
+            
+            size = round(os.path.getsize(out_path) / 1024, 1)
+            show_result("IDX SCRAPE BERHASIL (Metadata + Summary + Broker)", out_path, 1)
+            info(f"Ukuran file : {size} KB")
+            info(f"Total Saham : {res['metadata']['total_stocks']}")
+            info(f"Total Broker: {res['metadata']['total_brokers']}")
+        else:
+            err("Gagal scrape data IDX.")
+            sys.exit(1)
+            
+        name, url = sources[1]
+        print()
+        _scrape_single_url("Pluang", url, subfolder="saham", technique="ssr")
+        return
 
     print(f"  {Fore.CYAN}Pilih sumber:{Style.RESET_ALL}\n")
     for i, (name, url) in enumerate(sources, 1):
@@ -2588,6 +2638,7 @@ def run_push_github():
     print(f"  {Fore.CYAN}Pilih mode Push GitHub:{Style.RESET_ALL}")
     print(f"    {Fore.YELLOW}1{Style.RESET_ALL}. Push 1 Kategori Spesifik (Klasik)")
     print(f"    {Fore.YELLOW}2{Style.RESET_ALL}. Push GABUNGAN (Beberapa Kategori dlm 1 Repo)")
+    print(f"    {Fore.YELLOW}3{Style.RESET_ALL}. {Fore.RED}Bersihkan Repository (Hapus Semua File & Repo){Style.RESET_ALL}")
     print(f"    {Fore.YELLOW}0{Style.RESET_ALL}. Batal\n")
     
     mode_choice = ask("Pilihan", "1")
@@ -2598,6 +2649,8 @@ def run_push_github():
         _run_push_single()
     elif mode_choice == "2":
         _run_push_combined()
+    elif mode_choice == "3":
+        _run_clear_repo()
     else:
         err("Pilihan tidak valid")
         time.sleep(1)
@@ -2701,51 +2754,69 @@ def _run_push_combined():
     print(f"  {Fore.CYAN}(Ketik angka dipisah koma, contoh: 1,3,4 atau 'all'){Style.RESET_ALL}\n")
 
     choice = ask("Pilihan Anda")
-    if choice.strip() == "0": return
-    
-    selected_indices = []
-    if choice.strip().lower() == "all":
-        selected_indices = list(range(len(recent_files)))
+    if choice == "0": return
+
+    if choice.lower() == 'all':
+        selected_files = recent_files
     else:
-        try:
-            raw_indices = [int(x.strip()) - 1 for x in choice.split(",") if x.strip()]
-            for idx in raw_indices:
+        parts = [p.strip() for p in choice.split(",") if p.strip()]
+        selected_files = []
+        for p in parts:
+            try:
+                idx = int(p) - 1
                 if 0 <= idx < len(recent_files):
-                    if idx not in selected_indices:
-                        selected_indices.append(idx)
-        except Exception:
-            err("Format angka tidak valid.")
-            input(f"  {Fore.YELLOW}[Enter untuk kembali]{Style.RESET_ALL}")
-            return
-            
-    if not selected_indices:
-        err("Tidak ada file yang valid dipilih.")
+                    selected_files.append(recent_files[idx])
+            except ValueError:
+                pass
+                
+    if not selected_files:
+        err("Tidak ada file valid yang dipilih.")
+        input(f"  {Fore.YELLOW}[Enter untuk kembali]{Style.RESET_ALL}")
         return
-        
-    info(f"Terdapat {Fore.GREEN}{len(selected_indices)} file{Style.RESET_ALL} yang dipilih untuk digabungkan.")
+
+    info(f"Terdapat {len(selected_files)} file yang dipilih untuk digabungkan.")
     
     repo_url = _ask_repo_url()
     if not repo_url: return
     
+    # Kumpulkan custom target file names
     files_to_copy = []
-    for idx in selected_indices:
-        src = recent_files[idx]
-        default_target = os.path.basename(src)
-        target_name = ask(f"Nama endpoint untuk file {Fore.MAGENTA}{default_target}{Style.RESET_ALL}? [{default_target}]", default_target)
-        if not target_name: target_name = default_target
+    for fpath in selected_files:
+        default_name = os.path.basename(fpath)
+        cat = _get_category_from_path(fpath)
+        target_name = ask(f"Nama endpoint untuk file {default_name}? [{default_name}]", default_name)
+        if not target_name: target_name = default_name
         if not target_name.endswith(".json"): target_name += ".json"
         
-        cat = _get_category_from_path(src)
-        files_to_copy.append({"source": src, "target": target_name, "category": cat})
+        files_to_copy.append({"source": fpath, "target": target_name, "category": cat})
         
     repo_url = _setup_github_auth(repo_url)
     if not repo_url: return
     
-    print()
     res = push_to_github(repo_url, files_to_copy)
-    if not res: warn("Periksa pesan error di log push.")
+    if not res: warn("Silakan periksa error log.")
     input(f"\n  {Fore.YELLOW}[Enter untuk kembali]{Style.RESET_ALL}")
 
+def _run_clear_repo():
+    if not clear_github_repo:
+        err("Fungsi clear_github_repo tidak ditemukan di push_github.py")
+        input(f"  {Fore.YELLOW}[Enter untuk kembali]{Style.RESET_ALL}")
+        return
+        
+    print(f"\n  {Fore.RED}PERINGATAN: Fitur ini akan menghapus SECARA PERMANEN seluruh isi target repository Anda (kecuali settingan .git).{Style.RESET_ALL}")
+    confirm = ask("Apakah Anda benar-benar yakin ingin melanjutkannya? (Y/N)", "N")
+    if confirm.strip().upper() != "Y":
+        return
+        
+    repo_url = _ask_repo_url()
+    if not repo_url: return
+    
+    repo_url = _setup_github_auth(repo_url)
+    if not repo_url: return
+    
+    res = clear_github_repo(repo_url)
+    if not res: warn("Silakan periksa error log.")
+    input(f"\n  {Fore.YELLOW}[Enter untuk kembali]{Style.RESET_ALL}")
 
 def _ask_repo_url():
     repo_url = ask("Masukkan URL Repository GitHub (contoh: https://github.com/user/repo)")

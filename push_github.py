@@ -50,6 +50,12 @@ def format_github_url(url: str) -> str:
          url += ".git"
     return url
 
+def force_rmtree(action, name, exc):
+    """Callback for shutil.rmtree to forcefully remove read-only files (.git on Windows)"""
+    import stat
+    os.chmod(name, stat.S_IWRITE)
+    os.remove(name)
+
 def push_to_github(repo_url: str, files_to_copy: list):
     """
     Meng-clone repo, copy multiple file scrape ke repo, commit, lalu push back.
@@ -75,7 +81,7 @@ def push_to_github(repo_url: str, files_to_copy: list):
     tmp_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".tmp_git_push")
     if os.path.exists(tmp_dir):
         # Bersihkan folder temp sisa push sebelumnya jika ada
-        shutil.rmtree(tmp_dir, ignore_errors=True)
+        shutil.rmtree(tmp_dir, onerror=force_rmtree)
         time.sleep(0.5)
         
     os.makedirs(tmp_dir, exist_ok=True)
@@ -96,6 +102,21 @@ def push_to_github(repo_url: str, files_to_copy: list):
         # Cari branch utama (bisa main atau master)
         branch_out, success = run_git_command(["branch", "--show-current"], repo_dir)
         current_branch = branch_out if success and branch_out else "main"
+        
+        # ── 2.5 CLEAR EXISTING REPO FILES ──
+        warn("Membersihkan file lama dari repository untuk menghindari penumpukan...")
+        for item in os.listdir(repo_dir):
+            if item == ".git":
+                continue
+            item_path = os.path.join(repo_dir, item)
+            if os.path.isdir(item_path):
+                shutil.rmtree(item_path, onerror=force_rmtree)
+            else:
+                try:
+                    os.chmod(item_path, stat.S_IWRITE)
+                    os.remove(item_path)
+                except:
+                    pass
         
         # ── 3. COPY FILE ──
         for fobj in files_to_copy:
@@ -187,6 +208,7 @@ jobs:
       contents: write
     env:
       TZ: "Asia/Jakarta"
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
       
     steps:
       - name: Checkout repository
@@ -256,7 +278,8 @@ jobs:
         # Check jika ada perubahan
         status_out, _ = run_git_command(["status", "--porcelain"], repo_dir)
         if not status_out.strip():
-            ok(f"File {target_filename} sudah up-to-date di repository. Tidak ada push yang diperlukan.")
+            target_display = files_to_copy[0]['target'] if len(files_to_copy) == 1 else "Gabungan File"
+            ok(f"File {target_display} sudah up-to-date di repository. Tidak ada push yang diperlukan.")
             return True
             
         # Commit
@@ -277,27 +300,113 @@ jobs:
             try:
                 path_parts = urlparse(clean_repo_url).path.strip("/").replace(".git", "")
                 for fobj in files_to_copy:
-                    tgt = fobj["target"]
-                    raw_url = f"https://raw.githubusercontent.com/{path_parts}/refs/heads/{current_branch}/{tgt}"
-                    print(f"  {Fore.CYAN}🔗 {tgt} Raw/API Link : {raw_url}{Style.RESET_ALL}")
-                print(f"  {Fore.CYAN}🔗 GitHub Link : https://github.com/{path_parts}{Style.RESET_ALL}\n")
-            except Exception:
-                 pass # Fallback jika parsing raw link gagal
-                 
+                    raw_url = f"https://raw.githubusercontent.com/{path_parts}/refs/heads/{current_branch}/{fobj['target']}"
+                    print(f"  {Fore.CYAN}🔗 {fobj['target']} Raw/API Link{Style.RESET_ALL} : {Fore.BLUE}{Style.BRIGHT}{raw_url}{Style.RESET_ALL}")
+                print(f"  {Fore.CYAN}🔗 GitHub Link{Style.RESET_ALL}                  : {Fore.BLUE}{Style.BRIGHT}https://github.com/{path_parts}{Style.RESET_ALL}")
+            except Exception as e:
+                pass
+                
             return True
         else:
-            err(f"Gagal push ke repository target.\nSila verifikasi kredensial git (username/token) di sistem Anda.\nGit Error: {stdout}")
+            err(f"Gagal melakukan push.\nGit Error: {stdout}")
             return False
+
+    except Exception as e:
+        err(f"Terjadi kesalahan saat push ke GitHub: {e}")
+        return False
+
+
+def clear_github_repo(repo_url: str):
+    """
+    Meng-clone repo, menghapus seluruh file (kecuali .git), commit, lalu push back
+    untuk membersihkan repository secara total.
+    """
+    if not is_valid_github_url(repo_url):
+        err("URL tidak valid. Pastikan itu adalah URL repository GitHub (misal: https://github.com/user/repo).")
+        return False
+        
+    clean_repo_url = format_github_url(repo_url)
+    
+    # ── 1. SETUP TEMP WOKRSPACE ──
+    tmp_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".tmp_git_push")
+    if os.path.exists(tmp_dir):
+        shutil.rmtree(tmp_dir, onerror=force_rmtree)
+        time.sleep(0.5)
+        
+    os.makedirs(tmp_dir, exist_ok=True)
+    
+    try:
+        info(f"Mempersiapkan penghapusan untuk repository target: {Fore.CYAN}{clean_repo_url}{Style.RESET_ALL}")
+        
+        # ── 2. CLONE (SHALLOW) ──
+        warn("Melakukan git clone (depth=1) untuk kecepatan...")
+        stdout, success = run_git_command(["clone", "--depth", "1", clean_repo_url, "repo"], tmp_dir)
+        if not success:
+            err(f"Gagal clone repository. Pastikan URL benar dan Anda punya akses.\nGit Error: {stdout}")
+            return False
+            
+        repo_dir = os.path.join(tmp_dir, "repo")
+        
+        branch_out, success = run_git_command(["branch", "--show-current"], repo_dir)
+        current_branch = branch_out if success and branch_out else "main"
+        
+        # ── 3. WIPE FILES ──
+        warn("Menghapus seluruh file dan folder di dalam repository...")
+        deleted_count = 0
+        for item in os.listdir(repo_dir):
+            if item == ".git":
+                continue
+            item_path = os.path.join(repo_dir, item)
+            if os.path.isdir(item_path):
+                shutil.rmtree(item_path, onerror=force_rmtree)
+                deleted_count += 1
+            else:
+                try:
+                    import stat
+                    os.chmod(item_path, stat.S_IWRITE)
+                    os.remove(item_path)
+                    deleted_count += 1
+                except:
+                    pass
+                    
+        if deleted_count == 0:
+            ok("Repository sudah dalam keadaan kosong. Tidak ada yang perlu dihapus.")
+            return True
+
+        # ── 4. COMMIT & PUSH ──
+        warn("Menyiapkan commit untuk penghapusan massal...")
+        _, success = run_git_command(["add", "-u"], repo_dir)
+        _, success2 = run_git_command(["add", "."], repo_dir)
+        
+        status_out, _ = run_git_command(["status", "--porcelain"], repo_dir)
+        if not status_out.strip():
+            ok("Repository sudah up-to-date (sudah kosong).")
+            return True
+            
+        commit_msg = f"bot: Clear repository [{int(time.time())}]"
+        stdout, success = run_git_command(["commit", "-m", commit_msg], repo_dir)
+        if not success:
+            err(f"Gagal melakukan commit.\nGit Error: {stdout}")
+            return False
+            
+        info(f"Melakukan push penghapusan ke branch '{current_branch}'...")
+        stdout, success = run_git_command(["push", "origin", current_branch], repo_dir)
+        
+        if success:
+            ok("Pembersihan berhasil! Repository sekarang kosong.")
+            return True
+        else:
+            err(f"Gagal melakukan push.\nGit Error: {stdout}")
+            return False
+
+    except Exception as e:
+        err(f"Terjadi kesalahan saat membersihkan GitHub repo: {e}")
+        return False
+
             
     finally:
         # ── 5. TEMPORARY FOLDER CLEANUP ──
-        try:
+        if os.path.exists(tmp_dir):
              # Paksa lepas read-only files (seperti .git objects) sebelum rmtree di Windows
-             def remove_readonly(func, path, excinfo):
-                 import os, stat
-                 os.chmod(path, stat.S_IWRITE)
-                 func(path)
-             shutil.rmtree(tmp_dir, onerror=remove_readonly)
-        except Exception as e:
              # Folder temp mungkin error di lock oleh windows OS sebentar, abaikan saja
              pass
