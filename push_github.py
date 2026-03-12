@@ -239,19 +239,20 @@ jobs:
             cat = fobj["category"]
             tgt = fobj["target"]
             src_file = os.path.basename(fobj["source"])
-            # Remove trailing timestamps (e.g. galeri24_co_id_1773010101.json -> galeri24_co_id)
+            # Remove trailing timestamps (e.g. galeri24_co_id_harga-emas_1773010101.json -> galeri24_co_id_harga-emas)
             base_pattern = re.sub(r'_[0-9]+\.json$', '', src_file)
             if base_pattern == src_file: 
                 base_pattern = src_file.replace('.json', '')
             
+            # Use a more specific glob: match the exact base_pattern followed by an underscore and numbers
             yml_content += f"""
           echo "Processing {tgt}..."
-          new_file_{i}=$(ls -t hasil_scrape/{cat}/*{base_pattern}*.json 2>/dev/null | head -1 || true)
+          new_file_{i}=$(ls -t hasil_scrape/{cat}/{base_pattern}_[0-9]*.json 2>/dev/null | head -1 || true)
           if [ -z "$new_file_{i}" ]; then
-              new_file_{i}=$(ls -t hasil_scrape/*/*{base_pattern}*.json 2>/dev/null | head -1 || true)
+              new_file_{i}=$(ls -t hasil_scrape/*/{base_pattern}_[0-9]*.json 2>/dev/null | head -1 || true)
           fi
           if [ -z "$new_file_{i}" ]; then
-              # Ultimate fallback: category newest
+              # Ultimate fallback: category newest if specific pattern fails
               new_file_{i}=$(ls -t hasil_scrape/{cat}/*.json 2>/dev/null | head -1 || true)
           fi
           

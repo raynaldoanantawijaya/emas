@@ -36,6 +36,7 @@ import re
 import glob
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse
 
 # Push GitHub Module
 try:
@@ -1143,13 +1144,21 @@ def _scrape_single_url(name: str, url: str, subfolder: str = ""):
         return
 
     # ── Simpan ──
-    domain_slug = _domain(url).replace(".", "_")
+    # Buat slug dari domain + path agar unik jika satu domain ada beberapa URL
+    parsed = urlparse(url)
+    domain_slug = parsed.netloc.replace(".", "_")
+    path_slug = parsed.path.strip("/").replace("/", "_").replace(".", "_")
+    
+    file_base = f"{domain_slug}_{path_slug}" if path_slug else domain_slug
+    # Bersihkan file_base dari karakter ilegal jika ada
+    file_base = re.sub(r'[^\w\-]', '_', file_base).strip("_")
+
     if subfolder:
         save_dir = os.path.join(OUTPUT_DIR, subfolder)
         os.makedirs(save_dir, exist_ok=True)
-        out_path = os.path.join(save_dir, f"{domain_slug}_{timestamp}.json")
+        out_path = os.path.join(save_dir, f"{file_base}_{timestamp}.json")
     else:
-        out_path = os.path.join(OUTPUT_DIR, f"{domain_slug}_{timestamp}.json")
+        out_path = os.path.join(OUTPUT_DIR, f"{file_base}_{timestamp}.json")
     
     out = {
         "metadata": {"url": url, "source": name,
@@ -1208,7 +1217,7 @@ def run_scrape_emas():
     print_header("① SCRAPE HARGA EMAS")
 
     sources = [
-        ("Galeri24",          "https://galeri24.co.id/"),
+        ("Galeri24",          "https://galeri24.co.id/harga-emas"),
         ("Harga-Emas.org",    "https://harga-emas.org/"),
         ("Antam Logam Mulia", "https://www.logammulia.com/id/harga-emas-hari-ini"),
     ]
