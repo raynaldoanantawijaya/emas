@@ -197,7 +197,7 @@ def push_to_github(repo_url: str, files_to_copy: list):
         yml_content = f"""name: Standalone Scraper ({combo_name})
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 on:
   schedule:
@@ -211,6 +211,7 @@ jobs:
       contents: write
     env:
       TZ: "Asia/Jakarta"
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
       
     steps:
       - name: Checkout repository
