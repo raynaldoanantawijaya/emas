@@ -1,0 +1,97 @@
+name: Standalone Scraper (emas)
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      TZ: "Asia/Jakarta"
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Install Playwright
+        run: playwright install chromium --with-deps
+      - name: Run Scraper (EMAS)
+        run: python menu.py --emas
+        
+      - name: Commit & Push New JSON Data
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          echo "Processing galeri24_co_id_harga-emas_1773373111.json..."
+          new_file_0=$(ls -t hasil_scrape/emas/galeri24_co_id_harga-emas_[0-9]*.json 2>/dev/null | head -1 || true)
+          if [ -z "$new_file_0" ]; then
+              new_file_0=$(ls -t hasil_scrape/*/galeri24_co_id_harga-emas_[0-9]*.json 2>/dev/null | head -1 || true)
+          fi
+          if [ -z "$new_file_0" ]; then
+              # Ultimate fallback: category newest if specific pattern fails
+              new_file_0=$(ls -t hasil_scrape/emas/*.json 2>/dev/null | head -1 || true)
+          fi
+          
+          if [ -n "$new_file_0" ] && [ -f "$new_file_0" ]; then
+             echo "Updating galeri24_co_id_harga-emas_1773373111.json with $new_file_0"
+             cp "$new_file_0" "galeri24_co_id_harga-emas_1773373111.json"
+             git add "galeri24_co_id_harga-emas_1773373111.json"
+          else
+             echo "Warning: Could not find output for pattern 'galeri24_co_id_harga-emas'"
+          fi
+
+          echo "Processing www_logammulia_com_id_harga-emas-hari-ini_1773373089.json..."
+          new_file_1=$(ls -t hasil_scrape/emas/www_logammulia_com_id_harga-emas-hari-ini_[0-9]*.json 2>/dev/null | head -1 || true)
+          if [ -z "$new_file_1" ]; then
+              new_file_1=$(ls -t hasil_scrape/*/www_logammulia_com_id_harga-emas-hari-ini_[0-9]*.json 2>/dev/null | head -1 || true)
+          fi
+          if [ -z "$new_file_1" ]; then
+              # Ultimate fallback: category newest if specific pattern fails
+              new_file_1=$(ls -t hasil_scrape/emas/*.json 2>/dev/null | head -1 || true)
+          fi
+          
+          if [ -n "$new_file_1" ] && [ -f "$new_file_1" ]; then
+             echo "Updating www_logammulia_com_id_harga-emas-hari-ini_1773373089.json with $new_file_1"
+             cp "$new_file_1" "www_logammulia_com_id_harga-emas-hari-ini_1773373089.json"
+             git add "www_logammulia_com_id_harga-emas-hari-ini_1773373089.json"
+          else
+             echo "Warning: Could not find output for pattern 'www_logammulia_com_id_harga-emas-hari-ini'"
+          fi
+
+          echo "Processing harga-emas_org_1773373068.json..."
+          new_file_2=$(ls -t hasil_scrape/emas/harga-emas_org_[0-9]*.json 2>/dev/null | head -1 || true)
+          if [ -z "$new_file_2" ]; then
+              new_file_2=$(ls -t hasil_scrape/*/harga-emas_org_[0-9]*.json 2>/dev/null | head -1 || true)
+          fi
+          if [ -z "$new_file_2" ]; then
+              # Ultimate fallback: category newest if specific pattern fails
+              new_file_2=$(ls -t hasil_scrape/emas/*.json 2>/dev/null | head -1 || true)
+          fi
+          
+          if [ -n "$new_file_2" ] && [ -f "$new_file_2" ]; then
+             echo "Updating harga-emas_org_1773373068.json with $new_file_2"
+             cp "$new_file_2" "harga-emas_org_1773373068.json"
+             git add "harga-emas_org_1773373068.json"
+          else
+             echo "Warning: Could not find output for pattern 'harga-emas_org'"
+          fi
+
+          git diff --quiet && git diff --staged --quiet || (git commit -m "bot: Auto-update emas API endpoints" && git push)
