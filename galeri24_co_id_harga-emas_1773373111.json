@@ -3,17 +3,11 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-03-14T23:38:24.753365"
+    "scrape_date": "2026-03-15T03:34:55.663538"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
-      "https://galeri24.co.id/api/menu": {
-        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
-        "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
-        "createdAt": "2023-12-02T05:45:36.077Z",
-        "updatedAt": "2025-10-01T01:59:07.343Z"
-      },
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -128,6 +122,12 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
+      },
+      "https://galeri24.co.id/api/menu": {
+        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
+        "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
+        "createdAt": "2023-12-02T05:45:36.077Z",
+        "updatedAt": "2025-10-01T01:59:07.343Z"
       },
       "https://galeri24.co.id/api/banners": [
         {
@@ -2101,7 +2101,7 @@
       },
       [
         "Date",
-        "2026-03-14T16:38:04.135Z"
+        "2026-03-14T20:34:38.569Z"
       ],
       false,
       100,
