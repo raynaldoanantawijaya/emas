@@ -3,17 +3,55 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-03-16T12:52:15.988124"
+    "scrape_date": "2026-03-16T16:03:55.891592"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
-      "https://galeri24.co.id/api/menu": {
-        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
-        "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
-        "createdAt": "2023-12-02T05:45:36.077Z",
-        "updatedAt": "2025-10-01T01:59:07.343Z"
-      },
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "32ce45ac-5281-4402-96b2-1cb900d8be78",
+          "group": "HERO",
+          "title": ".",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (1).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/0795eb3e90b9755c7ef6ecde5f4efafd",
+          "createdAt": "2026-03-03T01:57:12.074Z",
+          "updatedAt": "2026-03-04T06:26:59.112Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "DIGITAL.jpg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2025-06-03T11:52:00.921Z"
+        }
+      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -129,50 +167,12 @@
           }
         ]
       },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "32ce45ac-5281-4402-96b2-1cb900d8be78",
-          "group": "HERO",
-          "title": ".",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (1).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/0795eb3e90b9755c7ef6ecde5f4efafd",
-          "createdAt": "2026-03-03T01:57:12.074Z",
-          "updatedAt": "2026-03-04T06:26:59.112Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "DIGITAL.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2025-06-03T11:52:00.921Z"
-        }
-      ]
+      "https://galeri24.co.id/api/menu": {
+        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
+        "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
+        "createdAt": "2023-12-02T05:45:36.077Z",
+        "updatedAt": "2025-10-01T01:59:07.343Z"
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2159,7 +2159,7 @@
       },
       [
         "Date",
-        "2026-03-16T05:51:59.113Z"
+        "2026-03-16T09:03:38.535Z"
       ],
       false,
       100,
