@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-03-17T12:24:14.471686"
+    "scrape_date": "2026-03-17T15:59:08.426098"
   },
   "data": {
     "technique": "network_capture",
@@ -131,18 +131,18 @@
       },
       "https://galeri24.co.id/api/banners": [
         {
-          "id": "32ce45ac-5281-4402-96b2-1cb900d8be78",
+          "id": "5b4ebbf0-516f-40f5-a112-731854d34fd2",
           "group": "HERO",
-          "title": ".",
+          "title": "Libur Lebaran",
           "description": "-",
           "orderNumber": 0,
           "ctaLabel": "",
           "ctaUrl": "",
-          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (1).png",
+          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (2).png",
           "imageMimeType": "image/png",
-          "imagePath": "images/0795eb3e90b9755c7ef6ecde5f4efafd",
-          "createdAt": "2026-03-03T01:57:12.074Z",
-          "updatedAt": "2026-03-04T06:26:59.112Z"
+          "imagePath": "images/b10252fa88c2b24762651abd33942a57",
+          "createdAt": "2026-03-17T07:37:43.181Z",
+          "updatedAt": "2026-03-17T07:37:43.181Z"
         },
         {
           "id": "cf4b1863-0955-429f-a021-0921485c6007",
@@ -2142,7 +2142,7 @@
       },
       [
         "Date",
-        "2026-03-17T05:23:54.901Z"
+        "2026-03-17T08:58:50.992Z"
       ],
       false,
       100,
