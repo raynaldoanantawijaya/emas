@@ -3,11 +3,55 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-03-18T12:28:42.633624"
+    "scrape_date": "2026-03-18T15:57:04.259055"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "5b4ebbf0-516f-40f5-a112-731854d34fd2",
+          "group": "HERO",
+          "title": "Libur Lebaran",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/b10252fa88c2b24762651abd33942a57",
+          "createdAt": "2026-03-17T07:37:43.181Z",
+          "updatedAt": "2026-03-17T07:37:43.181Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "DIGITAL.jpg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2025-06-03T11:52:00.921Z"
+        }
+      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -128,51 +172,7 @@
         "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
         "createdAt": "2023-12-02T05:45:36.077Z",
         "updatedAt": "2025-10-01T01:59:07.343Z"
-      },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "5b4ebbf0-516f-40f5-a112-731854d34fd2",
-          "group": "HERO",
-          "title": "Libur Lebaran",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/b10252fa88c2b24762651abd33942a57",
-          "createdAt": "2026-03-17T07:37:43.181Z",
-          "updatedAt": "2026-03-17T07:37:43.181Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "DIGITAL.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2025-06-03T11:52:00.921Z"
-        }
-      ]
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2159,7 +2159,7 @@
       },
       [
         "Date",
-        "2026-03-18T05:28:24.557Z"
+        "2026-03-18T08:56:47.055Z"
       ],
       false,
       100,
