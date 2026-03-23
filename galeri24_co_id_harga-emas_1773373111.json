@@ -3,11 +3,69 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-03-23T23:59:50.550944"
+    "scrape_date": "2026-03-24T03:42:56.515869"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "5b4ebbf0-516f-40f5-a112-731854d34fd2",
+          "group": "HERO",
+          "title": "Libur Lebaran",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/b10252fa88c2b24762651abd33942a57",
+          "createdAt": "2026-03-17T07:37:43.181Z",
+          "updatedAt": "2026-03-17T07:37:43.181Z"
+        },
+        {
+          "id": "8fb87c9a-b2e7-43c5-853d-0b655badbbb5",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "benner web.jpeg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/ba0d21e6b1f56d2d84a382983acd2248",
+          "createdAt": "2026-03-18T10:22:00.225Z",
+          "updatedAt": "2026-03-18T10:23:20.229Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "DIGITAL.jpg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2025-06-03T11:52:00.921Z"
+        }
+      ],
       "https://galeri24.co.id/api/menu": {
         "id": "8229e558-afe7-413e-af28-d590bbb12b79",
         "menuTree": "[{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"}},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"}},{\"label\":\"Download Apps\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"downloadapp\"},\"urlLink\":\"dev-ecorp.g24sys.com/informasi/downloadapp\"}]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi MIsi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]}]",
@@ -128,65 +186,7 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
-      },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "5b4ebbf0-516f-40f5-a112-731854d34fd2",
-          "group": "HERO",
-          "title": "Libur Lebaran",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Banner Website- Emaskan THR mu (966 x 575 piksel) (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/b10252fa88c2b24762651abd33942a57",
-          "createdAt": "2026-03-17T07:37:43.181Z",
-          "updatedAt": "2026-03-17T07:37:43.181Z"
-        },
-        {
-          "id": "8fb87c9a-b2e7-43c5-853d-0b655badbbb5",
-          "group": "HERO",
-          "title": ".",
-          "description": "",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "benner web.jpeg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/ba0d21e6b1f56d2d84a382983acd2248",
-          "createdAt": "2026-03-18T10:22:00.225Z",
-          "updatedAt": "2026-03-18T10:23:20.229Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "DIGITAL.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2025-06-03T11:52:00.921Z"
-        }
-      ]
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2172,7 +2172,7 @@
       },
       [
         "Date",
-        "2026-03-23T16:59:32.475Z"
+        "2026-03-23T20:42:38.996Z"
       ],
       false,
       100,
