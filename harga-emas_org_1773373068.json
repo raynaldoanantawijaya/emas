@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-03-27T09:46:10.824512"
+    "scrape_date": "2026-03-27T12:44:56.010056"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.430,07(-84,25)",
-            "IDR": "75.003.843,92(-1.247.599,02)"
+            "USD": "4.472,68(-20,01)",
+            "IDR": "75.818.893,42(-92.199,73)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "142,43(-2,71)",
-            "IDR": "2.411.429,58(-40.111,24)"
+            "USD": "143,8(-0,64)",
+            "IDR": "2.437.634,03(-2.964,29)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "142.430,06(-2.708,7)",
-            "IDR": "2.411.429.580(-40.111.240)"
+            "USD": "143.800(-643,34)",
+            "IDR": "2.437.634.030(-2.964.290)"
           }
         ]
       },
@@ -44,62 +44,62 @@
           {
             "Satuan Gram": "1000",
             "Antam per Gram (Rp)": "2.750.600.000",
-            "Pegadaian per Gram (Rp)": "2.739.976.000"
+            "Pegadaian per Gram (Rp)": "2.708.422.000"
           },
           {
             "Satuan Gram": "500",
             "Antam per Gram (Rp)": "1.375.320.000",
-            "Pegadaian per Gram (Rp)": "1.369.989.000"
+            "Pegadaian per Gram (Rp)": "1.354.211.000"
           },
           {
             "Satuan Gram": "250",
             "Antam per Gram (Rp)": "687.765.000",
-            "Pegadaian per Gram (Rp)": "684.995.000"
+            "Pegadaian per Gram (Rp)": "677.106.000"
           },
           {
             "Satuan Gram": "100",
             "Antam per Gram (Rp)": "275.212.000",
-            "Pegadaian per Gram (Rp)": "274.673.000"
+            "Pegadaian per Gram (Rp)": "271.510.000"
           },
           {
             "Satuan Gram": "50",
             "Antam per Gram (Rp)": "137.645.000",
-            "Pegadaian per Gram (Rp)": "137.404.000"
+            "Pegadaian per Gram (Rp)": "135.822.000"
           },
           {
             "Satuan Gram": "25",
             "Antam per Gram (Rp)": "68.862.000",
-            "Pegadaian per Gram (Rp)": "68.756.000"
+            "Pegadaian per Gram (Rp)": "67.965.000"
           },
           {
             "Satuan Gram": "10",
             "Antam per Gram (Rp)": "28.600.000",
-            "Pegadaian per Gram (Rp)": "27.652.000"
+            "Pegadaian per Gram (Rp)": "27.333.000"
           },
           {
             "Satuan Gram": "5",
             "Antam per Gram (Rp)": "14.798.000",
-            "Pegadaian per Gram (Rp)": "13.863.000"
+            "Pegadaian per Gram (Rp)": "13.703.000"
           },
           {
             "Satuan Gram": "2",
             "Antam per Gram (Rp)": "5.560.000",
-            "Pegadaian per Gram (Rp)": "5.586.000"
+            "Pegadaian per Gram (Rp)": "5.522.000"
           },
           {
             "Satuan Gram": "1",
             "Antam per Gram (Rp)": "2.960.000",
-            "Pegadaian per Gram (Rp)": "2.827.000"
+            "Pegadaian per Gram (Rp)": "2.795.000"
           },
           {
             "Satuan Gram": "0.5",
             "Antam per Gram (Rp)": "1.525.000",
-            "Pegadaian per Gram (Rp)": "1.483.000"
+            "Pegadaian per Gram (Rp)": "1.466.000"
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:27 Maret 2026 pukul 02.31Harga pembelian kembali:Rp2.664.000/grm",
-            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:26 Maret 2026"
+            "Antam per Gram (Rp)": "Update harga LM Antam:27 Maret 2026 pukul 05.31Harga pembelian kembali:Rp2.664.000/grm",
+            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:27 Maret 2026"
           }
         ]
       },
@@ -268,78 +268,78 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "11700",
-            "Jual": "11728"
+            "Beli": "11638",
+            "Jual": "11666"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12194",
-            "Jual": "12223"
+            "Beli": "12208",
+            "Jual": "12237"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21288",
-            "Jual": "21334"
+            "Beli": "21276",
+            "Jual": "21323"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2579",
-            "Jual": "2644"
+            "Beli": "2581",
+            "Jual": "2646"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19494",
-            "Jual": "19536"
+            "Beli": "19510",
+            "Jual": "19551"
           },
           {
             "Kurs": "GBP",
-            "Beli": "22524",
-            "Jual": "22571"
+            "Beli": "22558",
+            "Jual": "22606"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2153.42",
-            "Jual": "2163.34"
+            "Beli": "2157.92",
+            "Jual": "2167.83"
           },
           {
             "Kurs": "JPY",
-            "Beli": "105.72",
-            "Jual": "105.97"
+            "Beli": "105.97",
+            "Jual": "106.23"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4229",
-            "Jual": "4251"
+            "Beli": "4216",
+            "Jual": "4235"
           },
           {
             "Kurs": "NZD",
-            "Beli": "9777",
-            "Jual": "9803"
+            "Beli": "9740",
+            "Jual": "9765"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4489",
-            "Jual": "4508"
+            "Beli": "4502",
+            "Jual": "4522"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1779",
-            "Jual": "1830"
+            "Beli": "1769",
+            "Jual": "1819"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13153",
-            "Jual": "13184"
+            "Beli": "13154",
+            "Jual": "13185"
           },
           {
             "Kurs": "THB",
-            "Beli": "512.18",
-            "Jual": "516.33"
+            "Beli": "511.2",
+            "Jual": "515.42"
           },
           {
             "Kurs": "USD",
-            "Beli": "16860",
-            "Jual": "16890"
+            "Beli": "16915",
+            "Jual": "16945"
           }
         ]
       },
@@ -353,78 +353,78 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "11.6124",
-            "Jual": "11.6584"
+            "Beli": "11.6962",
+            "Jual": "11.7078"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.1806",
-            "Jual": "12.2259"
+            "Beli": "12.2303",
+            "Jual": "12.2421"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.2228",
-            "Jual": "21.3109"
+            "Beli": "21.2957",
+            "Jual": "21.3209"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.5866",
-            "Jual": "2.6325"
+            "Beli": "2.5985",
+            "Jual": "2.6369"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19.4643",
-            "Jual": "19.5361"
+            "Beli": "19.5542",
+            "Jual": "19.57"
           },
           {
             "Kurs": "GBP",
-            "Beli": "22.5045",
-            "Jual": "22.5917"
+            "Beli": "22.6062",
+            "Jual": "22.625"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.1558",
-            "Jual": "2.1634"
+            "Beli": "2.1646",
+            "Jual": "2.1657"
           },
           {
             "Kurs": "JPY",
-            "Beli": "10574",
-            "Jual": "10613"
+            "Beli": "10617",
+            "Jual": "10627"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4.2032",
-            "Jual": "4.2343"
+            "Beli": "4.2219",
+            "Jual": "4.2395"
           },
           {
             "Kurs": "NZD",
-            "Beli": "9.7168",
-            "Jual": "9.7572"
+            "Beli": "9.777",
+            "Jual": "9.7885"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.4956",
-            "Jual": "4.5163"
+            "Beli": "4.5156",
+            "Jual": "4.5229"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.7684",
-            "Jual": "1.8136"
+            "Beli": "1.7783",
+            "Jual": "1.8183"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.1226",
-            "Jual": "13.1756"
+            "Beli": "13.1835",
+            "Jual": "13.1976"
           },
           {
             "Kurs": "THB",
-            "Beli": "51142",
-            "Jual": "51465"
+            "Beli": "51557",
+            "Jual": "51699"
           },
           {
             "Kurs": "USD",
-            "Beli": "16.87",
-            "Jual": "16.94"
+            "Beli": "16.945",
+            "Jual": "16.965"
           }
         ]
       },
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2525759,
+          "price": 2530331,
           "priceCurrency": "IDR"
         },
         "provider": {
