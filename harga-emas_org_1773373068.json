@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-03-27T15:59:50.326229"
+    "scrape_date": "2026-03-27T20:16:39.666122"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.432,32(-4,09)",
-            "IDR": "75.253.143,89(+304.249,86)"
+            "USD": "4.431,03(+2,96)",
+            "IDR": "75.290.393,72(+367.199,56)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "142,5(-0,13)",
-            "IDR": "2.419.444,76(+9.781,86)"
+            "USD": "142,46(+0,1)",
+            "IDR": "2.420.642,37(+11.805,74)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "142.502,4(-131,5)",
-            "IDR": "2.419.444.760(+9.781.860)"
+            "USD": "142.460,92(+95,17)",
+            "IDR": "2.420.642.370(+11.805.740)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:27 Maret 2026 pukul 08.31Harga pembelian kembali:Rp2.664.000/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:27 Maret 2026 pukul 13.02Harga pembelian kembali:Rp2.664.000/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:27 Maret 2026"
           }
         ]
@@ -353,78 +353,78 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "11.7033",
-            "Jual": "11.7132"
+            "Beli": "11.6061",
+            "Jual": "11.7832"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.2599",
-            "Jual": "12.2718"
+            "Beli": "12.1627",
+            "Jual": "12.3247"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.3199",
-            "Jual": "21.3372"
+            "Beli": "21.1505",
+            "Jual": "21.4515"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.5997",
-            "Jual": "2.6381"
+            "Beli": "2.6026",
+            "Jual": "2.631"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19.5617",
-            "Jual": "19.5774"
+            "Beli": "19.432",
+            "Jual": "19.6752"
           },
           {
             "Kurs": "GBP",
-            "Beli": "22.6123",
-            "Jual": "22.6277"
+            "Beli": "22.4699",
+            "Jual": "22.6363"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.1684",
-            "Jual": "2.1696"
+            "Beli": "2.1551",
+            "Jual": "2.18"
           },
           {
             "Kurs": "JPY",
-            "Beli": "10617",
-            "Jual": "10626"
+            "Beli": "10546",
+            "Jual": "10702"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4.2273",
-            "Jual": "4.2438"
+            "Beli": "4.2073",
+            "Jual": "4.255"
           },
           {
             "Kurs": "NZD",
-            "Beli": "9.7909",
-            "Jual": "9.8008"
+            "Beli": "9.6965",
+            "Jual": "9.8419"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.5236",
-            "Jual": "4.5309"
+            "Beli": "4.4984",
+            "Jual": "4.5518"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.7819",
-            "Jual": "1.8213"
+            "Beli": "1.7753",
+            "Jual": "1.8216"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.1956",
-            "Jual": "13.2097"
+            "Beli": "13.1024",
+            "Jual": "13.2758"
           },
           {
             "Kurs": "THB",
-            "Beli": "51523",
-            "Jual": "51711"
+            "Beli": "51165",
+            "Jual": "51994"
           },
           {
             "Kurs": "USD",
-            "Beli": "16.975",
-            "Jual": "16.995"
+            "Beli": "16.935",
+            "Jual": "17.025"
           }
         ]
       },
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2538661,
+          "price": 2540709,
           "priceCurrency": "IDR"
         },
         "provider": {
