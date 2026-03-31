@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-03-31T20:43:10.195007"
+    "scrape_date": "2026-04-01T00:04:09.272007"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.578,72(+20,15)",
-            "IDR": "77.669.941,89(+90.449,84)"
+            "USD": "4.638,65(+95,87)",
+            "IDR": "78.552.291,22(+1.352.398,77)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "147,21(+0,65)",
-            "IDR": "2.497.146,62(+2.908,03)"
+            "USD": "149,14(+3,08)",
+            "IDR": "2.525.514,81(+43.480,63)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "147.209,27(+647,84)",
-            "IDR": "2.497.146.620(+2.908.030)"
+            "USD": "149.136,06(+3.082,29)",
+            "IDR": "2.525.514.810(+43.480.630)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:31 Maret 2026 pukul 13.30Harga pembelian kembali:Rp2.679.300/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:31 Maret 2026 pukul 16.32Harga pembelian kembali:Rp2.679.300/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:31 Maret 2026"
           }
         ]
@@ -353,43 +353,43 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "11.634",
-            "Jual": "11.8225"
+            "Beli": "11.5882",
+            "Jual": "11.7764"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.141",
-            "Jual": "12.304"
+            "Beli": "12.1271",
+            "Jual": "12.2891"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.1521",
-            "Jual": "21.47"
+            "Beli": "21.0674",
+            "Jual": "21.3901"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.6072",
-            "Jual": "2.6403"
+            "Beli": "2.6099",
+            "Jual": "2.643"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19.4659",
-            "Jual": "19.7407"
+            "Beli": "19.4897",
+            "Jual": "19.7629"
           },
           {
             "Kurs": "GBP",
-            "Beli": "22.4056",
-            "Jual": "22.7222"
+            "Beli": "22.3122",
+            "Jual": "22.63"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.1596",
-            "Jual": "2.1863"
+            "Beli": "2.1595",
+            "Jual": "2.186"
           },
           {
             "Kurs": "JPY",
-            "Beli": "10608",
-            "Jual": "10770"
+            "Beli": "10629",
+            "Jual": "10791"
           },
           {
             "Kurs": "MYR",
@@ -398,28 +398,28 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "9.6619",
-            "Jual": "9.8495"
+            "Beli": "9.6347",
+            "Jual": "9.8238"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.5112",
-            "Jual": "4.5676"
+            "Beli": "4.5104",
+            "Jual": "4.5674"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.7683",
-            "Jual": "1.816"
+            "Beli": "1.7627",
+            "Jual": "1.8107"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.1305",
-            "Jual": "13.3206"
+            "Beli": "13.1198",
+            "Jual": "13.3098"
           },
           {
             "Kurs": "THB",
-            "Beli": "51428",
-            "Jual": "52489"
+            "Beli": "51586",
+            "Jual": "52632"
           },
           {
             "Kurs": "USD",
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2589624,
+          "price": 2598415,
           "priceCurrency": "IDR"
         },
         "provider": {
