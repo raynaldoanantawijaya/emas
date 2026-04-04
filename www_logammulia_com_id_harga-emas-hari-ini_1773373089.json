@@ -3,13 +3,13 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-04T03:42:28.582627"
+    "scrape_date": "2026-04-04T09:34:47.862696"
   },
   "data": {
     "technique": "direct_request",
     "tables": [
       {
-        "title": "Harga Emas Hari Ini, 03 Apr 2026 - Emas Batangan",
+        "title": "Harga Emas Hari Ini, 04 Apr 2026 - Emas Batangan",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -79,7 +79,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 03 Apr 2026 - Emas Batangan Gift Series",
+        "title": "Harga Emas Hari Ini, 04 Apr 2026 - Emas Batangan Gift Series",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -99,7 +99,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 03 Apr 2026 - Emas Batangan Selamat Idul Fitri",
+        "title": "Harga Emas Hari Ini, 04 Apr 2026 - Emas Batangan Selamat Idul Fitri",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -114,7 +114,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 03 Apr 2026 - Emas Batangan Imlek",
+        "title": "Harga Emas Hari Ini, 04 Apr 2026 - Emas Batangan Imlek",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -134,7 +134,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 03 Apr 2026 - Emas Batangan Batik Seri III",
+        "title": "Harga Emas Hari Ini, 04 Apr 2026 - Emas Batangan Batik Seri III",
         "headers": [
           "Berat",
           "Harga Dasar",
