@@ -3,13 +3,13 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-07T03:42:43.219691"
+    "scrape_date": "2026-04-07T09:47:32.231232"
   },
   "data": {
     "technique": "direct_request",
     "tables": [
       {
-        "title": "Harga Emas Hari Ini, 06 Apr 2026 - Emas Batangan",
+        "title": "Harga Emas Hari Ini, 07 Apr 2026 - Emas Batangan",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -18,68 +18,68 @@
         "rows": [
           {
             "Berat": "0.5 gr",
-            "Harga Dasar": "1,465,500",
-            "Harga (+Pajak PPh 0.25%)": "1,469,164"
+            "Harga Dasar": "1,475,000",
+            "Harga (+Pajak PPh 0.25%)": "1,478,688"
           },
           {
             "Berat": "1 gr",
-            "Harga Dasar": "2,831,000",
-            "Harga (+Pajak PPh 0.25%)": "2,838,078"
+            "Harga Dasar": "2,850,000",
+            "Harga (+Pajak PPh 0.25%)": "2,857,125"
           },
           {
             "Berat": "2 gr",
-            "Harga Dasar": "5,602,000",
-            "Harga (+Pajak PPh 0.25%)": "5,616,005"
+            "Harga Dasar": "5,640,000",
+            "Harga (+Pajak PPh 0.25%)": "5,654,100"
           },
           {
             "Berat": "3 gr",
-            "Harga Dasar": "8,378,000",
-            "Harga (+Pajak PPh 0.25%)": "8,398,945"
+            "Harga Dasar": "8,435,000",
+            "Harga (+Pajak PPh 0.25%)": "8,456,088"
           },
           {
             "Berat": "5 gr",
-            "Harga Dasar": "13,930,000",
-            "Harga (+Pajak PPh 0.25%)": "13,964,825"
+            "Harga Dasar": "14,025,000",
+            "Harga (+Pajak PPh 0.25%)": "14,060,063"
           },
           {
             "Berat": "10 gr",
-            "Harga Dasar": "27,805,000",
-            "Harga (+Pajak PPh 0.25%)": "27,874,513"
+            "Harga Dasar": "27,995,000",
+            "Harga (+Pajak PPh 0.25%)": "28,064,988"
           },
           {
             "Berat": "25 gr",
-            "Harga Dasar": "69,387,000",
-            "Harga (+Pajak PPh 0.25%)": "69,560,468"
+            "Harga Dasar": "69,862,000",
+            "Harga (+Pajak PPh 0.25%)": "70,036,655"
           },
           {
             "Berat": "50 gr",
-            "Harga Dasar": "138,695,000",
-            "Harga (+Pajak PPh 0.25%)": "139,041,738"
+            "Harga Dasar": "139,645,000",
+            "Harga (+Pajak PPh 0.25%)": "139,994,113"
           },
           {
             "Berat": "100 gr",
-            "Harga Dasar": "277,312,000",
-            "Harga (+Pajak PPh 0.25%)": "278,005,280"
+            "Harga Dasar": "279,212,000",
+            "Harga (+Pajak PPh 0.25%)": "279,910,030"
           },
           {
             "Berat": "250 gr",
-            "Harga Dasar": "693,015,000",
-            "Harga (+Pajak PPh 0.25%)": "694,747,538"
+            "Harga Dasar": "697,765,000",
+            "Harga (+Pajak PPh 0.25%)": "699,509,413"
           },
           {
             "Berat": "500 gr",
-            "Harga Dasar": "1,385,820,000",
-            "Harga (+Pajak PPh 0.25%)": "1,389,284,550"
+            "Harga Dasar": "1,395,320,000",
+            "Harga (+Pajak PPh 0.25%)": "1,398,808,300"
           },
           {
             "Berat": "1000 gr",
-            "Harga Dasar": "2,771,600,000",
-            "Harga (+Pajak PPh 0.25%)": "2,778,529,000"
+            "Harga Dasar": "2,790,600,000",
+            "Harga (+Pajak PPh 0.25%)": "2,797,576,500"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 06 Apr 2026 - Emas Batangan Gift Series",
+        "title": "Harga Emas Hari Ini, 07 Apr 2026 - Emas Batangan Gift Series",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -88,18 +88,18 @@
         "rows": [
           {
             "Berat": "0.5 gr",
-            "Harga Dasar": "1,535,500",
-            "Harga (+Pajak PPh 0.25%)": "1,539,339"
+            "Harga Dasar": "1,545,000",
+            "Harga (+Pajak PPh 0.25%)": "1,548,863"
           },
           {
             "Berat": "1 gr",
-            "Harga Dasar": "2,981,000",
-            "Harga (+Pajak PPh 0.25%)": "2,988,453"
+            "Harga Dasar": "3,000,000",
+            "Harga (+Pajak PPh 0.25%)": "3,007,500"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 06 Apr 2026 - Emas Batangan Selamat Idul Fitri",
+        "title": "Harga Emas Hari Ini, 07 Apr 2026 - Emas Batangan Selamat Idul Fitri",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -108,13 +108,13 @@
         "rows": [
           {
             "Berat": "5 gr",
-            "Harga Dasar": "14,903,000",
-            "Harga (+Pajak PPh 0.25%)": "14,940,258"
+            "Harga Dasar": "14,998,000",
+            "Harga (+Pajak PPh 0.25%)": "15,035,495"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 06 Apr 2026 - Emas Batangan Imlek",
+        "title": "Harga Emas Hari Ini, 07 Apr 2026 - Emas Batangan Imlek",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -123,18 +123,18 @@
         "rows": [
           {
             "Berat": "8 gr",
-            "Harga Dasar": "23,502,800",
-            "Harga (+Pajak PPh 0.25%)": "23,561,557"
+            "Harga Dasar": "23,654,800",
+            "Harga (+Pajak PPh 0.25%)": "23,713,937"
           },
           {
             "Berat": "88 gr",
-            "Harga Dasar": "255,825,600",
-            "Harga (+Pajak PPh 0.25%)": "256,465,164"
+            "Harga Dasar": "257,497,600",
+            "Harga (+Pajak PPh 0.25%)": "258,141,344"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 06 Apr 2026 - Emas Batangan Batik Seri III",
+        "title": "Harga Emas Hari Ini, 07 Apr 2026 - Emas Batangan Batik Seri III",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -143,13 +143,13 @@
         "rows": [
           {
             "Berat": "10 gr",
-            "Harga Dasar": "28,810,000",
-            "Harga (+Pajak PPh 0.25%)": "28,882,025"
+            "Harga Dasar": "29,000,000",
+            "Harga (+Pajak PPh 0.25%)": "29,072,500"
           },
           {
             "Berat": "20 gr",
-            "Harga Dasar": "56,820,000",
-            "Harga (+Pajak PPh 0.25%)": "56,962,050"
+            "Harga Dasar": "57,200,000",
+            "Harga (+Pajak PPh 0.25%)": "57,343,000"
           }
         ]
       },
@@ -163,13 +163,13 @@
         "rows": [
           {
             "Berat": "250 gr",
-            "Harga Dasar": "11,950,000",
-            "Harga Sudah Termasuk PPN 11%": "13,264,500"
+            "Harga Dasar": "11,762,500",
+            "Harga Sudah Termasuk PPN 11%": "13,056,375"
           },
           {
             "Berat": "500 gr",
-            "Harga Dasar": "23,100,000",
-            "Harga Sudah Termasuk PPN 11%": "25,641,000"
+            "Harga Dasar": "22,725,000",
+            "Harga Sudah Termasuk PPN 11%": "25,224,750"
           }
         ]
       },
@@ -183,13 +183,13 @@
         "rows": [
           {
             "Berat": "31.1 gr",
-            "Harga Dasar": "1,984,616",
-            "Harga Sudah Termasuk PPN 11%": "2,202,924"
+            "Harga Dasar": "1,961,289",
+            "Harga Sudah Termasuk PPN 11%": "2,177,031"
           },
           {
             "Berat": "186.6 gr",
-            "Harga Dasar": "10,786,216",
-            "Harga Sudah Termasuk PPN 11%": "11,972,700"
+            "Harga Dasar": "10,646,266",
+            "Harga Sudah Termasuk PPN 11%": "11,817,355"
           }
         ]
       },
