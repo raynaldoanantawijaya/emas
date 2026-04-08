@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-04-08T03:54:27.593003"
+    "scrape_date": "2026-04-08T09:48:23.369801"
   },
   "data": {
     "technique": "network_capture",
@@ -211,10 +211,10 @@
         27,
         31,
         36,
-        42,
+        41,
         46,
-        52,
-        59,
+        51,
+        56,
         63,
         69,
         74,
@@ -223,30 +223,30 @@
         95,
         103,
         107,
-        111,
-        116,
-        125,
+        115,
+        119,
+        126,
         132,
         137,
         144,
         152,
-        157,
-        162,
-        166,
+        156,
+        161,
+        164,
         168,
         172,
         181,
         189,
         194,
-        203,
-        208,
-        213,
-        218,
-        220,
-        225,
-        229,
-        233,
-        235,
+        200,
+        205,
+        210,
+        215,
+        217,
+        221,
+        226,
+        231,
+        236,
         240,
         244,
         250,
@@ -257,43 +257,43 @@
         273,
         279,
         284,
-        288,
-        292,
-        296,
-        298,
-        300,
-        304,
-        306,
-        309,
+        286,
+        290,
+        295,
+        299,
+        303,
+        307,
+        310,
         314,
+        316,
         318,
         324,
         328,
-        333,
-        337,
-        341,
-        345,
-        347,
+        332,
+        334,
+        338,
+        342,
+        346,
         349,
-        353,
-        355,
+        354,
+        356,
         358,
         364,
-        369,
-        373,
-        376,
+        368,
+        372,
+        375,
         380,
         384,
         390,
         395,
         399,
-        403,
-        406,
+        404,
+        408,
         410,
         416,
         420,
         425,
-        427,
+        429,
         432,
         436,
         442,
@@ -316,17 +316,17 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "c623e2fc-75a2-4804-a5e0-93ff90b650d9",
+      "7f418942-ce8c-4be3-8bb0-adcc798144d7",
       "16000",
       "5",
       "17000",
       "13000",
       null,
       "00005202103018",
-      "2026-04-07",
+      "2026-04-08",
       "0.001",
       "1",
-      "2026-04-06T11:45:13.152Z",
+      "2026-04-07T11:24:36.599Z",
       "BABY GALERI 24",
       {
         "id": 18,
@@ -343,14 +343,14 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "93bbcba8-e3bb-4fad-a972-d5296d4a3016",
+      "72d3f8b5-de95-4a72-8c86-a33ff887e5b7",
       "118000",
       "2.5",
       "121000",
       "0",
       "00005202108022",
       "0.02",
-      "2026-04-06T11:42:49.765Z",
+      "2026-04-07T11:22:10.654Z",
       "BATIK SERIES",
       {
         "id": 28,
@@ -367,7 +367,7 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "5e63d925-9b45-4196-8c43-54653239accb",
+      "1fe10f83-ba7a-48fd-a154-3719cf95d0cc",
       "124000",
       "78000",
       {
@@ -385,107 +385,107 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "1c812ce6-7f1e-4f4a-b2c3-6fd0ac6072fd",
+      "817d913d-25ca-4b12-afd3-94eed88a3a62",
       "275000",
       "282000",
       "0.04",
       {
         "id": 37,
         "price": 38,
-        "margin": 7,
-        "sellingPrice": 39,
-        "buybackPrice": 40,
-        "description": 10,
-        "vendorCode": 11,
-        "date": 12,
-        "denomination": 41,
-        "status": 14,
-        "createdAt": 15,
-        "updatedAt": 15,
-        "vendorName": 16
-      },
-      "a03d746b-09a3-4a96-8547-b1d5f76226e7",
-      "224000",
-      "236000",
-      "170000",
-      "0.05",
-      {
-        "id": 43,
-        "price": 44,
         "margin": 20,
-        "sellingPrice": 45,
+        "sellingPrice": 39,
         "buybackPrice": 22,
         "description": 10,
         "vendorCode": 23,
         "date": 12,
-        "denomination": 41,
+        "denomination": 40,
         "status": 14,
         "createdAt": 25,
         "updatedAt": 25,
         "vendorName": 26
       },
-      "3d86717c-61cb-4615-8624-da4c739f31c2",
-      "333000",
-      "342000",
+      "50ec639c-df96-4cc2-a2a6-8ddd5b860eff",
+      "334000",
+      "343000",
+      "0.05",
+      {
+        "id": 42,
+        "price": 43,
+        "margin": 7,
+        "sellingPrice": 44,
+        "buybackPrice": 45,
+        "description": 10,
+        "vendorCode": 11,
+        "date": 12,
+        "denomination": 40,
+        "status": 14,
+        "createdAt": 15,
+        "updatedAt": 15,
+        "vendorName": 16
+      },
+      "c3e572aa-a3fc-4204-93ba-7d4364aaf400",
+      "224000",
+      "236000",
+      "171000",
       {
         "id": 47,
         "price": 48,
-        "margin": 7,
+        "margin": 20,
         "sellingPrice": 49,
-        "buybackPrice": 50,
-        "description": 10,
-        "vendorCode": 11,
-        "date": 12,
-        "denomination": 51,
-        "status": 14,
-        "createdAt": 15,
-        "updatedAt": 15,
-        "vendorName": 16
-      },
-      "76c9b23c-3196-49f7-a902-5e7498ccc203",
-      "359000",
-      "377000",
-      "289000",
-      "0.1",
-      {
-        "id": 53,
-        "price": 54,
-        "margin": 20,
-        "sellingPrice": 55,
-        "buybackPrice": 22,
-        "description": 10,
-        "vendorCode": 56,
-        "date": 12,
-        "denomination": 51,
-        "status": 14,
-        "createdAt": 57,
-        "updatedAt": 57,
-        "vendorName": 58
-      },
-      "ce7410ec-d24f-425c-975c-169531e1f8cb",
-      "373000",
-      "383000",
-      "00005202004011",
-      "2026-04-06T11:43:18.460Z",
-      "UBS DISNEY",
-      {
-        "id": 60,
-        "price": 61,
-        "margin": 20,
-        "sellingPrice": 62,
         "buybackPrice": 22,
         "description": 10,
         "vendorCode": 23,
         "date": 12,
-        "denomination": 51,
+        "denomination": 50,
         "status": 14,
         "createdAt": 25,
         "updatedAt": 25,
         "vendorName": 26
       },
-      "b5899943-a4e6-45ec-b4ac-68417d94f59e",
-      "533000",
-      "547000",
+      "8e56a233-50fd-469e-ba98-14ed76cb330d",
+      "534000",
+      "548000",
+      "0.1",
+      {
+        "id": 52,
+        "price": 53,
+        "margin": 7,
+        "sellingPrice": 54,
+        "buybackPrice": 55,
+        "description": 10,
+        "vendorCode": 11,
+        "date": 12,
+        "denomination": 50,
+        "status": 14,
+        "createdAt": 15,
+        "updatedAt": 15,
+        "vendorName": 16
+      },
+      "b01692eb-bd02-4fff-bc97-ec59952d54b2",
+      "360000",
+      "378000",
+      "289000",
+      {
+        "id": 57,
+        "price": 58,
+        "margin": 20,
+        "sellingPrice": 59,
+        "buybackPrice": 22,
+        "description": 10,
+        "vendorCode": 60,
+        "date": 12,
+        "denomination": 50,
+        "status": 14,
+        "createdAt": 61,
+        "updatedAt": 61,
+        "vendorName": 62
+      },
+      "3cb8a2ad-1849-4326-a27d-c3e83c0048ce",
+      "374000",
+      "384000",
+      "00005202004011",
+      "2026-04-07T11:22:39.787Z",
+      "UBS DISNEY",
       {
         "id": 64,
         "price": 65,
@@ -501,10 +501,10 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "0530384f-f8ac-4947-aafc-44d78d4b2ec1",
-      "689000",
-      "724000",
-      "551000",
+      "d0ae2181-1790-43dc-b862-61ef7c413fbb",
+      "691000",
+      "726000",
+      "552000",
       "0.2",
       {
         "id": 70,
@@ -521,7 +521,7 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "de60ac9f-607b-485f-8e7e-0aadac1b257d",
+      "a47592a6-7a15-4e76-a08b-610e318e943a",
       "1145000",
       "1203000",
       "0.25",
@@ -540,10 +540,10 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "2b684cc7-c012-4cc8-9302-ce539906daa2",
-      "977000",
-      "1026000",
-      "827000",
+      "8f121142-800e-49a8-8d6e-38ab2295db35",
+      "979000",
+      "1028000",
+      "829000",
       "0.3",
       {
         "id": 81,
@@ -560,10 +560,10 @@
         "updatedAt": 15,
         "vendorName": 16
       },
-      "8ff0d989-e193-4033-a0d6-ce17959e31b0",
-      "1258000",
-      "1321000",
-      "1103000",
+      "f57591f7-6755-4315-958c-731946f01084",
+      "1260000",
+      "1323000",
+      "1105000",
       "0.4",
       {
         "id": 87,
@@ -580,14 +580,14 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "fb42c978-a1b5-4729-908e-cc97d4deb3fb",
-      "1515000",
-      "1553000",
-      "1339000",
-      "00005201808002",
+      "361b8dca-d964-438a-bd52-81048ce42267",
+      "1466000",
+      "1503000",
+      "1343000",
+      "00005202003010",
       "0.5",
-      "2026-04-06T11:43:03.914Z",
-      "UBS",
+      "2026-04-07T11:21:13.024Z",
+      "GALERI 24",
       {
         "id": 96,
         "price": 97,
@@ -603,36 +603,18 @@
         "updatedAt": 101,
         "vendorName": 102
       },
-      "defc082c-783e-45da-8295-6b49b31667c9",
-      "1463000",
-      "1500000",
-      "1341000",
-      "00005202003010",
-      "2026-04-06T11:41:51.434Z",
-      "GALERI 24",
+      "3f05041a-aecb-46fc-884e-0bd0f9123424",
+      "1518000",
+      "1556000",
+      "1342000",
+      "00005201808002",
+      "2026-04-07T11:22:25.237Z",
+      "UBS",
       {
         "id": 104,
         "price": 105,
         "margin": 20,
         "sellingPrice": 106,
-        "buybackPrice": 90,
-        "description": 10,
-        "vendorCode": 56,
-        "date": 12,
-        "denomination": 92,
-        "status": 14,
-        "createdAt": 57,
-        "updatedAt": 57,
-        "vendorName": 58
-      },
-      "da73b52a-d3f5-47b5-94c7-9fd339a3dfca",
-      "1517000",
-      "1555000",
-      {
-        "id": 108,
-        "price": 109,
-        "margin": 20,
-        "sellingPrice": 110,
         "buybackPrice": 22,
         "description": 10,
         "vendorCode": 23,
@@ -643,57 +625,76 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "d69de7b1-9fd2-4370-944c-7c6fda06c3c6",
-      "1527000",
-      "1566000",
+      "cdd048e8-4e3c-4ef2-8765-4dc75f6abac1",
+      "1530000",
+      "1569000",
       {
-        "id": 112,
-        "price": 113,
-        "margin": 7,
-        "sellingPrice": 114,
-        "buybackPrice": 115,
+        "id": 108,
+        "price": 109,
+        "margin": 110,
+        "sellingPrice": 111,
+        "buybackPrice": 99,
         "description": 10,
-        "vendorCode": 11,
+        "vendorCode": 112,
         "date": 12,
         "denomination": 92,
         "status": 14,
-        "createdAt": 15,
-        "updatedAt": 15,
-        "vendorName": 16
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
       },
-      "25b7be2b-2a0a-4770-b9ff-f1fdb9db43c1",
-      "1511000",
-      "1587000",
-      "1366000",
-      {
-        "id": 117,
-        "price": 118,
-        "margin": 119,
-        "sellingPrice": 120,
-        "buybackPrice": 121,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 92,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "d2f665d1-2b0c-4ac4-b8d1-a9ab8ee465cc",
-      "1504000",
+      "d1fa53b2-202c-4a31-b8a6-de18e913e3ac",
+      "1475000",
       "4",
-      "1565000",
-      "1251000",
-      "00005201905007",
-      "2026-04-07T03:48:05.128Z",
-      "ANTAM NON PEGADAIAN",
+      "1534000",
+      "00005201808001",
+      "2026-04-07T11:21:27.676Z",
+      "ANTAM",
       {
-        "id": 126,
-        "price": 127,
-        "margin": 119,
-        "sellingPrice": 128,
-        "buybackPrice": 90,
+        "id": 116,
+        "price": 117,
+        "margin": 20,
+        "sellingPrice": 118,
+        "buybackPrice": 99,
+        "description": 10,
+        "vendorCode": 60,
+        "date": 12,
+        "denomination": 92,
+        "status": 14,
+        "createdAt": 61,
+        "updatedAt": 61,
+        "vendorName": 62
+      },
+      "51423071-cfbf-4cb2-aece-c8bdab5ed000",
+      "1520000",
+      "1558000",
+      {
+        "id": 120,
+        "price": 121,
+        "margin": 110,
+        "sellingPrice": 122,
+        "buybackPrice": 99,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 92,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "558d2284-5a4d-4312-ba45-7bca67191c98",
+      "1507000",
+      "1568000",
+      "00005201808006",
+      "2026-04-07T11:21:41.919Z",
+      "ANTAM MULIA RETRO",
+      {
+        "id": 127,
+        "price": 121,
+        "margin": 110,
+        "sellingPrice": 122,
+        "buybackPrice": 128,
         "description": 10,
         "vendorCode": 129,
         "date": 12,
@@ -703,37 +704,36 @@
         "updatedAt": 130,
         "vendorName": 131
       },
-      "d10c50cb-abc0-4d0a-9291-ed58ef3156ba",
-      "1475000",
-      "1534000",
-      "00005201808001",
-      "2026-04-07T03:45:42.604Z",
-      "ANTAM",
+      "5f96a757-8ce6-4ef2-a5d5-4948a425b91a",
+      "1259000",
+      "00005201905007",
+      "2026-04-07T11:21:56.527Z",
+      "ANTAM NON PEGADAIAN",
       {
         "id": 133,
-        "price": 118,
-        "margin": 119,
-        "sellingPrice": 120,
-        "buybackPrice": 90,
+        "price": 134,
+        "margin": 7,
+        "sellingPrice": 135,
+        "buybackPrice": 136,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 11,
         "date": 12,
         "denomination": 92,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 15,
+        "updatedAt": 15,
+        "vendorName": 16
       },
-      "43c8f577-687c-4271-8408-6987ef8309f8",
-      "00005201808006",
-      "2026-04-06T11:42:20.640Z",
-      "ANTAM MULIA RETRO",
+      "16272298-9fd6-4629-a97e-e97bf3956176",
+      "1514000",
+      "1590000",
+      "1368000",
       {
         "id": 138,
         "price": 139,
         "margin": 7,
         "sellingPrice": 140,
-        "buybackPrice": 90,
+        "buybackPrice": 99,
         "description": 10,
         "vendorCode": 141,
         "date": 12,
@@ -743,11 +743,11 @@
         "updatedAt": 142,
         "vendorName": 143
       },
-      "71b31e44-e4b1-4900-89f5-19de1f0b8b06",
+      "eec3b547-11a9-4db5-94c5-c7c4ff5e1ed0",
       "1467000",
       "1541000",
       "00005202010016",
-      "2026-04-06T11:44:30.441Z",
+      "2026-04-07T11:23:53.012Z",
       "LOTUS ARCHI GIFT",
       {
         "id": 145,
@@ -764,91 +764,37 @@
         "updatedAt": 150,
         "vendorName": 151
       },
-      "cc649008-c166-4102-aea5-2b7220d3127a",
+      "41f1a654-51d3-49ce-a861-4499e20441dd",
       "2847000",
       "2919000",
-      "2679000",
+      "2685000",
       "00005202001009",
-      "2026-04-06T11:43:33.029Z",
+      "2026-04-07T11:22:55.429Z",
       "LOTUS ARCHI",
       {
         "id": 153,
         "price": 154,
-        "margin": 119,
-        "sellingPrice": 155,
-        "buybackPrice": 156,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 14,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "35de5e40-24cf-409c-ae0a-5cdaebf51362",
-      "2795000",
-      "2907000",
-      "2502000",
-      {
-        "id": 158,
-        "price": 159,
-        "margin": 20,
-        "sellingPrice": 160,
-        "buybackPrice": 161,
-        "description": 10,
-        "vendorCode": 100,
-        "date": 12,
-        "denomination": 14,
-        "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
-      },
-      "13d38734-9a1c-4bc3-a87f-3518c73e6ab0",
-      "2790000",
-      "2860000",
-      "2682000",
-      {
-        "id": 163,
-        "price": 164,
-        "margin": 119,
-        "sellingPrice": 165,
-        "buybackPrice": 148,
-        "description": 10,
-        "vendorCode": 129,
-        "date": 12,
-        "denomination": 14,
-        "status": 14,
-        "createdAt": 130,
-        "updatedAt": 130,
-        "vendorName": 131
-      },
-      "666249b0-3d1a-48e0-83b1-e2dcffd4e027",
-      "2850000",
-      "2964000",
-      {
-        "id": 167,
-        "price": 154,
-        "margin": 119,
+        "margin": 110,
         "sellingPrice": 155,
         "buybackPrice": 148,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 123,
         "date": 12,
         "denomination": 14,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
       },
-      "6708dab6-0a31-4c93-a17f-e88fb1ae7b79",
+      "c93704fd-1667-4582-8555-098e2cd1d13c",
+      "2800000",
+      "2912000",
       {
-        "id": 169,
-        "price": 170,
+        "id": 157,
+        "price": 158,
         "margin": 20,
-        "sellingPrice": 171,
-        "buybackPrice": 148,
+        "sellingPrice": 159,
+        "buybackPrice": 160,
         "description": 10,
         "vendorCode": 91,
         "date": 12,
@@ -858,9 +804,63 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "753f971b-68a3-4c66-bd55-a18cecf9f559",
-      "2803000",
-      "2874000",
+      "45d228f0-7f73-482a-b387-16634dc32595",
+      "2795000",
+      "2865000",
+      "2687000",
+      {
+        "id": 162,
+        "price": 154,
+        "margin": 110,
+        "sellingPrice": 155,
+        "buybackPrice": 163,
+        "description": 10,
+        "vendorCode": 129,
+        "date": 12,
+        "denomination": 14,
+        "status": 14,
+        "createdAt": 130,
+        "updatedAt": 130,
+        "vendorName": 131
+      },
+      "e07157b0-8313-47f6-8092-b3077263cac4",
+      "2518000",
+      {
+        "id": 165,
+        "price": 166,
+        "margin": 20,
+        "sellingPrice": 167,
+        "buybackPrice": 148,
+        "description": 10,
+        "vendorCode": 100,
+        "date": 12,
+        "denomination": 14,
+        "status": 14,
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
+      },
+      "e49af418-1d73-48f3-8cfc-b6fa9091398e",
+      "2808000",
+      "2879000",
+      {
+        "id": 169,
+        "price": 170,
+        "margin": 110,
+        "sellingPrice": 171,
+        "buybackPrice": 148,
+        "description": 10,
+        "vendorCode": 112,
+        "date": 12,
+        "denomination": 14,
+        "status": 14,
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
+      },
+      "e8609539-9a12-4263-a84a-572216ed48a8",
+      "2850000",
+      "2964000",
       {
         "id": 173,
         "price": 174,
@@ -876,13 +876,13 @@
         "updatedAt": 179,
         "vendorName": 180
       },
-      "b4d706a4-17a9-4abc-8ec0-df21701df198",
+      "8f658d5a-f5a9-41aa-b393-4264ed173f1f",
+      "2851000",
+      "2923000",
       "2846000",
-      "2918000",
-      "2840000",
       "00005202005012",
       "1.06",
-      "2026-04-06T11:43:47.924Z",
+      "2026-04-07T11:23:09.350Z",
       "DINAR G24",
       {
         "id": 182,
@@ -899,13 +899,13 @@
         "updatedAt": 187,
         "vendorName": 188
       },
-      "071f433b-1701-4643-a3a8-047a8736ab0f",
-      "4831000",
-      "5073000",
-      "00005202108019",
+      "53ed4988-b25f-4b41-b0d3-05d117490a33",
+      "4841000",
+      "5084000",
+      "00005202108020",
       "1.5",
-      "2026-04-06T11:45:25.394Z",
-      "BABY SERIES TUMBUHAN",
+      "2026-04-07T11:25:01.216Z",
+      "BABY SERIES INVESTASI",
       {
         "id": 190,
         "price": 183,
@@ -921,10 +921,10 @@
         "updatedAt": 192,
         "vendorName": 193
       },
-      "98ef11dc-0472-45f0-a043-f9641df3f846",
-      "00005202108020",
-      "2026-04-06T11:45:37.513Z",
-      "BABY SERIES INVESTASI",
+      "e5c56760-2da3-4b6b-83f3-816805dcce45",
+      "00005202108019",
+      "2026-04-07T11:24:49.223Z",
+      "BABY SERIES TUMBUHAN",
       {
         "id": 195,
         "price": 196,
@@ -932,185 +932,185 @@
         "sellingPrice": 197,
         "buybackPrice": 198,
         "description": 10,
-        "vendorCode": 199,
+        "vendorCode": 60,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
-        "createdAt": 201,
-        "updatedAt": 201,
-        "vendorName": 202
+        "createdAt": 61,
+        "updatedAt": 61,
+        "vendorName": 62
       },
-      "5a17c230-a57f-4997-afc1-80d2e1a9aa63",
-      "5573000",
-      "5713000",
-      "5359000",
-      "00005202010015",
+      "45ba4ec9-9282-4d1e-95fe-2281d6da41ca",
+      "5584000",
+      "5724000",
+      "5370000",
       "2",
-      "2026-04-06T11:44:44.925Z",
-      "UBS MICKEY FULLBODY",
       {
-        "id": 204,
+        "id": 201,
         "price": 196,
         "margin": 20,
         "sellingPrice": 197,
         "buybackPrice": 198,
         "description": 10,
-        "vendorCode": 205,
+        "vendorCode": 202,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
-        "createdAt": 206,
-        "updatedAt": 206,
-        "vendorName": 207
+        "createdAt": 203,
+        "updatedAt": 203,
+        "vendorName": 204
       },
-      "86f65030-1a0f-4f9f-8a9e-f1cbc6497b2e",
-      "00005202012017",
-      "2026-04-06T11:44:59.183Z",
-      "UBS HELLO KITTY",
-      {
-        "id": 209,
-        "price": 196,
-        "margin": 20,
-        "sellingPrice": 197,
-        "buybackPrice": 198,
-        "description": 10,
-        "vendorCode": 210,
-        "date": 12,
-        "denomination": 200,
-        "status": 14,
-        "createdAt": 211,
-        "updatedAt": 211,
-        "vendorName": 212
-      },
-      "f0aec2a6-bebf-4b3f-9930-18c3800061ad",
-      "00005202010013",
-      "2026-04-06T11:44:16.179Z",
-      "UBS ELSA",
-      {
-        "id": 214,
-        "price": 196,
-        "margin": 20,
-        "sellingPrice": 197,
-        "buybackPrice": 198,
-        "description": 10,
-        "vendorCode": 215,
-        "date": 12,
-        "denomination": 200,
-        "status": 14,
-        "createdAt": 216,
-        "updatedAt": 216,
-        "vendorName": 217
-      },
-      "e8f51793-8efb-4e2b-a0f2-b546d1012ba7",
+      "763d7154-e75c-448b-94e7-9cf76f3398ba",
       "00005202010014",
-      "2026-04-06T11:44:02.092Z",
+      "2026-04-07T11:23:24.069Z",
       "UBS ANNA",
       {
-        "id": 219,
-        "price": 196,
-        "margin": 20,
-        "sellingPrice": 197,
-        "buybackPrice": 198,
-        "description": 10,
-        "vendorCode": 56,
-        "date": 12,
-        "denomination": 200,
-        "status": 14,
-        "createdAt": 57,
-        "updatedAt": 57,
-        "vendorName": 58
-      },
-      "218cc992-7dea-4944-93c9-be99830fff90",
-      {
-        "id": 221,
-        "price": 222,
-        "margin": 119,
-        "sellingPrice": 223,
-        "buybackPrice": 224,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 200,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "d872ae99-f64c-41f0-8db3-1723af983451",
-      "5499000",
-      "5719000",
-      "5004000",
-      {
-        "id": 226,
-        "price": 227,
-        "margin": 119,
-        "sellingPrice": 228,
-        "buybackPrice": 198,
+        "id": 206,
+        "price": 207,
+        "margin": 110,
+        "sellingPrice": 208,
+        "buybackPrice": 209,
         "description": 10,
         "vendorCode": 129,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
         "createdAt": 130,
         "updatedAt": 130,
         "vendorName": 131
       },
-      "0eea7d70-0dcf-4ca4-b93c-91777de9a4f6",
-      "5640000",
-      "5866000",
+      "f5203f0c-aa45-4f83-b116-f75a713f0170",
+      "5509000",
+      "5730000",
+      "5036000",
       {
-        "id": 230,
-        "price": 231,
+        "id": 211,
+        "price": 212,
         "margin": 20,
-        "sellingPrice": 232,
-        "buybackPrice": 198,
+        "sellingPrice": 213,
+        "buybackPrice": 214,
         "description": 10,
         "vendorCode": 91,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
         "createdAt": 93,
         "updatedAt": 93,
         "vendorName": 94
       },
-      "a25fbd6e-f46b-4c2c-93ad-0fc50391ca92",
-      "5563000",
-      "5703000",
+      "86140c4f-5066-4e0f-9434-fb520cd8c930",
+      "5523000",
+      "5662000",
+      "5375000",
       {
-        "id": 234,
-        "price": 222,
-        "margin": 119,
-        "sellingPrice": 223,
+        "id": 216,
+        "price": 207,
+        "margin": 110,
+        "sellingPrice": 208,
         "buybackPrice": 198,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 123,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
       },
-      "48650726-7d2c-4886-bcfe-0c71498231eb",
+      "13661fa5-9131-46de-acf5-563dc1b8f48a",
       {
-        "id": 236,
-        "price": 237,
+        "id": 218,
+        "price": 219,
         "margin": 20,
-        "sellingPrice": 238,
-        "buybackPrice": 239,
+        "sellingPrice": 220,
+        "buybackPrice": 198,
         "description": 10,
-        "vendorCode": 100,
+        "vendorCode": 23,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
+        "createdAt": 25,
+        "updatedAt": 25,
+        "vendorName": 26
       },
-      "6d3f668c-f8af-4421-948d-cb6e749a4bb1",
-      "5512000",
-      "5650000",
-      "5365000",
+      "9c3b8963-1b30-486d-8757-8851caa963ab",
+      "5751000",
+      "5895000",
+      {
+        "id": 222,
+        "price": 196,
+        "margin": 20,
+        "sellingPrice": 197,
+        "buybackPrice": 198,
+        "description": 10,
+        "vendorCode": 223,
+        "date": 12,
+        "denomination": 199,
+        "status": 14,
+        "createdAt": 224,
+        "updatedAt": 224,
+        "vendorName": 225
+      },
+      "4357e003-8ffa-4d24-bd12-b0c57766e28e",
+      "00005202012017",
+      "2026-04-07T11:24:22.188Z",
+      "UBS HELLO KITTY",
+      {
+        "id": 227,
+        "price": 196,
+        "margin": 20,
+        "sellingPrice": 197,
+        "buybackPrice": 198,
+        "description": 10,
+        "vendorCode": 228,
+        "date": 12,
+        "denomination": 199,
+        "status": 14,
+        "createdAt": 229,
+        "updatedAt": 229,
+        "vendorName": 230
+      },
+      "cda2a9e3-e099-478c-9e63-b99a81591edb",
+      "00005202010013",
+      "2026-04-07T11:23:38.598Z",
+      "UBS ELSA",
+      {
+        "id": 232,
+        "price": 196,
+        "margin": 20,
+        "sellingPrice": 197,
+        "buybackPrice": 198,
+        "description": 10,
+        "vendorCode": 233,
+        "date": 12,
+        "denomination": 199,
+        "status": 14,
+        "createdAt": 234,
+        "updatedAt": 234,
+        "vendorName": 235
+      },
+      "4649bf2a-2c67-4a18-93df-c8c2be74dcf8",
+      "00005202010015",
+      "2026-04-07T11:24:07.571Z",
+      "UBS MICKEY FULLBODY",
+      {
+        "id": 237,
+        "price": 238,
+        "margin": 110,
+        "sellingPrice": 239,
+        "buybackPrice": 198,
+        "description": 10,
+        "vendorCode": 112,
+        "date": 12,
+        "denomination": 199,
+        "status": 14,
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
+      },
+      "c1864e03-ccbb-4dbe-a805-e00fb4a2fc9a",
+      "5640000",
+      "5866000",
       {
         "id": 241,
         "price": 242,
@@ -1118,17 +1118,17 @@
         "sellingPrice": 243,
         "buybackPrice": 198,
         "description": 10,
-        "vendorCode": 23,
+        "vendorCode": 100,
         "date": 12,
-        "denomination": 200,
+        "denomination": 199,
         "status": 14,
-        "createdAt": 25,
-        "updatedAt": 25,
-        "vendorName": 26
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
       },
-      "34875f2c-62da-433c-b135-cafbcf05e115",
-      "5740000",
-      "5884000",
+      "bb86dc2c-1dee-453a-b1be-416a73a9eeb4",
+      "5573000",
+      "5713000",
       {
         "id": 245,
         "price": 246,
@@ -1144,10 +1144,10 @@
         "updatedAt": 179,
         "vendorName": 180
       },
-      "0c63bedb-ee65-4e82-a96c-4a9e570a6909",
-      "5667000",
-      "5809000",
-      "5708000",
+      "e5a864f2-137c-4356-9c97-0ba84166470b",
+      "5677000",
+      "5819000",
+      "5719000",
       "2.13",
       {
         "id": 251,
@@ -1164,36 +1164,54 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "34098f0a-7f57-460f-a9df-0b259b35b19b",
-      "7286000",
-      "7469000",
+      "0aa82607-dffb-4fee-a221-4905367b86d9",
+      "7300000",
+      "7483000",
       "2.2",
       {
         "id": 256,
         "price": 257,
-        "margin": 119,
+        "margin": 110,
         "sellingPrice": 258,
         "buybackPrice": 259,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 112,
         "date": 12,
         "denomination": 260,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
       },
-      "7f8370bf-d0ec-4e9f-82c7-668a6f6401c6",
-      "8144000",
-      "8470000",
-      "8039000",
+      "de6f3fb0-cac0-4af2-99b1-01edea41c390",
+      "8435000",
+      "8773000",
+      "8055000",
       "3",
       {
         "id": 262,
         "price": 263,
-        "margin": 119,
+        "margin": 110,
         "sellingPrice": 264,
         "buybackPrice": 259,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 260,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "a1042b9e-b066-4a45-b3ee-2dd03bcfcefe",
+      "8160000",
+      "8487000",
+      {
+        "id": 266,
+        "price": 263,
+        "margin": 110,
+        "sellingPrice": 264,
+        "buybackPrice": 267,
         "description": 10,
         "vendorCode": 129,
         "date": 12,
@@ -1203,26 +1221,8 @@
         "updatedAt": 130,
         "vendorName": 131
       },
-      "a7edbb25-714b-4577-8556-c4c3a4501580",
-      "8435000",
-      "8773000",
-      {
-        "id": 266,
-        "price": 257,
-        "margin": 119,
-        "sellingPrice": 258,
-        "buybackPrice": 267,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 260,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "cb5ad212-783c-4b69-bf03-492faa44e270",
-      "7506000",
+      "45998684-fcbf-4c40-a12d-def1a1a8f547",
+      "7554000",
       {
         "id": 269,
         "price": 270,
@@ -1238,9 +1238,9 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "e2391a40-7efb-4f48-90c5-8c7887817dff",
-      "12556000",
-      "12870000",
+      "bc6b6b10-2ff5-4e12-b103-8ad65f941962",
+      "12579000",
+      "12894000",
       "4.2",
       {
         "id": 274,
@@ -1257,10 +1257,10 @@
         "updatedAt": 179,
         "vendorName": 180
       },
-      "cee9e9a4-0fbc-43f1-b725-1a9dc69bfb53",
-      "11202000",
-      "11483000",
-      "11389000",
+      "34ed9a2d-33b4-4254-aecf-c98e789e6325",
+      "11223000",
+      "11504000",
+      "11411000",
       "4.25",
       {
         "id": 280,
@@ -1269,161 +1269,40 @@
         "sellingPrice": 282,
         "buybackPrice": 283,
         "description": 10,
-        "vendorCode": 149,
+        "vendorCode": 60,
         "date": 12,
         "denomination": 7,
         "status": 14,
-        "createdAt": 150,
-        "updatedAt": 150,
-        "vendorName": 151
+        "createdAt": 61,
+        "updatedAt": 61,
+        "vendorName": 62
       },
-      "b5ff8ea6-5743-425a-a880-375dd0066030",
-      "14019000",
-      "14370000",
-      "13399000",
+      "5151d78b-ff72-4bb6-93e4-7d6064a40c65",
+      "13732000",
+      "14076000",
+      "13425000",
       {
         "id": 285,
-        "price": 286,
+        "price": 281,
         "margin": 20,
-        "sellingPrice": 287,
+        "sellingPrice": 282,
         "buybackPrice": 283,
         "description": 10,
-        "vendorCode": 210,
+        "vendorCode": 202,
         "date": 12,
         "denomination": 7,
         "status": 14,
-        "createdAt": 211,
-        "updatedAt": 211,
-        "vendorName": 212
+        "createdAt": 203,
+        "updatedAt": 203,
+        "vendorName": 204
       },
-      "bcd31d30-4c94-4ea2-8d66-cbcb7ec95746",
-      "13706000",
-      "14049000",
+      "39238c7d-a2b2-447e-8034-9a6394b45019",
       {
-        "id": 289,
-        "price": 290,
-        "margin": 119,
-        "sellingPrice": 291,
-        "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 134,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
-      },
-      "0eca7138-a5f9-40a7-bde0-a98c217443b8",
-      "13653000",
-      "14200000",
-      {
-        "id": 293,
-        "price": 294,
-        "margin": 119,
-        "sellingPrice": 295,
-        "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 129,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 130,
-        "updatedAt": 130,
-        "vendorName": 131
-      },
-      "5249a099-bf0d-4358-8360-21b292e16af9",
-      "14025000",
-      "14586000",
-      {
-        "id": 297,
-        "price": 286,
+        "id": 287,
+        "price": 288,
         "margin": 20,
-        "sellingPrice": 287,
+        "sellingPrice": 289,
         "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 56,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 57,
-        "updatedAt": 57,
-        "vendorName": 58
-      },
-      "1bcd7e35-062d-4862-ba30-144ffeb62f51",
-      {
-        "id": 299,
-        "price": 286,
-        "margin": 20,
-        "sellingPrice": 287,
-        "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 215,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 216,
-        "updatedAt": 216,
-        "vendorName": 217
-      },
-      "26c09cf7-1e3b-4da9-99a3-f210185fec6d",
-      {
-        "id": 301,
-        "price": 302,
-        "margin": 20,
-        "sellingPrice": 303,
-        "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 91,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 93,
-        "updatedAt": 93,
-        "vendorName": 94
-      },
-      "9670be87-4987-42d4-8a11-95233ce1beb6",
-      "13746000",
-      "14090000",
-      {
-        "id": 305,
-        "price": 286,
-        "margin": 20,
-        "sellingPrice": 287,
-        "buybackPrice": 283,
-        "description": 10,
-        "vendorCode": 199,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 201,
-        "updatedAt": 201,
-        "vendorName": 202
-      },
-      "9508ddd1-7c18-44bd-b29a-0acf72036e1b",
-      {
-        "id": 307,
-        "price": 290,
-        "margin": 119,
-        "sellingPrice": 291,
-        "buybackPrice": 308,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 7,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "63cccf4c-5fb9-4757-a6dc-bd1232b18bf1",
-      "12510000",
-      {
-        "id": 310,
-        "price": 311,
-        "margin": 20,
-        "sellingPrice": 312,
-        "buybackPrice": 313,
         "description": 10,
         "vendorCode": 100,
         "date": 12,
@@ -1433,15 +1312,33 @@
         "updatedAt": 101,
         "vendorName": 102
       },
-      "832f80ec-89e0-42aa-bcc2-5aea1c6d2ac1",
-      "13680000",
-      "14022000",
-      "13412000",
+      "5982fb08-e33a-466e-82a7-fd559a48c7d6",
+      "13772000",
+      "14117000",
       {
-        "id": 315,
-        "price": 316,
+        "id": 291,
+        "price": 292,
         "margin": 20,
-        "sellingPrice": 317,
+        "sellingPrice": 293,
+        "buybackPrice": 294,
+        "description": 10,
+        "vendorCode": 91,
+        "date": 12,
+        "denomination": 7,
+        "status": 14,
+        "createdAt": 93,
+        "updatedAt": 93,
+        "vendorName": 94
+      },
+      "4ee0b317-402f-4a2a-be93-d132a4bb283b",
+      "13706000",
+      "14049000",
+      "13438000",
+      {
+        "id": 296,
+        "price": 297,
+        "margin": 20,
+        "sellingPrice": 298,
         "buybackPrice": 283,
         "description": 10,
         "vendorCode": 23,
@@ -1452,89 +1349,189 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "69ecf169-138e-4523-b8a0-c9c1016ae722",
-      "13917000",
-      "14265000",
+      "e2764489-0bea-4d83-af98-e1cd4977d57b",
+      "13943000",
+      "14292000",
       {
-        "id": 319,
-        "price": 320,
+        "id": 300,
+        "price": 301,
+        "margin": 110,
+        "sellingPrice": 302,
+        "buybackPrice": 283,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 7,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "5cf7e314-77cb-4a94-a3d1-e8ad3fad71f6",
+      "13679000",
+      "14227000",
+      {
+        "id": 304,
+        "price": 305,
         "margin": 20,
-        "sellingPrice": 321,
-        "buybackPrice": 322,
+        "sellingPrice": 306,
+        "buybackPrice": 283,
         "description": 10,
         "vendorCode": 149,
         "date": 12,
-        "denomination": 323,
+        "denomination": 7,
         "status": 14,
         "createdAt": 150,
         "updatedAt": 150,
         "vendorName": 151
       },
-      "d30bd0df-8a43-442f-b25f-2e0bbd669709",
-      "27844000",
-      "28541000",
-      "26799000",
-      "10",
+      "6e939d25-41dc-4bda-81d7-1b2dfb86a5bb",
+      "14019000",
+      "14370000",
       {
-        "id": 325,
-        "price": 326,
-        "margin": 119,
-        "sellingPrice": 327,
-        "buybackPrice": 322,
+        "id": 308,
+        "price": 301,
+        "margin": 110,
+        "sellingPrice": 302,
+        "buybackPrice": 309,
         "description": 10,
         "vendorCode": 129,
         "date": 12,
-        "denomination": 323,
+        "denomination": 7,
         "status": 14,
         "createdAt": 130,
         "updatedAt": 130,
         "vendorName": 131
       },
-      "2a852234-b282-490d-a13e-0ecbe0c69256",
-      "27995000",
-      "29115000",
+      "8dc02398-3378-462e-9de5-618236d50538",
+      "12590000",
+      {
+        "id": 311,
+        "price": 312,
+        "margin": 110,
+        "sellingPrice": 313,
+        "buybackPrice": 283,
+        "description": 10,
+        "vendorCode": 112,
+        "date": 12,
+        "denomination": 7,
+        "status": 14,
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
+      },
+      "bfcf6596-dda2-48aa-b134-04a13c06f52e",
+      "14025000",
+      "14586000",
+      {
+        "id": 315,
+        "price": 281,
+        "margin": 20,
+        "sellingPrice": 282,
+        "buybackPrice": 283,
+        "description": 10,
+        "vendorCode": 233,
+        "date": 12,
+        "denomination": 7,
+        "status": 14,
+        "createdAt": 234,
+        "updatedAt": 234,
+        "vendorName": 235
+      },
+      "8297f5f8-b5fd-4778-92e6-d3e6d626e97a",
+      {
+        "id": 317,
+        "price": 281,
+        "margin": 20,
+        "sellingPrice": 282,
+        "buybackPrice": 283,
+        "description": 10,
+        "vendorCode": 228,
+        "date": 12,
+        "denomination": 7,
+        "status": 14,
+        "createdAt": 229,
+        "updatedAt": 229,
+        "vendorName": 230
+      },
+      "815bfdf1-fb2c-4701-a0ed-d056a3dff3ca",
+      {
+        "id": 319,
+        "price": 320,
+        "margin": 110,
+        "sellingPrice": 321,
+        "buybackPrice": 322,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 323,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "37c7891d-e653-47ef-b14e-3fbe28ef9c3f",
+      "27238000",
+      "28328000",
+      "26850000",
+      "10",
+      {
+        "id": 325,
+        "price": 326,
+        "margin": 20,
+        "sellingPrice": 327,
+        "buybackPrice": 322,
+        "description": 10,
+        "vendorCode": 60,
+        "date": 12,
+        "denomination": 323,
+        "status": 14,
+        "createdAt": 61,
+        "updatedAt": 61,
+        "vendorName": 62
+      },
+      "38da2498-dbaf-41d1-9453-348aae29eb72",
+      "27278000",
+      "27960000",
       {
         "id": 329,
         "price": 330,
         "margin": 20,
         "sellingPrice": 331,
-        "buybackPrice": 332,
-        "description": 10,
-        "vendorCode": 100,
-        "date": 12,
-        "denomination": 323,
-        "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
-      },
-      "2b8f37da-5bcf-4d98-9497-9a78b1aae45f",
-      "27287000",
-      "27970000",
-      "26825000",
-      {
-        "id": 334,
-        "price": 335,
-        "margin": 119,
-        "sellingPrice": 336,
         "buybackPrice": 322,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 149,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 150,
+        "updatedAt": 150,
+        "vendorName": 151
       },
-      "d0ccab25-ee12-4f9f-be74-f7a2a871f3f2",
-      "27186000",
-      "28274000",
+      "2d90b45b-f86b-41c4-8e6b-3206b1e41ca3",
+      "27844000",
+      "28541000",
       {
-        "id": 338,
-        "price": 339,
+        "id": 333,
+        "price": 326,
         "margin": 20,
-        "sellingPrice": 340,
+        "sellingPrice": 327,
+        "buybackPrice": 322,
+        "description": 10,
+        "vendorCode": 228,
+        "date": 12,
+        "denomination": 323,
+        "status": 14,
+        "createdAt": 229,
+        "updatedAt": 229,
+        "vendorName": 230
+      },
+      "53dfc3d6-a91a-427f-b43e-f8901dab68a8",
+      {
+        "id": 335,
+        "price": 336,
+        "margin": 20,
+        "sellingPrice": 337,
         "buybackPrice": 322,
         "description": 10,
         "vendorCode": 23,
@@ -1545,65 +1542,68 @@
         "updatedAt": 25,
         "vendorName": 26
       },
-      "c94677cc-19af-4eae-8dc9-544a15a0a354",
-      "27479000",
-      "28166000",
+      "5a81645d-6c92-482c-af94-96b15b305139",
+      "27531000",
+      "28220000",
       {
-        "id": 342,
-        "price": 343,
-        "margin": 20,
-        "sellingPrice": 344,
+        "id": 339,
+        "price": 340,
+        "margin": 110,
+        "sellingPrice": 341,
         "buybackPrice": 322,
         "description": 10,
-        "vendorCode": 56,
+        "vendorCode": 112,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 57,
-        "updatedAt": 57,
-        "vendorName": 58
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
       },
-      "ae02afee-8e2f-42bd-ab45-a38b1060341e",
-      "27226000",
-      "27907000",
+      "5fc926ad-f403-4cc4-870f-a43ba2de2105",
+      "27995000",
+      "29115000",
       {
-        "id": 346,
-        "price": 343,
+        "id": 343,
+        "price": 344,
         "margin": 20,
-        "sellingPrice": 344,
+        "sellingPrice": 345,
         "buybackPrice": 322,
         "description": 10,
-        "vendorCode": 199,
+        "vendorCode": 100,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 201,
-        "updatedAt": 201,
-        "vendorName": 202
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
       },
-      "adca3ee7-20c3-46a5-ae71-a13827ea6653",
+      "61b58a08-a09c-449f-9188-8fe74434312f",
+      "27400000",
+      "28085000",
       {
-        "id": 348,
-        "price": 343,
-        "margin": 20,
-        "sellingPrice": 344,
-        "buybackPrice": 322,
+        "id": 347,
+        "price": 320,
+        "margin": 110,
+        "sellingPrice": 321,
+        "buybackPrice": 348,
         "description": 10,
-        "vendorCode": 210,
+        "vendorCode": 129,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 211,
-        "updatedAt": 211,
-        "vendorName": 212
+        "createdAt": 130,
+        "updatedAt": 130,
+        "vendorName": 131
       },
-      "101ccb32-b2c6-40e0-97cc-60a4a81f5de9",
+      "621d3780-4a96-421e-bb11-3bf2003e98d7",
+      "25181000",
       {
         "id": 350,
         "price": 351,
         "margin": 20,
         "sellingPrice": 352,
-        "buybackPrice": 322,
+        "buybackPrice": 353,
         "description": 10,
         "vendorCode": 91,
         "date": 12,
@@ -1613,122 +1613,121 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "8cc96c17-2b34-41a1-bc4b-48aba0732df4",
-      "27349000",
-      "28033000",
+      "8af6d8bd-1952-49cf-87fc-bdd8b5a276d5",
+      "27339000",
+      "28023000",
+      "26876000",
       {
-        "id": 354,
-        "price": 343,
+        "id": 355,
+        "price": 326,
         "margin": 20,
-        "sellingPrice": 344,
+        "sellingPrice": 327,
         "buybackPrice": 322,
         "description": 10,
-        "vendorCode": 215,
+        "vendorCode": 233,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 216,
-        "updatedAt": 216,
-        "vendorName": 217
+        "createdAt": 234,
+        "updatedAt": 234,
+        "vendorName": 235
       },
-      "8a5e82c2-a0e8-47f2-b86a-66ad8c9ce482",
+      "72b6ea73-a0f7-4632-8113-aac979a7b42f",
       {
-        "id": 356,
-        "price": 335,
-        "margin": 119,
-        "sellingPrice": 336,
-        "buybackPrice": 357,
+        "id": 357,
+        "price": 326,
+        "margin": 20,
+        "sellingPrice": 327,
+        "buybackPrice": 322,
         "description": 10,
-        "vendorCode": 122,
+        "vendorCode": 202,
         "date": 12,
         "denomination": 323,
         "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
+        "createdAt": 203,
+        "updatedAt": 203,
+        "vendorName": 204
       },
-      "72d1588f-9b38-41d0-a6fc-b02ddf20ce1c",
-      "25021000",
+      "c32c97e6-ef31-488c-9d5b-66976d8892b2",
       {
         "id": 359,
         "price": 360,
-        "margin": 119,
+        "margin": 110,
         "sellingPrice": 361,
         "buybackPrice": 362,
         "description": 10,
-        "vendorCode": 129,
+        "vendorCode": 123,
         "date": 12,
         "denomination": 363,
         "status": 14,
-        "createdAt": 130,
-        "updatedAt": 130,
-        "vendorName": 131
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
       },
-      "f86f1cff-4949-47f7-ab5e-6dcbf32b9655",
-      "69862000",
-      "72657000",
-      "66669000",
+      "86a87b3f-b2e9-4b2d-893a-3049204d50e0",
+      "67927000",
+      "70645000",
+      "66796000",
       "25",
       {
         "id": 365,
         "price": 366,
         "margin": 20,
         "sellingPrice": 367,
-        "buybackPrice": 368,
-        "description": 10,
-        "vendorCode": 100,
-        "date": 12,
-        "denomination": 363,
-        "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
-      },
-      "605ac3f8-1132-4a7b-9129-87a0a08fdcd9",
-      "67852000",
-      "69549000",
-      "66736000",
-      {
-        "id": 370,
-        "price": 371,
-        "margin": 119,
-        "sellingPrice": 372,
         "buybackPrice": 362,
         "description": 10,
-        "vendorCode": 134,
+        "vendorCode": 149,
         "date": 12,
         "denomination": 363,
         "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
+        "createdAt": 150,
+        "updatedAt": 150,
+        "vendorName": 151
       },
-      "06877f15-25e6-4b20-bdff-23780eea9afe",
-      "67798000",
-      "70510000",
+      "d194df73-37ed-4825-96b0-ea3a3c76ddda",
+      "69233000",
+      "70964000",
       {
-        "id": 374,
-        "price": 371,
-        "margin": 119,
-        "sellingPrice": 372,
-        "buybackPrice": 375,
+        "id": 369,
+        "price": 370,
+        "margin": 110,
+        "sellingPrice": 371,
+        "buybackPrice": 362,
         "description": 10,
-        "vendorCode": 122,
+        "vendorCode": 112,
         "date": 12,
         "denomination": 363,
         "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
       },
-      "2555ece9-1b32-4fe6-bb50-9e4dc60ea47b",
-      "62554000",
+      "7bffe6d7-6c6f-4106-ac53-2ec7c9fd8a4d",
+      "69862000",
+      "72657000",
       {
-        "id": 377,
-        "price": 378,
+        "id": 373,
+        "price": 360,
+        "margin": 110,
+        "sellingPrice": 361,
+        "buybackPrice": 374,
+        "description": 10,
+        "vendorCode": 129,
+        "date": 12,
+        "denomination": 363,
+        "status": 14,
+        "createdAt": 130,
+        "updatedAt": 130,
+        "vendorName": 131
+      },
+      "268a569c-b0b4-456e-aba5-0cc7651d309f",
+      "62953000",
+      {
+        "id": 376,
+        "price": 377,
         "margin": 20,
-        "sellingPrice": 379,
-        "buybackPrice": 362,
+        "sellingPrice": 378,
+        "buybackPrice": 379,
         "description": 10,
         "vendorCode": 91,
         "date": 12,
@@ -1738,9 +1737,10 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "f963256c-5230-4426-99cb-6f6563ddfe33",
-      "68238000",
-      "69944000",
+      "d01db9c2-51a8-41ed-9ae0-cc76682adaf2",
+      "67980000",
+      "69680000",
+      "66863000",
       {
         "id": 381,
         "price": 382,
@@ -1748,17 +1748,17 @@
         "sellingPrice": 383,
         "buybackPrice": 362,
         "description": 10,
-        "vendorCode": 149,
+        "vendorCode": 100,
         "date": 12,
         "denomination": 363,
         "status": 14,
-        "createdAt": 150,
-        "updatedAt": 150,
-        "vendorName": 151
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
       },
-      "7406935c-1d1c-437a-8bdc-83e736fa5c93",
-      "69233000",
-      "70964000",
+      "c77c8dbe-3f3f-4f08-8789-84d5084fe08d",
+      "68367000",
+      "70077000",
       {
         "id": 385,
         "price": 386,
@@ -1766,63 +1766,6 @@
         "sellingPrice": 387,
         "buybackPrice": 388,
         "description": 10,
-        "vendorCode": 91,
-        "date": 12,
-        "denomination": 389,
-        "status": 14,
-        "createdAt": 93,
-        "updatedAt": 93,
-        "vendorName": 94
-      },
-      "1783f748-ed16-4311-a9f8-d462d86394b6",
-      "136195000",
-      "139600000",
-      "133339000",
-      "50",
-      {
-        "id": 391,
-        "price": 392,
-        "margin": 20,
-        "sellingPrice": 393,
-        "buybackPrice": 394,
-        "description": 10,
-        "vendorCode": 100,
-        "date": 12,
-        "denomination": 389,
-        "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
-      },
-      "d596df55-adbe-4c08-8970-4b49100ee3e9",
-      "135596000",
-      "138986000",
-      "133472000",
-      {
-        "id": 396,
-        "price": 397,
-        "margin": 119,
-        "sellingPrice": 398,
-        "buybackPrice": 388,
-        "description": 10,
-        "vendorCode": 134,
-        "date": 12,
-        "denomination": 389,
-        "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
-      },
-      "532bef18-5d69-423b-84e6-f31d967adb41",
-      "135530000",
-      "140952000",
-      {
-        "id": 400,
-        "price": 401,
-        "margin": 20,
-        "sellingPrice": 402,
-        "buybackPrice": 388,
-        "description": 10,
         "vendorCode": 149,
         "date": 12,
         "denomination": 389,
@@ -1831,32 +1774,17 @@
         "updatedAt": 150,
         "vendorName": 151
       },
-      "227a1e70-a580-4991-a740-a08402185ccd",
+      "c7ce5c40-43bb-44b1-8376-322a079c884d",
       "138437000",
       "141898000",
+      "133592000",
+      "50",
       {
-        "id": 404,
-        "price": 397,
-        "margin": 119,
-        "sellingPrice": 398,
-        "buybackPrice": 405,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 389,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "9559c8c1-9fbd-4f61-8f4d-aa95516b7980",
-      "125108000",
-      {
-        "id": 407,
-        "price": 408,
-        "margin": 119,
-        "sellingPrice": 409,
-        "buybackPrice": 388,
+        "id": 391,
+        "price": 392,
+        "margin": 110,
+        "sellingPrice": 393,
+        "buybackPrice": 394,
         "description": 10,
         "vendorCode": 129,
         "date": 12,
@@ -1866,9 +1794,81 @@
         "updatedAt": 130,
         "vendorName": 131
       },
-      "010291bb-72f6-4da5-9c19-12e7906fe0ca",
+      "ba9520ad-500e-414b-a616-221c2491c5d0",
+      "135787000",
+      "141219000",
+      "125906000",
+      {
+        "id": 396,
+        "price": 397,
+        "margin": 20,
+        "sellingPrice": 398,
+        "buybackPrice": 388,
+        "description": 10,
+        "vendorCode": 100,
+        "date": 12,
+        "denomination": 389,
+        "status": 14,
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
+      },
+      "a67b954c-2bdd-41de-929c-bf92f2414a30",
+      "136454000",
+      "139866000",
+      {
+        "id": 400,
+        "price": 401,
+        "margin": 20,
+        "sellingPrice": 402,
+        "buybackPrice": 403,
+        "description": 10,
+        "vendorCode": 91,
+        "date": 12,
+        "denomination": 389,
+        "status": 14,
+        "createdAt": 93,
+        "updatedAt": 93,
+        "vendorName": 94
+      },
+      "d81e7f69-93fe-4289-9e3a-e2580af4ea47",
+      "135854000",
+      "139251000",
+      "133726000",
+      {
+        "id": 405,
+        "price": 406,
+        "margin": 110,
+        "sellingPrice": 407,
+        "buybackPrice": 388,
+        "description": 10,
+        "vendorCode": 112,
+        "date": 12,
+        "denomination": 389,
+        "status": 14,
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
+      },
+      "dd32d7a8-cbc8-4ea9-b3a2-12f25b74ab7c",
       "139645000",
       "145231000",
+      {
+        "id": 409,
+        "price": 392,
+        "margin": 110,
+        "sellingPrice": 393,
+        "buybackPrice": 388,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 389,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "b1af05c3-72d6-4cd3-baf6-648db7eaf9d6",
       {
         "id": 411,
         "price": 412,
@@ -1876,6 +1876,44 @@
         "sellingPrice": 413,
         "buybackPrice": 414,
         "description": 10,
+        "vendorCode": 100,
+        "date": 12,
+        "denomination": 415,
+        "status": 14,
+        "createdAt": 101,
+        "updatedAt": 101,
+        "vendorName": 102
+      },
+      "055e6c0f-5486-40df-96be-18d0a2ac7de2",
+      "272800000",
+      "279620000",
+      "267185000",
+      "100",
+      {
+        "id": 417,
+        "price": 418,
+        "margin": 110,
+        "sellingPrice": 419,
+        "buybackPrice": 414,
+        "description": 10,
+        "vendorCode": 112,
+        "date": 12,
+        "denomination": 415,
+        "status": 14,
+        "createdAt": 113,
+        "updatedAt": 113,
+        "vendorName": 114
+      },
+      "20b5c18d-1a71-48e0-844e-6df77b956cf1",
+      "279212000",
+      "290381000",
+      {
+        "id": 421,
+        "price": 422,
+        "margin": 20,
+        "sellingPrice": 423,
+        "buybackPrice": 424,
+        "description": 10,
         "vendorCode": 91,
         "date": 12,
         "denomination": 415,
@@ -1884,16 +1922,50 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "120ac232-052c-4276-b4fa-d74ff6860b57",
-      "272283000",
-      "279091000",
-      "266678000",
-      "100",
+      "254bc71c-145b-4d53-b880-adf9aa835e94",
+      "271573000",
+      "278363000",
+      "267452000",
       {
-        "id": 417,
-        "price": 418,
+        "id": 426,
+        "price": 427,
+        "margin": 110,
+        "sellingPrice": 428,
+        "buybackPrice": 414,
+        "description": 10,
+        "vendorCode": 123,
+        "date": 12,
+        "denomination": 415,
+        "status": 14,
+        "createdAt": 124,
+        "updatedAt": 124,
+        "vendorName": 125
+      },
+      "db820938-fcdd-40c5-91eb-54f673a29980",
+      "271307000",
+      "282160000",
+      {
+        "id": 430,
+        "price": 427,
+        "margin": 110,
+        "sellingPrice": 428,
+        "buybackPrice": 431,
+        "description": 10,
+        "vendorCode": 129,
+        "date": 12,
+        "denomination": 415,
+        "status": 14,
+        "createdAt": 130,
+        "updatedAt": 130,
+        "vendorName": 131
+      },
+      "a47044bd-38f8-4ab8-a994-c4d6196e4aab",
+      "251812000",
+      {
+        "id": 433,
+        "price": 434,
         "margin": 20,
-        "sellingPrice": 419,
+        "sellingPrice": 435,
         "buybackPrice": 414,
         "description": 10,
         "vendorCode": 149,
@@ -1904,81 +1976,9 @@
         "updatedAt": 150,
         "vendorName": 151
       },
-      "b9c003ef-5e0d-45b2-84a9-7eec6fe59a95",
+      "c865f6c6-d3a8-4a15-a5c3-528bb5f87175",
       "276697000",
       "283615000",
-      {
-        "id": 421,
-        "price": 422,
-        "margin": 119,
-        "sellingPrice": 423,
-        "buybackPrice": 424,
-        "description": 10,
-        "vendorCode": 122,
-        "date": 12,
-        "denomination": 415,
-        "status": 14,
-        "createdAt": 123,
-        "updatedAt": 123,
-        "vendorName": 124
-      },
-      "2fff4d5e-9032-437b-aa32-d3121f13842c",
-      "270793000",
-      "281625000",
-      "250217000",
-      {
-        "id": 426,
-        "price": 422,
-        "margin": 119,
-        "sellingPrice": 423,
-        "buybackPrice": 414,
-        "description": 10,
-        "vendorCode": 134,
-        "date": 12,
-        "denomination": 415,
-        "status": 14,
-        "createdAt": 135,
-        "updatedAt": 135,
-        "vendorName": 136
-      },
-      "2b6a8017-1e14-4188-946e-7eed75660855",
-      {
-        "id": 428,
-        "price": 429,
-        "margin": 20,
-        "sellingPrice": 430,
-        "buybackPrice": 431,
-        "description": 10,
-        "vendorCode": 100,
-        "date": 12,
-        "denomination": 415,
-        "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
-      },
-      "21b046c9-c4df-4224-9a97-10d366a191ba",
-      "271059000",
-      "277836000",
-      "266944000",
-      {
-        "id": 433,
-        "price": 434,
-        "margin": 119,
-        "sellingPrice": 435,
-        "buybackPrice": 414,
-        "description": 10,
-        "vendorCode": 129,
-        "date": 12,
-        "denomination": 415,
-        "status": 14,
-        "createdAt": 130,
-        "updatedAt": 130,
-        "vendorName": 131
-      },
-      "809543ac-0a8e-4f3c-bec8-24f57b3a9ea9",
-      "279212000",
-      "290381000",
       {
         "id": 437,
         "price": 438,
@@ -1994,10 +1994,10 @@
         "updatedAt": 101,
         "vendorName": 102
       },
-      "71921868-0e39-4f8d-93a2-6991df8ebeaa",
-      "675983000",
-      "692883000",
-      "664074000",
+      "c12476a2-6c4f-4240-be97-f8456a7552f8",
+      "681799000",
+      "698844000",
+      "664672000",
       "250",
       {
         "id": 443,
@@ -2014,10 +2014,10 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "b8ec4ef0-004a-4523-9a3f-9e1333caa92f",
-      "680508000",
-      "697521000",
-      "663410000",
+      "c7b240ee-aa7b-4609-a1ce-e9f0e34be7a5",
+      "677266000",
+      "694198000",
+      "665336000",
       {
         "id": 448,
         "price": 449,
@@ -2033,10 +2033,10 @@
         "updatedAt": 93,
         "vendorName": 94
       },
-      "9c054ce0-113c-44a4-b159-71d6310a28a0",
-      "1359418000",
-      "1393404000",
-      "1326821000",
+      "d335abf6-3aba-4190-865b-803502930319",
+      "1354532000",
+      "1388396000",
+      "1330673000",
       "500",
       {
         "id": 454,
@@ -2053,10 +2053,10 @@
         "updatedAt": 101,
         "vendorName": 102
       },
-      "5f6dd6e3-8218-4cd3-bc6d-72f833b978c7",
-      "1351966000",
-      "1385766000",
-      "1328148000",
+      "704157ad-f138-4b63-b811-0cdc29eec922",
+      "1361998000",
+      "1396048000",
+      "1329344000",
       {
         "id": 459,
         "price": 460,
@@ -2064,18 +2064,18 @@
         "sellingPrice": 461,
         "buybackPrice": 462,
         "description": 10,
-        "vendorCode": 100,
+        "vendorCode": 91,
         "date": 12,
         "denomination": 463,
         "status": 14,
-        "createdAt": 101,
-        "updatedAt": 101,
-        "vendorName": 102
+        "createdAt": 93,
+        "updatedAt": 93,
+        "vendorName": 94
       },
-      "6a750b9f-bf6f-4938-a97f-1d49179ed269",
-      "2703932000",
-      "2771531000",
-      "2656297000",
+      "931ead4c-e36c-4a8b-b878-e7f6ad626a9c",
+      "2709063000",
+      "2776790000",
+      "2661347000",
       "1000",
       {
         "$sauth:data": 10,
@@ -2096,7 +2096,7 @@
       },
       [
         "Date",
-        "2026-04-07T20:54:07.229Z"
+        "2026-04-08T02:48:04.251Z"
       ],
       false,
       100,
@@ -2662,7 +2662,7 @@
       {
         "id": 673,
         "title": 674,
-        "description": 94,
+        "description": 102,
         "orderNumber": 470,
         "imageName": 10,
         "imageMimeType": 10,
@@ -3265,8 +3265,8 @@
       ],
       {
         "id": 866,
-        "name": 102,
-        "code": 100,
+        "name": 94,
+        "code": 91,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3293,8 +3293,8 @@
       "fe40f130-70c1-414f-8c3e-274aa61935fe",
       {
         "id": 873,
-        "name": 131,
-        "code": 129,
+        "name": 114,
+        "code": 112,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3302,8 +3302,8 @@
       "3480d9f8-31ec-4571-9dd1-facc318bf04e",
       {
         "id": 875,
-        "name": 94,
-        "code": 91,
+        "name": 102,
+        "code": 100,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3344,8 +3344,8 @@
       "00005201808005",
       {
         "id": 889,
-        "name": 136,
-        "code": 134,
+        "name": 125,
+        "code": 123,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3364,8 +3364,8 @@
       "00005201808007",
       {
         "id": 895,
-        "name": 124,
-        "code": 122,
+        "name": 131,
+        "code": 129,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3393,8 +3393,8 @@
       "70946690-0f25-4f2f-a971-ae82d48e416a",
       {
         "id": 903,
-        "name": 58,
-        "code": 56,
+        "name": 62,
+        "code": 60,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3402,8 +3402,8 @@
       "dfc38f7d-1a48-48d9-9aa3-019dbe2b3d65",
       {
         "id": 905,
-        "name": 212,
-        "code": 210,
+        "name": 230,
+        "code": 228,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3411,8 +3411,8 @@
       "88b82c28-37cd-4d2e-b85a-4cba737bed7b",
       {
         "id": 907,
-        "name": 217,
-        "code": 215,
+        "name": 204,
+        "code": 202,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3420,8 +3420,8 @@
       "004d408c-6777-4706-82c3-ae571ff31b29",
       {
         "id": 909,
-        "name": 202,
-        "code": 199,
+        "name": 235,
+        "code": 233,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3438,8 +3438,8 @@
       "39af8ea3-815f-46a3-b7c2-093d5886b2f4",
       {
         "id": 913,
-        "name": 207,
-        "code": 205,
+        "name": 225,
+        "code": 223,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3447,8 +3447,8 @@
       "8cc734bb-e7a7-4290-8f7d-f26b76a2859e",
       {
         "id": 915,
-        "name": 188,
-        "code": 185,
+        "name": 193,
+        "code": 191,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3456,8 +3456,8 @@
       "77246bba-29b0-4198-b711-ed4298cc3d85",
       {
         "id": 917,
-        "name": 193,
-        "code": 191,
+        "name": 188,
+        "code": 185,
         "description": 10,
         "createdAt": 867,
         "updatedAt": 867
@@ -3590,17 +3590,17 @@
           {
             "Berat (Gram)": "0.05 gr",
             "Harga Jual": "236.000",
-            "Harga Beli (Buyback)": "170.000"
+            "Harga Beli (Buyback)": "171.000"
           },
           {
             "Berat (Gram)": "0.1 gr",
-            "Harga Jual": "377.000",
+            "Harga Jual": "378.000",
             "Harga Beli (Buyback)": "289.000"
           },
           {
             "Berat (Gram)": "0.2 gr",
-            "Harga Jual": "724.000",
-            "Harga Beli (Buyback)": "551.000"
+            "Harga Jual": "726.000",
+            "Harga Beli (Buyback)": "552.000"
           },
           {
             "Berat (Gram)": "0.25 gr",
@@ -3609,18 +3609,18 @@
           },
           {
             "Berat (Gram)": "0.3 gr",
-            "Harga Jual": "1.026.000",
-            "Harga Beli (Buyback)": "827.000"
+            "Harga Jual": "1.028.000",
+            "Harga Beli (Buyback)": "829.000"
           },
           {
             "Berat (Gram)": "0.4 gr",
-            "Harga Jual": "1.321.000",
-            "Harga Beli (Buyback)": "1.103.000"
+            "Harga Jual": "1.323.000",
+            "Harga Beli (Buyback)": "1.105.000"
           },
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.587.000",
-            "Harga Beli (Buyback)": "1.366.000"
+            "Harga Jual": "1.590.000",
+            "Harga Beli (Buyback)": "1.368.000"
           }
         ]
       },
@@ -3644,43 +3644,43 @@
           },
           {
             "Berat (Gram)": "0.05 gr",
-            "Harga Jual": "342.000",
+            "Harga Jual": "343.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "0.1 gr",
-            "Harga Jual": "547.000",
+            "Harga Jual": "548.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.566.000",
+            "Harga Jual": "1.569.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.884.000",
-            "Harga Beli (Buyback)": "5.359.000"
+            "Harga Jual": "5.895.000",
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "2.2 gr",
-            "Harga Jual": "7.469.000",
+            "Harga Jual": "7.483.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "4.2 gr",
-            "Harga Jual": "12.870.000",
+            "Harga Jual": "12.894.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.265.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Jual": "14.292.000",
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "28.166.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Harga Jual": "28.220.000",
+            "Harga Beli (Buyback)": "26.850.000"
           }
         ]
       },
@@ -3694,88 +3694,28 @@
         "rows": [
           {
             "Berat (Gram)": "0.1 gr",
-            "Harga Jual": "383.000",
+            "Harga Jual": "384.000",
             "Harga Beli (Buyback)": "0"
           },
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.555.000",
-            "Harga Beli (Buyback)": "1.339.000"
+            "Harga Jual": "1.558.000",
+            "Harga Beli (Buyback)": "1.342.000"
           },
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.713.000",
-            "Harga Beli (Buyback)": "5.359.000"
+            "Harga Jual": "5.724.000",
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.049.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Jual": "14.076.000",
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "27.907.000",
-            "Harga Beli (Buyback)": "26.799.000"
-          }
-        ]
-      },
-      {
-        "title": "Harga Emas - UBS",
-        "headers": [
-          "Berat (Gram)",
-          "Harga Jual",
-          "Harga Beli (Buyback)"
-        ],
-        "rows": [
-          {
-            "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.553.000",
-            "Harga Beli (Buyback)": "1.339.000"
-          },
-          {
-            "Berat (Gram)": "1 gr",
-            "Harga Jual": "2.874.000",
-            "Harga Beli (Buyback)": "2.679.000"
-          },
-          {
-            "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.703.000",
-            "Harga Beli (Buyback)": "5.359.000"
-          },
-          {
-            "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.090.000",
-            "Harga Beli (Buyback)": "13.399.000"
-          },
-          {
-            "Berat (Gram)": "10 gr",
-            "Harga Jual": "28.033.000",
-            "Harga Beli (Buyback)": "26.799.000"
-          },
-          {
-            "Berat (Gram)": "25 gr",
-            "Harga Jual": "69.944.000",
-            "Harga Beli (Buyback)": "66.669.000"
-          },
-          {
-            "Berat (Gram)": "50 gr",
-            "Harga Jual": "139.600.000",
-            "Harga Beli (Buyback)": "133.339.000"
-          },
-          {
-            "Berat (Gram)": "100 gr",
-            "Harga Jual": "279.091.000",
-            "Harga Beli (Buyback)": "266.678.000"
-          },
-          {
-            "Berat (Gram)": "250 gr",
-            "Harga Jual": "697.521.000",
-            "Harga Beli (Buyback)": "663.410.000"
-          },
-          {
-            "Berat (Gram)": "500 gr",
-            "Harga Jual": "1.393.404.000",
-            "Harga Beli (Buyback)": "1.326.821.000"
+            "Harga Jual": "27.960.000",
+            "Harga Beli (Buyback)": "26.850.000"
           }
         ]
       },
@@ -3789,63 +3729,63 @@
         "rows": [
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.500.000",
-            "Harga Beli (Buyback)": "1.341.000"
+            "Harga Jual": "1.503.000",
+            "Harga Beli (Buyback)": "1.343.000"
           },
           {
             "Berat (Gram)": "1 gr",
-            "Harga Jual": "2.860.000",
-            "Harga Beli (Buyback)": "2.682.000"
+            "Harga Jual": "2.865.000",
+            "Harga Beli (Buyback)": "2.687.000"
           },
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.650.000",
-            "Harga Beli (Buyback)": "5.365.000"
+            "Harga Jual": "5.662.000",
+            "Harga Beli (Buyback)": "5.375.000"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.022.000",
-            "Harga Beli (Buyback)": "13.412.000"
+            "Harga Jual": "14.049.000",
+            "Harga Beli (Buyback)": "13.438.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "27.970.000",
-            "Harga Beli (Buyback)": "26.825.000"
+            "Harga Jual": "28.023.000",
+            "Harga Beli (Buyback)": "26.876.000"
           },
           {
             "Berat (Gram)": "25 gr",
-            "Harga Jual": "69.549.000",
-            "Harga Beli (Buyback)": "66.736.000"
+            "Harga Jual": "69.680.000",
+            "Harga Beli (Buyback)": "66.863.000"
           },
           {
             "Berat (Gram)": "50 gr",
-            "Harga Jual": "138.986.000",
-            "Harga Beli (Buyback)": "133.472.000"
+            "Harga Jual": "139.251.000",
+            "Harga Beli (Buyback)": "133.726.000"
           },
           {
             "Berat (Gram)": "100 gr",
-            "Harga Jual": "277.836.000",
-            "Harga Beli (Buyback)": "266.944.000"
+            "Harga Jual": "278.363.000",
+            "Harga Beli (Buyback)": "267.452.000"
           },
           {
             "Berat (Gram)": "250 gr",
-            "Harga Jual": "692.883.000",
-            "Harga Beli (Buyback)": "664.074.000"
+            "Harga Jual": "694.198.000",
+            "Harga Beli (Buyback)": "665.336.000"
           },
           {
             "Berat (Gram)": "500 gr",
-            "Harga Jual": "1.385.766.000",
-            "Harga Beli (Buyback)": "1.328.148.000"
+            "Harga Jual": "1.388.396.000",
+            "Harga Beli (Buyback)": "1.330.673.000"
           },
           {
             "Berat (Gram)": "1000 gr",
-            "Harga Jual": "2.771.531.000",
-            "Harga Beli (Buyback)": "2.656.297.000"
+            "Harga Jual": "2.776.790.000",
+            "Harga Beli (Buyback)": "2.661.347.000"
           }
         ]
       },
       {
-        "title": "Harga Emas - ANTAM NON PEGADAIAN",
+        "title": "Harga Emas - UBS",
         "headers": [
           "Berat (Gram)",
           "Harga Jual",
@@ -3854,48 +3794,53 @@
         "rows": [
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.565.000",
-            "Harga Beli (Buyback)": "1.251.000"
+            "Harga Jual": "1.556.000",
+            "Harga Beli (Buyback)": "1.342.000"
           },
           {
             "Berat (Gram)": "1 gr",
-            "Harga Jual": "2.907.000",
-            "Harga Beli (Buyback)": "2.502.000"
+            "Harga Jual": "2.879.000",
+            "Harga Beli (Buyback)": "2.685.000"
           },
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.719.000",
-            "Harga Beli (Buyback)": "5.004.000"
-          },
-          {
-            "Berat (Gram)": "3 gr",
-            "Harga Jual": "8.470.000",
-            "Harga Beli (Buyback)": "7.506.000"
+            "Harga Jual": "5.713.000",
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.200.000",
-            "Harga Beli (Buyback)": "12.510.000"
+            "Harga Jual": "14.117.000",
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "28.274.000",
-            "Harga Beli (Buyback)": "25.021.000"
+            "Harga Jual": "28.085.000",
+            "Harga Beli (Buyback)": "26.850.000"
           },
           {
             "Berat (Gram)": "25 gr",
-            "Harga Jual": "70.510.000",
-            "Harga Beli (Buyback)": "62.554.000"
+            "Harga Jual": "70.077.000",
+            "Harga Beli (Buyback)": "66.796.000"
           },
           {
             "Berat (Gram)": "50 gr",
-            "Harga Jual": "140.952.000",
-            "Harga Beli (Buyback)": "125.108.000"
+            "Harga Jual": "139.866.000",
+            "Harga Beli (Buyback)": "133.592.000"
           },
           {
             "Berat (Gram)": "100 gr",
-            "Harga Jual": "281.625.000",
-            "Harga Beli (Buyback)": "250.217.000"
+            "Harga Jual": "279.620.000",
+            "Harga Beli (Buyback)": "267.185.000"
+          },
+          {
+            "Berat (Gram)": "250 gr",
+            "Harga Jual": "698.844.000",
+            "Harga Beli (Buyback)": "664.672.000"
+          },
+          {
+            "Berat (Gram)": "500 gr",
+            "Harga Jual": "1.396.048.000",
+            "Harga Beli (Buyback)": "1.329.344.000"
           }
         ]
       },
@@ -3910,47 +3855,47 @@
           {
             "Berat (Gram)": "0.5 gr",
             "Harga Jual": "1.534.000",
-            "Harga Beli (Buyback)": "1.339.000"
+            "Harga Beli (Buyback)": "1.342.000"
           },
           {
             "Berat (Gram)": "1 gr",
             "Harga Jual": "2.964.000",
-            "Harga Beli (Buyback)": "2.679.000"
+            "Harga Beli (Buyback)": "2.685.000"
           },
           {
             "Berat (Gram)": "2 gr",
             "Harga Jual": "5.866.000",
-            "Harga Beli (Buyback)": "5.359.000"
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "3 gr",
             "Harga Jual": "8.773.000",
-            "Harga Beli (Buyback)": "8.039.000"
+            "Harga Beli (Buyback)": "8.055.000"
           },
           {
             "Berat (Gram)": "5 gr",
             "Harga Jual": "14.586.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
             "Harga Jual": "29.115.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Harga Beli (Buyback)": "26.850.000"
           },
           {
             "Berat (Gram)": "25 gr",
             "Harga Jual": "72.657.000",
-            "Harga Beli (Buyback)": "66.669.000"
+            "Harga Beli (Buyback)": "66.796.000"
           },
           {
             "Berat (Gram)": "50 gr",
             "Harga Jual": "145.231.000",
-            "Harga Beli (Buyback)": "133.339.000"
+            "Harga Beli (Buyback)": "133.592.000"
           },
           {
             "Berat (Gram)": "100 gr",
             "Harga Jual": "290.381.000",
-            "Harga Beli (Buyback)": "266.678.000"
+            "Harga Beli (Buyback)": "267.185.000"
           }
         ]
       },
@@ -3964,48 +3909,103 @@
         "rows": [
           {
             "Berat (Gram)": "0.5 gr",
-            "Harga Jual": "1.565.000",
-            "Harga Beli (Buyback)": "1.339.000"
+            "Harga Jual": "1.568.000",
+            "Harga Beli (Buyback)": "1.342.000"
           },
           {
             "Berat (Gram)": "1 gr",
-            "Harga Jual": "2.907.000",
-            "Harga Beli (Buyback)": "2.679.000"
+            "Harga Jual": "2.912.000",
+            "Harga Beli (Buyback)": "2.685.000"
           },
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.719.000",
-            "Harga Beli (Buyback)": "5.359.000"
+            "Harga Jual": "5.730.000",
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "3 gr",
-            "Harga Jual": "8.470.000",
-            "Harga Beli (Buyback)": "8.039.000"
+            "Harga Jual": "8.487.000",
+            "Harga Beli (Buyback)": "8.055.000"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.200.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Jual": "14.227.000",
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "28.274.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Harga Jual": "28.328.000",
+            "Harga Beli (Buyback)": "26.850.000"
           },
           {
             "Berat (Gram)": "25 gr",
-            "Harga Jual": "70.510.000",
-            "Harga Beli (Buyback)": "66.669.000"
+            "Harga Jual": "70.645.000",
+            "Harga Beli (Buyback)": "66.796.000"
           },
           {
             "Berat (Gram)": "50 gr",
-            "Harga Jual": "140.952.000",
-            "Harga Beli (Buyback)": "133.339.000"
+            "Harga Jual": "141.219.000",
+            "Harga Beli (Buyback)": "133.592.000"
           },
           {
             "Berat (Gram)": "100 gr",
-            "Harga Jual": "281.625.000",
-            "Harga Beli (Buyback)": "266.678.000"
+            "Harga Jual": "282.160.000",
+            "Harga Beli (Buyback)": "267.185.000"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas - ANTAM NON PEGADAIAN",
+        "headers": [
+          "Berat (Gram)",
+          "Harga Jual",
+          "Harga Beli (Buyback)"
+        ],
+        "rows": [
+          {
+            "Berat (Gram)": "0.5 gr",
+            "Harga Jual": "1.568.000",
+            "Harga Beli (Buyback)": "1.259.000"
+          },
+          {
+            "Berat (Gram)": "1 gr",
+            "Harga Jual": "2.912.000",
+            "Harga Beli (Buyback)": "2.518.000"
+          },
+          {
+            "Berat (Gram)": "2 gr",
+            "Harga Jual": "5.730.000",
+            "Harga Beli (Buyback)": "5.036.000"
+          },
+          {
+            "Berat (Gram)": "3 gr",
+            "Harga Jual": "8.487.000",
+            "Harga Beli (Buyback)": "7.554.000"
+          },
+          {
+            "Berat (Gram)": "5 gr",
+            "Harga Jual": "14.227.000",
+            "Harga Beli (Buyback)": "12.590.000"
+          },
+          {
+            "Berat (Gram)": "10 gr",
+            "Harga Jual": "28.328.000",
+            "Harga Beli (Buyback)": "25.181.000"
+          },
+          {
+            "Berat (Gram)": "25 gr",
+            "Harga Jual": "70.645.000",
+            "Harga Beli (Buyback)": "62.953.000"
+          },
+          {
+            "Berat (Gram)": "50 gr",
+            "Harga Jual": "141.219.000",
+            "Harga Beli (Buyback)": "125.906.000"
+          },
+          {
+            "Berat (Gram)": "100 gr",
+            "Harga Jual": "282.160.000",
+            "Harga Beli (Buyback)": "251.812.000"
           }
         ]
       },
@@ -4020,7 +4020,7 @@
           {
             "Berat (Gram)": "0.5 gr",
             "Harga Jual": "1.541.000",
-            "Harga Beli (Buyback)": "1.339.000"
+            "Harga Beli (Buyback)": "1.342.000"
           }
         ]
       },
@@ -4035,32 +4035,32 @@
           {
             "Berat (Gram)": "1 gr",
             "Harga Jual": "2.919.000",
-            "Harga Beli (Buyback)": "2.679.000"
+            "Harga Beli (Buyback)": "2.685.000"
           },
           {
             "Berat (Gram)": "5 gr",
             "Harga Jual": "14.370.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
             "Harga Jual": "28.541.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Harga Beli (Buyback)": "26.850.000"
           },
           {
             "Berat (Gram)": "25 gr",
             "Harga Jual": "70.964.000",
-            "Harga Beli (Buyback)": "66.669.000"
+            "Harga Beli (Buyback)": "66.796.000"
           },
           {
             "Berat (Gram)": "50 gr",
             "Harga Jual": "141.898.000",
-            "Harga Beli (Buyback)": "133.339.000"
+            "Harga Beli (Buyback)": "133.592.000"
           },
           {
             "Berat (Gram)": "100 gr",
             "Harga Jual": "283.615.000",
-            "Harga Beli (Buyback)": "266.678.000"
+            "Harga Beli (Buyback)": "267.185.000"
           }
         ]
       },
@@ -4074,33 +4074,18 @@
         "rows": [
           {
             "Berat (Gram)": "1.06 gr",
-            "Harga Jual": "2.918.000",
-            "Harga Beli (Buyback)": "2.840.000"
+            "Harga Jual": "2.923.000",
+            "Harga Beli (Buyback)": "2.846.000"
           },
           {
             "Berat (Gram)": "2.13 gr",
-            "Harga Jual": "5.809.000",
-            "Harga Beli (Buyback)": "5.708.000"
+            "Harga Jual": "5.819.000",
+            "Harga Beli (Buyback)": "5.719.000"
           },
           {
             "Berat (Gram)": "4.25 gr",
-            "Harga Jual": "11.483.000",
-            "Harga Beli (Buyback)": "11.389.000"
-          }
-        ]
-      },
-      {
-        "title": "Harga Emas - BABY SERIES TUMBUHAN",
-        "headers": [
-          "Berat (Gram)",
-          "Harga Jual",
-          "Harga Beli (Buyback)"
-        ],
-        "rows": [
-          {
-            "Berat (Gram)": "1.5 gr",
-            "Harga Jual": "5.073.000",
-            "Harga Beli (Buyback)": "0"
+            "Harga Jual": "11.504.000",
+            "Harga Beli (Buyback)": "11.411.000"
           }
         ]
       },
@@ -4114,13 +4099,13 @@
         "rows": [
           {
             "Berat (Gram)": "1.5 gr",
-            "Harga Jual": "5.073.000",
+            "Harga Jual": "5.084.000",
             "Harga Beli (Buyback)": "0"
           }
         ]
       },
       {
-        "title": "Harga Emas - UBS MICKEY FULLBODY",
+        "title": "Harga Emas - BABY SERIES TUMBUHAN",
         "headers": [
           "Berat (Gram)",
           "Harga Jual",
@@ -4128,59 +4113,9 @@
         ],
         "rows": [
           {
-            "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.713.000",
-            "Harga Beli (Buyback)": "5.359.000"
-          },
-          {
-            "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.049.000",
-            "Harga Beli (Buyback)": "13.399.000"
-          },
-          {
-            "Berat (Gram)": "10 gr",
-            "Harga Jual": "27.907.000",
-            "Harga Beli (Buyback)": "26.799.000"
-          }
-        ]
-      },
-      {
-        "title": "Harga Emas - UBS HELLO KITTY",
-        "headers": [
-          "Berat (Gram)",
-          "Harga Jual",
-          "Harga Beli (Buyback)"
-        ],
-        "rows": [
-          {
-            "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.713.000",
-            "Harga Beli (Buyback)": "5.359.000"
-          }
-        ]
-      },
-      {
-        "title": "Harga Emas - UBS ELSA",
-        "headers": [
-          "Berat (Gram)",
-          "Harga Jual",
-          "Harga Beli (Buyback)"
-        ],
-        "rows": [
-          {
-            "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.713.000",
-            "Harga Beli (Buyback)": "5.359.000"
-          },
-          {
-            "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.049.000",
-            "Harga Beli (Buyback)": "13.399.000"
-          },
-          {
-            "Berat (Gram)": "10 gr",
-            "Harga Jual": "27.907.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Berat (Gram)": "1.5 gr",
+            "Harga Jual": "5.084.000",
+            "Harga Beli (Buyback)": "0"
           }
         ]
       },
@@ -4194,18 +4129,83 @@
         "rows": [
           {
             "Berat (Gram)": "2 gr",
-            "Harga Jual": "5.713.000",
-            "Harga Beli (Buyback)": "5.359.000"
+            "Harga Jual": "5.724.000",
+            "Harga Beli (Buyback)": "5.370.000"
           },
           {
             "Berat (Gram)": "5 gr",
-            "Harga Jual": "14.049.000",
-            "Harga Beli (Buyback)": "13.399.000"
+            "Harga Jual": "14.076.000",
+            "Harga Beli (Buyback)": "13.425.000"
           },
           {
             "Berat (Gram)": "10 gr",
-            "Harga Jual": "27.907.000",
-            "Harga Beli (Buyback)": "26.799.000"
+            "Harga Jual": "27.960.000",
+            "Harga Beli (Buyback)": "26.850.000"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas - UBS HELLO KITTY",
+        "headers": [
+          "Berat (Gram)",
+          "Harga Jual",
+          "Harga Beli (Buyback)"
+        ],
+        "rows": [
+          {
+            "Berat (Gram)": "2 gr",
+            "Harga Jual": "5.724.000",
+            "Harga Beli (Buyback)": "5.370.000"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas - UBS ELSA",
+        "headers": [
+          "Berat (Gram)",
+          "Harga Jual",
+          "Harga Beli (Buyback)"
+        ],
+        "rows": [
+          {
+            "Berat (Gram)": "2 gr",
+            "Harga Jual": "5.724.000",
+            "Harga Beli (Buyback)": "5.370.000"
+          },
+          {
+            "Berat (Gram)": "5 gr",
+            "Harga Jual": "14.076.000",
+            "Harga Beli (Buyback)": "13.425.000"
+          },
+          {
+            "Berat (Gram)": "10 gr",
+            "Harga Jual": "27.960.000",
+            "Harga Beli (Buyback)": "26.850.000"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas - UBS MICKEY FULLBODY",
+        "headers": [
+          "Berat (Gram)",
+          "Harga Jual",
+          "Harga Beli (Buyback)"
+        ],
+        "rows": [
+          {
+            "Berat (Gram)": "2 gr",
+            "Harga Jual": "5.724.000",
+            "Harga Beli (Buyback)": "5.370.000"
+          },
+          {
+            "Berat (Gram)": "5 gr",
+            "Harga Jual": "14.076.000",
+            "Harga Beli (Buyback)": "13.425.000"
+          },
+          {
+            "Berat (Gram)": "10 gr",
+            "Harga Jual": "27.960.000",
+            "Harga Beli (Buyback)": "26.850.000"
           }
         ]
       }
