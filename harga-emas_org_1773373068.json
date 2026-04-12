@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-12T23:46:00.229439"
+    "scrape_date": "2026-04-13T03:42:28.045574"
   },
   "data": {
     "technique": "direct_request",
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:12 April 2026 pukul 16.30Harga pembelian kembali:Rp2.709.000/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:12 April 2026 pukul 20.32Harga pembelian kembali:Rp2.709.000/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:12 April 2026"
           }
         ]
@@ -353,33 +353,33 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "11.9238",
-            "Jual": "12.2065"
+            "Beli": "11.8335",
+            "Jual": "12.1105"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.2341",
-            "Jual": "12.4519"
+            "Beli": "12.2225",
+            "Jual": "12.4349"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.4509",
-            "Jual": "21.8491"
+            "Beli": "21.3802",
+            "Jual": "21.8133"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.6591",
-            "Jual": "2.7025"
+            "Beli": "2.6589",
+            "Jual": "2.7024"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19.8468",
-            "Jual": "20.1994"
+            "Beli": "19.7667",
+            "Jual": "20.1291"
           },
           {
             "Kurs": "GBP",
-            "Beli": "22.7944",
-            "Jual": "23.204"
+            "Beli": "22.687",
+            "Jual": "23.1133"
           },
           {
             "Kurs": "HKD",
@@ -388,8 +388,8 @@
           },
           {
             "Kurs": "JPY",
-            "Beli": "10613",
-            "Jual": "10837"
+            "Beli": "10590",
+            "Jual": "10820"
           },
           {
             "Kurs": "MYR",
@@ -398,8 +398,8 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "9.8516",
-            "Jual": "10.0896"
+            "Beli": "9.7868",
+            "Jual": "10.0416"
           },
           {
             "Kurs": "SAR",
@@ -408,13 +408,13 @@
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8195",
-            "Jual": "1.8682"
+            "Beli": "1.8039",
+            "Jual": "1.8613"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.2949",
-            "Jual": "13.5276"
+            "Beli": "13.2939",
+            "Jual": "13.5266"
           },
           {
             "Kurs": "THB",
