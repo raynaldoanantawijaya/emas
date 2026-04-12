@@ -2,11 +2,30 @@
   "metadata": {
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
-    "technique_used": "DOM Extraction",
-    "scrape_date": "2026-04-12T12:57:26.089026"
+    "technique_used": "Network Capture + DOM Extraction",
+    "scrape_date": "2026-04-12T15:56:23.054037"
   },
   "data": {
-    "technique": "dom_extraction",
+    "technique": "network_capture",
+    "captured_apis": {
+      "https://www.logammulia.com/cdn-cgi/speculation": {
+        "prefetch": [
+          {
+            "eagerness": "conservative",
+            "source": "document",
+            "where": {
+              "and": [
+                {
+                  "href_matches": "/*",
+                  "relative_to": "document"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    "api_count": 1,
     "tables": [
       {
         "title": "Harga Emas Hari Ini, 12 Apr 2026 - Emas Batangan",
