@@ -2,8 +2,8 @@
   "metadata": {
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
-    "technique_used": "Network Capture",
-    "scrape_date": "2026-04-14T16:25:17.683944"
+    "technique_used": "Network Capture + DOM Extraction",
+    "scrape_date": "2026-04-14T20:55:17.371973"
   },
   "data": {
     "technique": "network_capture",
@@ -25,6 +25,332 @@
         ]
       }
     },
-    "api_count": 1
+    "api_count": 1,
+    "tables": [
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Emas Batangan",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
+        ],
+        "rows": [
+          {
+            "Berat": "0.5 gr",
+            "Harga Dasar": "1,481,500",
+            "Harga (+Pajak PPh 0.25%)": "1,485,204"
+          },
+          {
+            "Berat": "1 gr",
+            "Harga Dasar": "2,863,000",
+            "Harga (+Pajak PPh 0.25%)": "2,870,158"
+          },
+          {
+            "Berat": "2 gr",
+            "Harga Dasar": "5,666,000",
+            "Harga (+Pajak PPh 0.25%)": "5,680,165"
+          },
+          {
+            "Berat": "3 gr",
+            "Harga Dasar": "8,474,000",
+            "Harga (+Pajak PPh 0.25%)": "8,495,185"
+          },
+          {
+            "Berat": "5 gr",
+            "Harga Dasar": "14,090,000",
+            "Harga (+Pajak PPh 0.25%)": "14,125,225"
+          },
+          {
+            "Berat": "10 gr",
+            "Harga Dasar": "28,125,000",
+            "Harga (+Pajak PPh 0.25%)": "28,195,313"
+          },
+          {
+            "Berat": "25 gr",
+            "Harga Dasar": "70,187,000",
+            "Harga (+Pajak PPh 0.25%)": "70,362,468"
+          },
+          {
+            "Berat": "50 gr",
+            "Harga Dasar": "140,295,000",
+            "Harga (+Pajak PPh 0.25%)": "140,645,738"
+          },
+          {
+            "Berat": "100 gr",
+            "Harga Dasar": "280,512,000",
+            "Harga (+Pajak PPh 0.25%)": "281,213,280"
+          },
+          {
+            "Berat": "250 gr",
+            "Harga Dasar": "701,015,000",
+            "Harga (+Pajak PPh 0.25%)": "702,767,538"
+          },
+          {
+            "Berat": "500 gr",
+            "Harga Dasar": "1,401,820,000",
+            "Harga (+Pajak PPh 0.25%)": "1,405,324,550"
+          },
+          {
+            "Berat": "1000 gr",
+            "Harga Dasar": "2,803,600,000",
+            "Harga (+Pajak PPh 0.25%)": "2,810,609,000"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Emas Batangan Gift Series",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
+        ],
+        "rows": [
+          {
+            "Berat": "0.5 gr",
+            "Harga Dasar": "1,551,500",
+            "Harga (+Pajak PPh 0.25%)": "1,555,379"
+          },
+          {
+            "Berat": "1 gr",
+            "Harga Dasar": "3,013,000",
+            "Harga (+Pajak PPh 0.25%)": "3,020,533"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Emas Batangan Selamat Idul Fitri",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
+        ],
+        "rows": [
+          {
+            "Berat": "5 gr",
+            "Harga Dasar": "15,063,000",
+            "Harga (+Pajak PPh 0.25%)": "15,100,658"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Emas Batangan Imlek",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
+        ],
+        "rows": [
+          {
+            "Berat": "8 gr",
+            "Harga Dasar": "23,758,800",
+            "Harga (+Pajak PPh 0.25%)": "23,818,197"
+          },
+          {
+            "Berat": "88 gr",
+            "Harga Dasar": "258,641,600",
+            "Harga (+Pajak PPh 0.25%)": "259,288,204"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Emas Batangan Batik Seri III",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
+        ],
+        "rows": [
+          {
+            "Berat": "10 gr",
+            "Harga Dasar": "29,130,000",
+            "Harga (+Pajak PPh 0.25%)": "29,202,825"
+          },
+          {
+            "Berat": "20 gr",
+            "Harga Dasar": "57,460,000",
+            "Harga (+Pajak PPh 0.25%)": "57,603,650"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Perak Murni",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 11%"
+        ],
+        "rows": [
+          {
+            "Berat": "250 gr",
+            "Harga Dasar": "12,437,500",
+            "Harga Sudah Termasuk PPN 11%": "13,805,625"
+          },
+          {
+            "Berat": "500 gr",
+            "Harga Dasar": "24,075,000",
+            "Harga Sudah Termasuk PPN 11%": "26,723,250"
+          }
+        ]
+      },
+      {
+        "title": "Harga Emas Hari Ini, 14 Apr 2026 - Perak Heritage",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 11%"
+        ],
+        "rows": [
+          {
+            "Berat": "31.1 gr",
+            "Harga Dasar": "2,045,267",
+            "Harga Sudah Termasuk PPN 11%": "2,270,246"
+          },
+          {
+            "Berat": "186.6 gr",
+            "Harga Dasar": "11,150,086",
+            "Harga Sudah Termasuk PPN 11%": "12,376,595"
+          }
+        ]
+      },
+      {
+        "title": "Liontin Batik Seri III",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 1.65%",
+          "Harga Sudah Termasuk PPN 1.1% + PPh 22 0.25%"
+        ],
+        "rows": [
+          {
+            "Berat": "8 gr",
+            "Harga Dasar": "17,275,456",
+            "Harga Sudah Termasuk PPN 1.65%": "17,560,501",
+            "Harga Sudah Termasuk PPN 1.1% + PPh 22 0.25%": "17,508,675"
+          }
+        ]
+      }
+    ],
+    "articles": [
+      {
+        "judul": "Verifikasi Produk",
+        "url": "https://www.logammulia.com/product-verify",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Bahasa Indonesia",
+        "url": "https://www.logammulia.com/change-language/id",
+        "thumbnail": "https://www.logammulia.com/uploads/ngc_languages/5b3dc20ea0e2a_20180705140030-1.png",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Idul Fitri",
+        "url": "https://www.logammulia.com/purchase/emas-idul-fitri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Batangan Batik",
+        "url": "https://www.logammulia.com/purchase/seri-batik-indonesia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Idul Fitri",
+        "url": "https://www.logammulia.com/product-list/emas-idul-fitri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Perak Indonesian Heritage",
+        "url": "https://www.logammulia.com/product-list/silverheritage",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Produk Industri",
+        "url": "https://www.logammulia.com/product-list/produk-industri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Perak Murni 99.95%",
+        "url": "https://www.logammulia.com/product-list/perak",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "View All Category",
+        "url": "https://www.logammulia.com/product-list",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Harga Emas Hari Ini",
+        "url": "https://www.logammulia.com/harga-emas-hari-ini",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Grafik Harga Emas",
+        "url": "https://www.logammulia.com/grafik-harga-emas",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Cek Alamat Butik",
+        "url": "https://www.logammulia.com/contact#butik-lm",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "SIMULASI BUYBACK",
+        "url": "https://www.logammulia.com/sell/gold",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Teknologi CertiEye",
+        "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "delivery.logammulia@antam.com",
+        "url": "mailto:delivery.logammulia@antam.com",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Pengujian dan Analisis",
+        "url": "https://www.logammulia.com/assaying-analysis",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Profil Logam Mulia",
+        "url": "https://www.logammulia.com/about",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Berita dan Promo",
+        "url": "https://www.logammulia.com/news",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Syarat dan Ketentuan",
+        "url": "https://www.logammulia.com/pages/term-and-conditions",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Kebijakan Privasi",
+        "url": "https://www.logammulia.com/pages/privacy-policy",
+        "thumbnail": "",
+        "waktu": ""
+      }
+    ]
   }
 }
