@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-18T20:11:50.946856"
+    "scrape_date": "2026-04-18T23:49:16.975482"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.831,23(-10,66)",
-            "IDR": "82.808.825,66(-145.759,91)"
+            "USD": "4.831,23(-40,5)",
+            "IDR": "82.808.825,66(-492.579,85)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "155,33(-0,34)",
-            "IDR": "2.662.365,57(-4.686,29)"
+            "USD": "155,33(-1,3)",
+            "IDR": "2.662.365,57(-15.836,81)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "155.327,65(-342,73)",
-            "IDR": "2.662.365.570(-4.686.290)"
+            "USD": "155.327,65(-1.302,11)",
+            "IDR": "2.662.365.570(-15.836.810)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:18 April 2026 pukul 13.02Harga pembelian kembali:Rp2.730.600/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:18 April 2026 pukul 16.31Harga pembelian kembali:Rp2.730.600/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:18 April 2026"
           }
         ]
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2708265,
+          "price": 2707994,
           "priceCurrency": "IDR"
         },
         "provider": {
