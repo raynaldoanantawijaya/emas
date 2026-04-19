@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-04-19T03:42:49.257692"
+    "scrape_date": "2026-04-19T10:22:01.232504"
   },
   "data": {
     "technique": "network_capture",
@@ -28,7 +28,7 @@
     "api_count": 1,
     "tables": [
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Emas Batangan",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Emas Batangan",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Emas Batangan Gift Series",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Emas Batangan Gift Series",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -118,7 +118,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Emas Batangan Selamat Idul Fitri",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Emas Batangan Selamat Idul Fitri",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -133,7 +133,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Emas Batangan Imlek",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Emas Batangan Imlek",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Emas Batangan Batik Seri III",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Emas Batangan Batik Seri III",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Perak Murni",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Perak Murni",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -193,7 +193,7 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 18 Apr 2026 - Perak Heritage",
+        "title": "Harga Emas Hari Ini, 19 Apr 2026 - Perak Heritage",
         "headers": [
           "Berat",
           "Harga Dasar",
