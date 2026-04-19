@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-19T13:01:25.993709"
+    "scrape_date": "2026-04-19T16:00:25.013415"
   },
   "data": {
     "technique": "direct_request",
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:19 April 2026 pukul 05.31Harga pembelian kembali:Rp2.730.600/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:19 April 2026 pukul 08.31Harga pembelian kembali:Rp2.730.600/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:19 April 2026"
           }
         ]
@@ -403,8 +403,8 @@
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.5265",
-            "Jual": "4.6037"
+            "Beli": "4.5262",
+            "Jual": "4.6036"
           },
           {
             "Kurs": "SEK",
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2707994,
+          "price": 2707723,
           "priceCurrency": "IDR"
         },
         "provider": {
