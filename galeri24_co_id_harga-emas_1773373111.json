@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-04-24T10:19:42.833705"
+    "scrape_date": "2026-04-24T13:11:38.259009"
   },
   "data": {
     "technique": "network_capture",
@@ -14,36 +14,6 @@
         "createdAt": "2023-12-02T05:45:36.077Z",
         "updatedAt": "2026-04-20T11:20:00.799Z"
       },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "DIGITAL.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2025-06-03T11:52:00.921Z"
-        }
-      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -158,7 +128,37 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
-      }
+      },
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "DIGITAL.jpg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2025-06-03T11:52:00.921Z"
+        }
+      ]
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2297,7 +2297,7 @@
       },
       [
         "Date",
-        "2026-04-24T03:19:23.220Z"
+        "2026-04-24T06:11:19.204Z"
       ],
       false,
       100,
