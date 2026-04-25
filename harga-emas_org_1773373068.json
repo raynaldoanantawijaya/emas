@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-04-25T12:50:46.785187"
+    "scrape_date": "2026-04-25T15:59:33.597137"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.708,69(+24)",
-            "IDR": "81.237.555,15(+276.630,59)"
+            "USD": "4.708,69(+21,16)",
+            "IDR": "81.237.555,15(+323.772,26)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "151,39(+0,77)",
-            "IDR": "2.611.848,05(+8.893,88)"
+            "USD": "151,39(+0,68)",
+            "IDR": "2.611.848,05(+10.409,52)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "151.387,9(+771,62)",
-            "IDR": "2.611.848.050(+8.893.880)"
+            "USD": "151.387,9(+680,31)",
+            "IDR": "2.611.848.050(+10.409.520)"
           }
         ]
       },
@@ -44,62 +44,62 @@
           {
             "Satuan Gram": "1000",
             "Antam per Gram (Rp)": "2.765.600.000",
-            "Pegadaian per Gram (Rp)": "2.723.148.000"
+            "Pegadaian per Gram (Rp)": "2.733.665.000"
           },
           {
             "Satuan Gram": "500",
             "Antam per Gram (Rp)": "1.382.820.000",
-            "Pegadaian per Gram (Rp)": "1.361.575.000"
+            "Pegadaian per Gram (Rp)": "1.366.833.000"
           },
           {
             "Satuan Gram": "250",
             "Antam per Gram (Rp)": "691.515.000",
-            "Pegadaian per Gram (Rp)": "680.788.000"
+            "Pegadaian per Gram (Rp)": "683.417.000"
           },
           {
             "Satuan Gram": "100",
             "Antam per Gram (Rp)": "276.712.000",
-            "Pegadaian per Gram (Rp)": "272.986.000"
+            "Pegadaian per Gram (Rp)": "274.040.000"
           },
           {
             "Satuan Gram": "50",
             "Antam per Gram (Rp)": "138.395.000",
-            "Pegadaian per Gram (Rp)": "136.560.000"
+            "Pegadaian per Gram (Rp)": "137.088.000"
           },
           {
             "Satuan Gram": "25",
             "Antam per Gram (Rp)": "69.237.000",
-            "Pegadaian per Gram (Rp)": "68.334.000"
+            "Pegadaian per Gram (Rp)": "68.599.000"
           },
           {
             "Satuan Gram": "10",
             "Antam per Gram (Rp)": "28.750.000",
-            "Pegadaian per Gram (Rp)": "27.482.000"
+            "Pegadaian per Gram (Rp)": "27.588.000"
           },
           {
             "Satuan Gram": "5",
             "Antam per Gram (Rp)": "14.873.000",
-            "Pegadaian per Gram (Rp)": "13.778.000"
+            "Pegadaian per Gram (Rp)": "13.831.000"
           },
           {
             "Satuan Gram": "2",
             "Antam per Gram (Rp)": "5.590.000",
-            "Pegadaian per Gram (Rp)": "5.552.000"
+            "Pegadaian per Gram (Rp)": "5.573.000"
           },
           {
             "Satuan Gram": "1",
             "Antam per Gram (Rp)": "2.975.000",
-            "Pegadaian per Gram (Rp)": "2.810.000"
+            "Pegadaian per Gram (Rp)": "2.820.000"
           },
           {
             "Satuan Gram": "0.5",
             "Antam per Gram (Rp)": "1.532.500",
-            "Pegadaian per Gram (Rp)": "1.473.000"
+            "Pegadaian per Gram (Rp)": "1.480.000"
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:25 April 2026 pukul 05.31Harga pembelian kembali:Rp2.677.500/grm",
-            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:24 April 2026"
+            "Antam per Gram (Rp)": "Update harga LM Antam:25 April 2026 pukul 08.31Harga pembelian kembali:Rp2.677.500/grm",
+            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:25 April 2026"
           }
         ]
       },
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2613667,
+          "price": 2613920,
           "priceCurrency": "IDR"
         },
         "provider": {
