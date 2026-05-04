@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-05-04T17:18:32.941084"
+    "scrape_date": "2026-05-04T21:12:11.718149"
   },
   "data": {
     "technique": "network_capture",
@@ -234,6 +234,12 @@
       {
         "judul": "Verifikasi Produk",
         "url": "https://www.logammulia.com/product-verify",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "RIWAYAT PEMESANAN",
+        "url": "https://www.logammulia.com/my-account/order-history",
         "thumbnail": "",
         "waktu": ""
       },
