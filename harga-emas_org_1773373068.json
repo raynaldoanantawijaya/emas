@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-05-09T13:20:33.207019"
+    "scrape_date": "2026-05-09T16:24:13.284655"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.715,61(-8,07)",
-            "IDR": "81.945.128,76(-93.999,68)"
+            "USD": "4.715,61(-2,32)",
+            "IDR": "81.945.128,76(+74.950,67)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "151,61(-0,26)",
-            "IDR": "2.634.597,07(-3.022,16)"
+            "USD": "151,61(-0,07)",
+            "IDR": "2.634.597,07(+2.409,72)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "151.610,38(-259,46)",
-            "IDR": "2.634.597.070(-3.022.160)"
+            "USD": "151.610,38(-74,59)",
+            "IDR": "2.634.597.070(+2.409.720)"
           }
         ]
       },
@@ -44,61 +44,61 @@
           {
             "Satuan Gram": "1000",
             "Antam per Gram (Rp)": "2.779.600.000",
-            "Pegadaian per Gram (Rp)": "2.745.235.000"
+            "Pegadaian per Gram (Rp)": "2.748.391.000"
           },
           {
             "Satuan Gram": "500",
             "Antam per Gram (Rp)": "1.389.820.000",
-            "Pegadaian per Gram (Rp)": "1.372.618.000"
+            "Pegadaian per Gram (Rp)": "1.374.196.000"
           },
           {
             "Satuan Gram": "250",
             "Antam per Gram (Rp)": "695.015.000",
-            "Pegadaian per Gram (Rp)": "686.310.000"
+            "Pegadaian per Gram (Rp)": "687.099.000"
           },
           {
             "Satuan Gram": "100",
             "Antam per Gram (Rp)": "278.112.000",
-            "Pegadaian per Gram (Rp)": "275.200.000"
+            "Pegadaian per Gram (Rp)": "275.516.000"
           },
           {
             "Satuan Gram": "50",
             "Antam per Gram (Rp)": "139.095.000",
-            "Pegadaian per Gram (Rp)": "137.668.000"
+            "Pegadaian per Gram (Rp)": "137.826.000"
           },
           {
             "Satuan Gram": "25",
             "Antam per Gram (Rp)": "69.587.000",
-            "Pegadaian per Gram (Rp)": "68.889.000"
+            "Pegadaian per Gram (Rp)": "68.968.000"
           },
           {
             "Satuan Gram": "10",
             "Antam per Gram (Rp)": "28.890.000",
-            "Pegadaian per Gram (Rp)": "27.704.000"
+            "Pegadaian per Gram (Rp)": "27.736.000"
           },
           {
             "Satuan Gram": "5",
             "Antam per Gram (Rp)": "14.943.000",
-            "Pegadaian per Gram (Rp)": "13.889.000"
+            "Pegadaian per Gram (Rp)": "13.906.000"
           },
           {
             "Satuan Gram": "2",
             "Antam per Gram (Rp)": "5.618.000",
-            "Pegadaian per Gram (Rp)": "5.597.000"
+            "Pegadaian per Gram (Rp)": "5.603.000"
           },
           {
             "Satuan Gram": "1",
             "Antam per Gram (Rp)": "2.989.000",
-            "Pegadaian per Gram (Rp)": "2.833.000"
+            "Pegadaian per Gram (Rp)": "2.836.000"
           },
           {
             "Satuan Gram": "0.5",
             "Antam per Gram (Rp)": "1.539.500",
-            "Pegadaian per Gram (Rp)": "1.486.000"
+            "Pegadaian per Gram (Rp)": "1.488.000"
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:09 Mei 2026 pukul 06.02Harga pembelian kembali:Rp2.690.100/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:09 Mei 2026 pukul 09.02Harga pembelian kembali:Rp2.690.100/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:09 Mei 2026"
           }
         ]
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2639995,
+          "price": 2639987,
           "priceCurrency": "IDR"
         },
         "provider": {
