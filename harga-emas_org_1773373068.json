@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-05-16T10:33:26.928611"
+    "scrape_date": "2026-05-16T13:26:24.429797"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "4.540,49(-31,71)",
+            "IDR": "79.925.958,86(-616.190,36)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "145,98(-1,02)",
+            "IDR": "2.569.679,25(-19.810,98)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "145.980,14(-1.019,5)",
+            "IDR": "2.569.679.250(-19.810.980)"
           }
         ]
       },
@@ -44,61 +44,61 @@
           {
             "Satuan Gram": "1000",
             "Antam per Gram (Rp)": "2.709.600.000",
-            "Pegadaian per Gram (Rp)": "2.707.370.000"
+            "Pegadaian per Gram (Rp)": "2.678.971.000"
           },
           {
             "Satuan Gram": "500",
             "Antam per Gram (Rp)": "1.354.820.000",
-            "Pegadaian per Gram (Rp)": "1.353.685.000"
+            "Pegadaian per Gram (Rp)": "1.339.486.000"
           },
           {
             "Satuan Gram": "250",
             "Antam per Gram (Rp)": "677.515.000",
-            "Pegadaian per Gram (Rp)": "676.843.000"
+            "Pegadaian per Gram (Rp)": "669.744.000"
           },
           {
             "Satuan Gram": "100",
             "Antam per Gram (Rp)": "271.112.000",
-            "Pegadaian per Gram (Rp)": "271.404.000"
+            "Pegadaian per Gram (Rp)": "268.558.000"
           },
           {
             "Satuan Gram": "50",
             "Antam per Gram (Rp)": "135.595.000",
-            "Pegadaian per Gram (Rp)": "135.769.000"
+            "Pegadaian per Gram (Rp)": "134.345.000"
           },
           {
             "Satuan Gram": "25",
             "Antam per Gram (Rp)": "67.837.000",
-            "Pegadaian per Gram (Rp)": "67.939.000"
+            "Pegadaian per Gram (Rp)": "67.226.000"
           },
           {
             "Satuan Gram": "10",
             "Antam per Gram (Rp)": "28.190.000",
-            "Pegadaian per Gram (Rp)": "27.323.000"
+            "Pegadaian per Gram (Rp)": "27.036.000"
           },
           {
             "Satuan Gram": "5",
             "Antam per Gram (Rp)": "14.593.000",
-            "Pegadaian per Gram (Rp)": "13.698.000"
+            "Pegadaian per Gram (Rp)": "13.554.000"
           },
           {
             "Satuan Gram": "2",
             "Antam per Gram (Rp)": "5.478.000",
-            "Pegadaian per Gram (Rp)": "5.520.000"
+            "Pegadaian per Gram (Rp)": "5.462.000"
           },
           {
             "Satuan Gram": "1",
             "Antam per Gram (Rp)": "2.919.000",
-            "Pegadaian per Gram (Rp)": "2.794.000"
+            "Pegadaian per Gram (Rp)": "2.764.000"
           },
           {
             "Satuan Gram": "0.5",
             "Antam per Gram (Rp)": "1.504.500",
-            "Pegadaian per Gram (Rp)": "1.465.000"
+            "Pegadaian per Gram (Rp)": "1.450.000"
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:16 Mei 2026 pukul 03.01Harga pembelian kembali:Rp2.627.100/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:16 Mei 2026 pukul 06.23Harga pembelian kembali:Rp2.627.100/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:16 Mei 2026"
           }
         ]
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2566154,
+          "price": 2566150,
           "priceCurrency": "IDR"
         },
         "provider": {
