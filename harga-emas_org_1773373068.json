@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-06-10T22:46:36.555678"
+    "scrape_date": "2026-06-11T01:33:45.955079"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.125,73(-147,54)",
-            "IDR": "73.543.871,3(-3.233.913,39)"
+            "USD": "4.109,86(-162,24)",
+            "IDR": "73.302.497,12(-3.238.387,32)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "132,65(-4,74)",
-            "IDR": "2.364.490,37(-103.972,73)"
+            "USD": "132,14(-5,22)",
+            "IDR": "2.356.730,01(-104.116,57)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "132.645,3(-4.743,52)",
-            "IDR": "2.364.490.370(-103.972.730)"
+            "USD": "132.135,07(-5.216,14)",
+            "IDR": "2.356.730.010(-104.116.570)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:10 Juni 2026 pukul 15.31Harga pembelian kembali:Rp2.576.700/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:10 Juni 2026 pukul 18.31Harga pembelian kembali:Rp2.576.700/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:28 Mei 2026"
           }
         ]
@@ -353,43 +353,43 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "12.4507",
-            "Jual": "12.6489"
+            "Beli": "12.4436",
+            "Jual": "12.6399"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.7333",
-            "Jual": "12.9192"
+            "Beli": "12.737",
+            "Jual": "12.922"
           },
           {
             "Kurs": "CHF",
-            "Beli": "22.2065",
-            "Jual": "22.5583"
+            "Beli": "22.2009",
+            "Jual": "22.5498"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.7434",
-            "Jual": "2.7803"
+            "Beli": "2.7441",
+            "Jual": "2.7813"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.4894",
-            "Jual": "20.7963"
+            "Beli": "20.4948",
+            "Jual": "20.7999"
           },
           {
             "Kurs": "GBP",
-            "Beli": "23.7472",
-            "Jual": "24.1056"
+            "Beli": "23.7544",
+            "Jual": "24.1092"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.265",
-            "Jual": "2.2953"
+            "Beli": "2.2649",
+            "Jual": "2.2955"
           },
           {
             "Kurs": "JPY",
-            "Beli": "11032",
-            "Jual": "11238"
+            "Beli": "11031",
+            "Jual": "11237"
           },
           {
             "Kurs": "MYR",
@@ -398,8 +398,8 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.3256",
-            "Jual": "10.4978"
+            "Beli": "10.3078",
+            "Jual": "10.4835"
           },
           {
             "Kurs": "SAR",
@@ -408,18 +408,18 @@
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.873",
-            "Jual": "1.8973"
+            "Beli": "1.8714",
+            "Jual": "1.8957"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.7885",
-            "Jual": "13.9949"
+            "Beli": "13.7853",
+            "Jual": "13.9917"
           },
           {
             "Kurs": "THB",
             "Beli": "53661",
-            "Jual": "54921"
+            "Jual": "54887"
           },
           {
             "Kurs": "USD",
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2456549,
+          "price": 2450956,
           "priceCurrency": "IDR"
         },
         "provider": {
