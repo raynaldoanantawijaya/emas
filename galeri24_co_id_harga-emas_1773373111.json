@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-06-11T19:13:39.139077"
+    "scrape_date": "2026-06-12T01:50:17.987269"
   },
   "data": {
     "technique": "network_capture",
@@ -131,6 +131,20 @@
       },
       "https://galeri24.co.id/api/banners": [
         {
+          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
+          "createdAt": "2026-06-11T14:26:06.395Z",
+          "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
           "id": "cf4b1863-0955-429f-a021-0921485c6007",
           "group": "HERO",
           "title": ".",
@@ -152,11 +166,11 @@
           "orderNumber": 2,
           "ctaLabel": "",
           "ctaUrl": "",
-          "imageName": "DIGITAL.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/31d752541cc5c5d9322fdcb68ad7eca0",
+          "imageName": "Copy of Template - Banner Website  (3).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
           "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2025-06-03T11:52:00.921Z"
+          "updatedAt": "2026-06-11T14:27:14.221Z"
         }
       ]
     },
@@ -2297,7 +2311,7 @@
       },
       [
         "Date",
-        "2026-06-11T12:13:19.402Z"
+        "2026-06-11T18:49:58.663Z"
       ],
       false,
       100,
