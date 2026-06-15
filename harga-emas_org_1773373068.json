@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-06-15T21:28:17.371339"
+    "scrape_date": "2026-06-16T02:51:27.721977"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.361,82(+150,91)",
-            "IDR": "77.147.488,7(+2.280.601,47)"
+            "USD": "4.319,22(+108,31)",
+            "IDR": "76.547.319,43(+1.680.432,2)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "140,24(+4,85)",
-            "IDR": "2.480.349,36(+73.323,04)"
+            "USD": "138,87(+3,48)",
+            "IDR": "2.461.053,47(+54.027,15)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "140.235,77(+4.851,87)",
-            "IDR": "2.480.349.360(+73.323.040)"
+            "USD": "138.866,15(+3.482,25)",
+            "IDR": "2.461.053.470(+54.027.150)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:15 Juni 2026 pukul 14.02Harga pembelian kembali:Rp2.591.100/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:15 Juni 2026 pukul 19.32Harga pembelian kembali:Rp2.591.100/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:28 Mei 2026"
           }
         ]
@@ -353,43 +353,43 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "12.4161",
-            "Jual": "12.6465"
+            "Beli": "12.4179",
+            "Jual": "12.6482"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.5677",
-            "Jual": "12.7778"
+            "Beli": "12.5604",
+            "Jual": "12.7705"
           },
           {
             "Kurs": "CHF",
-            "Beli": "22.1579",
-            "Jual": "22.549"
+            "Beli": "22.1159",
+            "Jual": "22.5093"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.7317",
-            "Jual": "2.7746"
+            "Beli": "2.7266",
+            "Jual": "2.7696"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.4018",
-            "Jual": "20.7509"
+            "Beli": "20.3664",
+            "Jual": "20.7154"
           },
           {
             "Kurs": "GBP",
-            "Beli": "23.6033",
-            "Jual": "23.9956"
+            "Beli": "23.5768",
+            "Jual": "23.9708"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.2439",
-            "Jual": "2.2785"
+            "Beli": "2.2437",
+            "Jual": "2.2783"
           },
           {
             "Kurs": "JPY",
-            "Beli": "10955",
-            "Jual": "11179"
+            "Beli": "10940",
+            "Jual": "11165"
           },
           {
             "Kurs": "MYR",
@@ -398,8 +398,8 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.2517",
-            "Jual": "10.4477"
+            "Beli": "10.2252",
+            "Jual": "10.4176"
           },
           {
             "Kurs": "SAR",
@@ -408,18 +408,18 @@
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8786",
-            "Jual": "1.903"
+            "Beli": "1.8742",
+            "Jual": "1.8987"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.7029",
-            "Jual": "13.9417"
+            "Beli": "13.69",
+            "Jual": "13.9287"
           },
           {
             "Kurs": "THB",
-            "Beli": "53778",
-            "Jual": "55186"
+            "Beli": "53712",
+            "Jual": "55119"
           },
           {
             "Kurs": "USD",
@@ -485,7 +485,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2520663,
+          "price": 2510870,
           "priceCurrency": "IDR"
         },
         "provider": {
