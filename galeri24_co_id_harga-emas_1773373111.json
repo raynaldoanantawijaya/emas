@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-06-25T14:53:00.576583"
+    "scrape_date": "2026-06-25T17:47:16.142426"
   },
   "data": {
     "technique": "network_capture",
@@ -131,6 +131,20 @@
       },
       "https://galeri24.co.id/api/banners": [
         {
+          "id": "2ca6e922-e38d-4cde-808a-d91c42b55a24",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Web-banner Promo 2626 Juni.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/4757f1ca014925e31d84189f81e1e7af",
+          "createdAt": "2026-06-25T07:22:17.418Z",
+          "updatedAt": "2026-06-25T07:22:17.418Z"
+        },
+        {
           "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
           "group": "HERO",
           "title": ".",
@@ -152,11 +166,11 @@
           "orderNumber": 0,
           "ctaLabel": "",
           "ctaUrl": "",
-          "imageName": "Web Banner.png",
+          "imageName": "Banner Website Galeri 24 (2)-2.png",
           "imageMimeType": "image/png",
-          "imagePath": "images/ef4aaced6f0fb4dcd9085fd2076c4598",
+          "imagePath": "images/ef59228f861f0ce470e586f9bd02ebec",
           "createdAt": "2026-06-20T02:33:57.385Z",
-          "updatedAt": "2026-06-20T02:33:57.385Z"
+          "updatedAt": "2026-06-25T07:21:41.459Z"
         },
         {
           "id": "cf4b1863-0955-429f-a021-0921485c6007",
@@ -2324,7 +2338,7 @@
       },
       [
         "Date",
-        "2026-06-25T07:52:39.557Z"
+        "2026-06-25T10:46:57.144Z"
       ],
       false,
       100,
