@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "DOM Extraction",
-    "scrape_date": "2026-07-01T11:16:01.389077"
+    "scrape_date": "2026-07-01T18:28:21.142821"
   },
   "data": {
     "technique": "dom_extraction",
@@ -293,12 +293,6 @@
       {
         "judul": "Teknologi CertiEye",
         "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "delivery.logammulia@antam.com",
-        "url": "mailto:delivery.logammulia@antam.com",
         "thumbnail": "",
         "waktu": ""
       },
