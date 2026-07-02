@@ -3,83 +3,17 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-07-02T21:13:52.083061"
+    "scrape_date": "2026-07-03T00:53:05.275416"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "2ca6e922-e38d-4cde-808a-d91c42b55a24",
-          "group": "HERO",
-          "title": ".",
-          "description": "",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Web-banner Promo 2626 Juni.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/4757f1ca014925e31d84189f81e1e7af",
-          "createdAt": "2026-06-25T07:22:17.418Z",
-          "updatedAt": "2026-06-25T07:22:17.418Z"
-        },
-        {
-          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
-          "createdAt": "2026-06-11T14:26:06.395Z",
-          "updatedAt": "2026-06-11T14:26:06.395Z"
-        },
-        {
-          "id": "55d722f1-6c35-44d4-9f9f-a8f01ee9d40a",
-          "group": "HERO",
-          "title": ".",
-          "description": "",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Banner Website Galeri 24 (2)-2.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/ef59228f861f0ce470e586f9bd02ebec",
-          "createdAt": "2026-06-20T02:33:57.385Z",
-          "updatedAt": "2026-06-25T07:21:41.459Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (3).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2026-06-11T14:27:14.221Z"
-        }
-      ],
+      "https://galeri24.co.id/api/menu": {
+        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
+        "menuTree": "[{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi Misi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Gelang\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gelang\",\"children\":[]},{\"label\":\"Kalung\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Kalung\"},{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\",\"children\":[]},{\"label\":\"Liontin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Liontin\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"},{\"label\":\"Gift\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gift\"}]},{\"label\":\"Layanan Galeri 24\",\"children\":[{\"label\":\"Perhiasan\",\"pathParams\":{\"slug\":\"perhiasan\"},\"urlLink\":\"\",\"pathName\":\"information-slug\"},{\"label\":\"Sentra Buyback Emas Galeri 24\",\"pathParams\":{\"slug\":\"sentra-buyback\"},\"pathName\":\"information-slug\"},{\"label\":\"Emas Custom Galeri 24\",\"pathParams\":{\"slug\":\"custom-emas\"},\"pathName\":\"information-slug\"},{\"label\":\"Konsinyasi Galeri 24\",\"pathParams\":{\"slug\":\"konsinyasi-emas-batangan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"},\"children\":[]},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"},\"children\":[]},{\"label\":\"Persetujuan Data Nasabah\",\"pathParams\":{\"slug\":\"perlindungan-data-nasabah-o8wxp\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"}]",
+        "createdAt": "2023-12-02T05:45:36.077Z",
+        "updatedAt": "2026-05-23T08:29:06.027Z"
+      },
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -195,12 +129,78 @@
           }
         ]
       },
-      "https://galeri24.co.id/api/menu": {
-        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
-        "menuTree": "[{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi Misi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Gelang\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gelang\",\"children\":[]},{\"label\":\"Kalung\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Kalung\"},{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\",\"children\":[]},{\"label\":\"Liontin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Liontin\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"},{\"label\":\"Gift\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gift\"}]},{\"label\":\"Layanan Galeri 24\",\"children\":[{\"label\":\"Perhiasan\",\"pathParams\":{\"slug\":\"perhiasan\"},\"urlLink\":\"\",\"pathName\":\"information-slug\"},{\"label\":\"Sentra Buyback Emas Galeri 24\",\"pathParams\":{\"slug\":\"sentra-buyback\"},\"pathName\":\"information-slug\"},{\"label\":\"Emas Custom Galeri 24\",\"pathParams\":{\"slug\":\"custom-emas\"},\"pathName\":\"information-slug\"},{\"label\":\"Konsinyasi Galeri 24\",\"pathParams\":{\"slug\":\"konsinyasi-emas-batangan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"},\"children\":[]},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"},\"children\":[]},{\"label\":\"Persetujuan Data Nasabah\",\"pathParams\":{\"slug\":\"perlindungan-data-nasabah-o8wxp\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"}]",
-        "createdAt": "2023-12-02T05:45:36.077Z",
-        "updatedAt": "2026-05-23T08:29:06.027Z"
-      }
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "2ca6e922-e38d-4cde-808a-d91c42b55a24",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Web-banner Promo 2626 Juni.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/4757f1ca014925e31d84189f81e1e7af",
+          "createdAt": "2026-06-25T07:22:17.418Z",
+          "updatedAt": "2026-06-25T07:22:17.418Z"
+        },
+        {
+          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
+          "createdAt": "2026-06-11T14:26:06.395Z",
+          "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
+          "id": "55d722f1-6c35-44d4-9f9f-a8f01ee9d40a",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Banner Website Galeri 24 (2)-2.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/ef59228f861f0ce470e586f9bd02ebec",
+          "createdAt": "2026-06-20T02:33:57.385Z",
+          "updatedAt": "2026-06-25T07:21:41.459Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (3).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2026-06-11T14:27:14.221Z"
+        }
+      ]
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2336,7 +2336,7 @@
       },
       [
         "Date",
-        "2026-07-02T14:13:32.980Z"
+        "2026-07-02T17:52:44.936Z"
       ],
       false,
       100,
