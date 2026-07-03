@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-07-03T14:25:24.829428"
+    "scrape_date": "2026-07-03T17:41:04.491642"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.171,72(+106,99)",
-            "IDR": "74.940.304,81(+1.796.122,21)"
+            "USD": "4.176,54(+110,64)",
+            "IDR": "75.049.109,12(+1.854.922,09)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "134,12(+3,44)",
-            "IDR": "2.409.386,75(+57.746,67)"
+            "USD": "134,28(+3,56)",
+            "IDR": "2.412.884,89(+59.637,13)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "134.123,91(+3.439,81)",
-            "IDR": "2.409.386.750(+57.746.670)"
+            "USD": "134.278,88(+3.557,16)",
+            "IDR": "2.412.884.890(+59.637.130)"
           }
         ]
       },
@@ -43,7 +43,7 @@
         "rows": [
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:03 Juli 2026 pukul 07.020",
+            "Antam per Gram (Rp)": "Update harga LM Antam:03 Juli 2026 pukul 10.310",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:18 Juni 2026"
           }
         ]
@@ -298,78 +298,78 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "12.4414",
-            "Jual": "12.5012"
+            "Beli": "12.3408",
+            "Jual": "12.5627"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.6543",
-            "Jual": "12.6909"
+            "Beli": "12.5465",
+            "Jual": "12.7561"
           },
           {
             "Kurs": "CHF",
-            "Beli": "22.3525",
-            "Jual": "22.4525"
+            "Beli": "22.1419",
+            "Jual": "22.5393"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.7498",
-            "Jual": "2.7541"
+            "Beli": "2.7258",
+            "Jual": "2.7685"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.5377",
-            "Jual": "20.6007"
+            "Beli": "20.3572",
+            "Jual": "20.7106"
           },
           {
             "Kurs": "GBP",
-            "Beli": "23.975",
-            "Jual": "24.0489"
+            "Beli": "23.7607",
+            "Jual": "24.1565"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.2869",
-            "Jual": "2.2904"
+            "Beli": "2.2707",
+            "Jual": "2.3056"
           },
           {
             "Kurs": "JPY",
-            "Beli": "11142",
-            "Jual": "11180"
+            "Beli": "11021",
+            "Jual": "11253"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4.4046",
-            "Jual": "4.4234"
+            "Beli": "4.361",
+            "Jual": "4.4548"
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.2491",
-            "Jual": "10.3013"
+            "Beli": "10.1554",
+            "Jual": "10.3535"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7769",
-            "Jual": "4.7842"
+            "Beli": "4.7495",
+            "Jual": "4.8093"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8545",
-            "Jual": "1.8717"
+            "Beli": "1.848",
+            "Jual": "1.8721"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.8984",
-            "Jual": "13.9346"
+            "Beli": "13.7877",
+            "Jual": "14.0172"
           },
           {
             "Kurs": "THB",
-            "Beli": "53858",
-            "Jual": "54451"
+            "Beli": "53494",
+            "Jual": "54819"
           },
           {
             "Kurs": "USD",
-            "Beli": "17.94",
-            "Jual": "17.96"
+            "Beli": "17.9",
+            "Jual": "17.99"
           }
         ]
       },
@@ -430,7 +430,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2416766,
+          "price": 2422282,
           "priceCurrency": "IDR"
         },
         "provider": {
