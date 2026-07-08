@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-07-08T17:22:44.130881"
+    "scrape_date": "2026-07-08T21:23:11.549055"
   },
   "data": {
     "technique": "network_capture",
@@ -2338,7 +2338,7 @@
       },
       [
         "Date",
-        "2026-07-08T10:22:24.898Z"
+        "2026-07-08T14:22:48.945Z"
       ],
       false,
       100,
