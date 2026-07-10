@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-07-10T17:58:53.378480"
+    "scrape_date": "2026-07-10T21:36:01.548507"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.107,05(+6,31)",
-            "IDR": "74.193.802,7(+888,94)"
+            "USD": "4.105,76(-17,84)",
+            "IDR": "74.207.450,91(-411.727,61)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "132,04(+0,2)",
-            "IDR": "2.385.386,15(+28,58)"
+            "USD": "132(-0,57)",
+            "IDR": "2.385.824,95(-13.237,35)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "132.044,72(+202,87)",
-            "IDR": "2.385.386.150(+28.580)"
+            "USD": "132.003,25(-573,57)",
+            "IDR": "2.385.824.950(-13.237.350)"
           }
         ]
       },
@@ -43,7 +43,7 @@
         "rows": [
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:10 Juli 2026 pukul 10.310",
+            "Antam per Gram (Rp)": "Update harga LM Antam:10 Juli 2026 pukul 14.320",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:18 Juni 2026"
           }
         ]
@@ -298,43 +298,43 @@
         "rows": [
           {
             "Kurs": "AUD",
-            "Beli": "12.4204",
-            "Jual": "12.6577"
+            "Beli": "12.424",
+            "Jual": "12.6613"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.6325",
-            "Jual": "12.8441"
+            "Beli": "12.6379",
+            "Jual": "12.8504"
           },
           {
             "Kurs": "CHF",
-            "Beli": "22.1724",
-            "Jual": "22.5697"
+            "Beli": "22.1339",
+            "Jual": "22.5391"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.7375",
-            "Jual": "2.7812"
+            "Beli": "2.7354",
+            "Jual": "2.7792"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.4497",
-            "Jual": "20.8043"
+            "Beli": "20.4353",
+            "Jual": "20.788"
           },
           {
             "Kurs": "GBP",
-            "Beli": "24.0059",
-            "Jual": "24.4084"
+            "Beli": "23.9933",
+            "Jual": "24.3957"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.2848",
-            "Jual": "2.3202"
+            "Beli": "2.2845",
+            "Jual": "2.32"
           },
           {
             "Kurs": "JPY",
-            "Beli": "11040",
-            "Jual": "11270"
+            "Beli": "11041",
+            "Jual": "11272"
           },
           {
             "Kurs": "MYR",
@@ -343,28 +343,28 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.3135",
-            "Jual": "10.5193"
+            "Beli": "10.3027",
+            "Jual": "10.5102"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7778",
-            "Jual": "4.8378"
+            "Beli": "4.7773",
+            "Jual": "4.8376"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8606",
-            "Jual": "1.8846"
+            "Beli": "1.8596",
+            "Jual": "1.8837"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.8627",
-            "Jual": "14.0984"
+            "Beli": "13.8584",
+            "Jual": "14.0941"
           },
           {
             "Kurs": "THB",
             "Beli": "53470",
-            "Jual": "54873"
+            "Jual": "54955"
           },
           {
             "Kurs": "USD",
@@ -430,7 +430,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2391476,
+          "price": 2388790,
           "priceCurrency": "IDR"
         },
         "provider": {
