@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-07-12T10:19:57.087077"
+    "scrape_date": "2026-07-12T13:37:49.496198"
   },
   "data": {
     "technique": "network_capture",
@@ -14,6 +14,78 @@
         "createdAt": "2023-12-02T05:45:36.077Z",
         "updatedAt": "2026-05-23T08:29:06.027Z"
       },
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "2ca6e922-e38d-4cde-808a-d91c42b55a24",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Web-banner Promo 2626 Juni.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/4757f1ca014925e31d84189f81e1e7af",
+          "createdAt": "2026-06-25T07:22:17.418Z",
+          "updatedAt": "2026-06-25T07:22:17.418Z"
+        },
+        {
+          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
+          "createdAt": "2026-06-11T14:26:06.395Z",
+          "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
+          "id": "55d722f1-6c35-44d4-9f9f-a8f01ee9d40a",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Banner Website Galeri 24 (2)-2.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/ef59228f861f0ce470e586f9bd02ebec",
+          "createdAt": "2026-06-20T02:33:57.385Z",
+          "updatedAt": "2026-06-25T07:21:41.459Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (3).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2026-06-11T14:27:14.221Z"
+        }
+      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -128,79 +200,7 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
-      },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "2ca6e922-e38d-4cde-808a-d91c42b55a24",
-          "group": "HERO",
-          "title": ".",
-          "description": "",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Web-banner Promo 2626 Juni.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/4757f1ca014925e31d84189f81e1e7af",
-          "createdAt": "2026-06-25T07:22:17.418Z",
-          "updatedAt": "2026-06-25T07:22:17.418Z"
-        },
-        {
-          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
-          "createdAt": "2026-06-11T14:26:06.395Z",
-          "updatedAt": "2026-06-11T14:26:06.395Z"
-        },
-        {
-          "id": "55d722f1-6c35-44d4-9f9f-a8f01ee9d40a",
-          "group": "HERO",
-          "title": ".",
-          "description": "",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Banner Website Galeri 24 (2)-2.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/ef59228f861f0ce470e586f9bd02ebec",
-          "createdAt": "2026-06-20T02:33:57.385Z",
-          "updatedAt": "2026-06-25T07:21:41.459Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (3).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2026-06-11T14:27:14.221Z"
-        }
-      ]
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2319,7 +2319,7 @@
       },
       [
         "Date",
-        "2026-07-12T03:19:34.219Z"
+        "2026-07-12T06:37:25.577Z"
       ],
       false,
       100,
