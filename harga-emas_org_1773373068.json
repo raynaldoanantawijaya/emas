@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-07-19T13:33:53.140135"
+    "scrape_date": "2026-07-19T16:55:26.398851"
   },
   "data": {
     "technique": "direct_request",
@@ -43,7 +43,7 @@
         "rows": [
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:19 Juli 2026 pukul 06.300",
+            "Antam per Gram (Rp)": "Update harga LM Antam:19 Juli 2026 pukul 09.320",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:15 Juli 2026"
           }
         ]
@@ -348,8 +348,8 @@
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7429",
-            "Jual": "4.8108"
+            "Beli": "4.7445",
+            "Jual": "4.8097"
           },
           {
             "Kurs": "SEK",
@@ -430,7 +430,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2331908,
+          "price": 2332135,
           "priceCurrency": "IDR"
         },
         "provider": {
