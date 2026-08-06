@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "DOM Extraction",
-    "scrape_date": "2026-08-06T17:44:05.224065"
+    "scrape_date": "2026-08-06T21:21:37.828017"
   },
   "data": {
     "technique": "dom_extraction",
@@ -257,6 +257,12 @@
       {
         "judul": "Perak Murni 99.95%",
         "url": "https://www.logammulia.com/product-list/perak",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Seri Kemerdekaan",
+        "url": "https://www.logammulia.com/product-list/seri-kemerdekaan",
         "thumbnail": "",
         "waktu": ""
       },
