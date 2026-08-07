@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "DOM Extraction",
-    "scrape_date": "2026-08-06T21:21:37.828017"
+    "scrape_date": "2026-08-07T07:55:20.161297"
   },
   "data": {
     "technique": "dom_extraction",
@@ -99,41 +99,6 @@
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 06 Aug 2026 - Emas Batangan Selamat Idul Fitri",
-        "headers": [
-          "Berat",
-          "Harga Dasar",
-          "Harga (+Pajak PPh 0.25%)"
-        ],
-        "rows": [
-          {
-            "Berat": "5 gr",
-            "Harga Dasar": "14,143,000",
-            "Harga (+Pajak PPh 0.25%)": "14,178,358"
-          }
-        ]
-      },
-      {
-        "title": "Harga Emas Hari Ini, 06 Aug 2026 - Emas Batangan Imlek",
-        "headers": [
-          "Berat",
-          "Harga Dasar",
-          "Harga (+Pajak PPh 0.25%)"
-        ],
-        "rows": [
-          {
-            "Berat": "8 gr",
-            "Harga Dasar": "22,286,800",
-            "Harga (+Pajak PPh 0.25%)": "22,342,517"
-          },
-          {
-            "Berat": "88 gr",
-            "Harga Dasar": "242,449,600",
-            "Harga (+Pajak PPh 0.25%)": "243,055,724"
-          }
-        ]
-      },
-      {
         "title": "Harga Emas Hari Ini, 06 Aug 2026 - Emas Batangan Batik Seri III",
         "headers": [
           "Berat",
@@ -225,6 +190,12 @@
         "waktu": ""
       },
       {
+        "judul": "Seri Kemerdekaan",
+        "url": "https://www.logammulia.com/purchase/seri-kemerdekaan",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
         "judul": "Emas Idul Fitri",
         "url": "https://www.logammulia.com/purchase/emas-idul-fitri",
         "thumbnail": "",
@@ -233,6 +204,12 @@
       {
         "judul": "Emas Batangan Batik",
         "url": "https://www.logammulia.com/purchase/seri-batik-indonesia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Seri Kemerdekaan",
+        "url": "https://www.logammulia.com/product-list/seri-kemerdekaan",
         "thumbnail": "",
         "waktu": ""
       },
@@ -257,12 +234,6 @@
       {
         "judul": "Perak Murni 99.95%",
         "url": "https://www.logammulia.com/product-list/perak",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "Seri Kemerdekaan",
-        "url": "https://www.logammulia.com/product-list/seri-kemerdekaan",
         "thumbnail": "",
         "waktu": ""
       },
