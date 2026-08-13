@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-13T12:43:11.338186"
+    "scrape_date": "2026-08-13T16:16:42.923869"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.398,14(+2,26)",
-            "IDR": "78.578.471,33(+33.035,62)"
+            "USD": "4.376,64(-36,57)",
+            "IDR": "78.152.008,76(-665.935,39)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "141,4(+0,07)",
-            "IDR": "2.526.356,52(+1.062,12)"
+            "USD": "140,71(-1,18)",
+            "IDR": "2.512.645,43(-21.410,32)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "141.403,48(+72,66)",
-            "IDR": "2.526.356.520(+1.062.120)"
+            "USD": "140.712,24(-1.175,75)",
+            "IDR": "2.512.645.430(-21.410.320)"
           }
         ]
       },
@@ -108,63 +108,318 @@
         "rows": [
           {
             "Satuan Gram": "0.1",
-            "Jual per Gram (Rp)": "348.000",
+            "Jual per Gram (Rp)": "345.000",
             "Beli per Gram (Rp)": "239.500"
           },
           {
             "Satuan Gram": "0.25",
-            "Jual per Gram (Rp)": "791.000",
+            "Jual per Gram (Rp)": "783.000",
             "Beli per Gram (Rp)": "598.750"
           },
           {
             "Satuan Gram": "0.5",
-            "Jual per Gram (Rp)": "1.412.000",
+            "Jual per Gram (Rp)": "1.396.000",
             "Beli per Gram (Rp)": "1.197.500"
           },
           {
             "Satuan Gram": "1",
-            "Jual per Gram (Rp)": "2.570.000",
+            "Jual per Gram (Rp)": "2.539.000",
             "Beli per Gram (Rp)": "2.395.000"
           },
           {
             "Satuan Gram": "2",
-            "Jual per Gram (Rp)": "5.070.000",
+            "Jual per Gram (Rp)": "5.009.000",
             "Beli per Gram (Rp)": "4.790.000"
           },
           {
             "Satuan Gram": "3",
-            "Jual per Gram (Rp)": "7.594.000",
+            "Jual per Gram (Rp)": "7.503.000",
             "Beli per Gram (Rp)": "7.185.000"
           },
           {
             "Satuan Gram": "4",
-            "Jual per Gram (Rp)": "10.086.000",
+            "Jual per Gram (Rp)": "9.965.000",
             "Beli per Gram (Rp)": "9.580.000"
           },
           {
             "Satuan Gram": "5",
-            "Jual per Gram (Rp)": "12.463.000",
+            "Jual per Gram (Rp)": "12.312.000",
             "Beli per Gram (Rp)": "11.975.000"
           },
           {
             "Satuan Gram": "10",
-            "Jual per Gram (Rp)": "24.725.000",
+            "Jual per Gram (Rp)": "24.424.000",
             "Beli per Gram (Rp)": "23.950.000"
           },
           {
             "Satuan Gram": "25",
-            "Jual per Gram (Rp)": "61.675.000",
+            "Jual per Gram (Rp)": "60.921.000",
             "Beli per Gram (Rp)": "59.875.000"
           },
           {
             "Satuan Gram": "50",
-            "Jual per Gram (Rp)": "122.878.000",
+            "Jual per Gram (Rp)": "121.373.000",
             "Beli per Gram (Rp)": "119.750.000"
           },
           {
             "Satuan Gram": "100",
-            "Jual per Gram (Rp)": "245.600.000",
+            "Jual per Gram (Rp)": "242.600.000",
             "Beli per Gram (Rp)": "239.500.000"
+          }
+        ]
+      },
+      {
+        "title": "Kurs Bank Indonesia (BI)",
+        "headers": [
+          "Kurs",
+          "Beli",
+          "Jual"
+        ],
+        "rows": [
+          {
+            "Kurs": "AUD",
+            "Beli": "12.5502",
+            "Jual": "12.6836"
+          },
+          {
+            "Kurs": "CAD",
+            "Beli": "12.7686",
+            "Jual": "12.8978"
+          },
+          {
+            "Kurs": "CHF",
+            "Beli": "21.8912",
+            "Jual": "22.1167"
+          },
+          {
+            "Kurs": "DKK",
+            "Beli": "2.7447",
+            "Jual": "2.7729"
+          },
+          {
+            "Kurs": "EUR",
+            "Beli": "20.5204",
+            "Jual": "20.7285"
+          },
+          {
+            "Kurs": "GBP",
+            "Beli": "24.0244",
+            "Jual": "24.2712"
+          },
+          {
+            "Kurs": "HKD",
+            "Beli": "2.2665",
+            "Jual": "2.2896"
+          },
+          {
+            "Kurs": "JPY",
+            "Beli": "11.1599",
+            "Jual": "11.2728"
+          },
+          {
+            "Kurs": "MYR",
+            "Beli": "4.3477",
+            "Jual": "4.3968"
+          },
+          {
+            "Kurs": "NZD",
+            "Beli": "10.4247",
+            "Jual": "10.5331"
+          },
+          {
+            "Kurs": "SAR",
+            "Beli": "4.737",
+            "Jual": "4.7852"
+          },
+          {
+            "Kurs": "SEK",
+            "Beli": "1.8649",
+            "Jual": "1.884"
+          },
+          {
+            "Kurs": "SGD",
+            "Beli": "13.8893",
+            "Jual": "14.0311"
+          },
+          {
+            "Kurs": "THB",
+            "Beli": "53736",
+            "Jual": "54325"
+          },
+          {
+            "Kurs": "USD",
+            "Beli": "17.7866",
+            "Jual": "17.9654"
+          }
+        ]
+      },
+      {
+        "title": "Kurs Bank Mandiri",
+        "headers": [
+          "Kurs",
+          "Beli",
+          "Jual"
+        ],
+        "rows": [
+          {
+            "Kurs": "AUD",
+            "Beli": "12594",
+            "Jual": "12621"
+          },
+          {
+            "Kurs": "CAD",
+            "Beli": "12796",
+            "Jual": "12852"
+          },
+          {
+            "Kurs": "CHF",
+            "Beli": "21939",
+            "Jual": "21985"
+          },
+          {
+            "Kurs": "DKK",
+            "Beli": "2722",
+            "Jual": "2787"
+          },
+          {
+            "Kurs": "EUR",
+            "Beli": "20573",
+            "Jual": "20613"
+          },
+          {
+            "Kurs": "GBP",
+            "Beli": "24082",
+            "Jual": "24132"
+          },
+          {
+            "Kurs": "HKD",
+            "Beli": "2271.7",
+            "Jual": "2281.58"
+          },
+          {
+            "Kurs": "JPY",
+            "Beli": "112",
+            "Jual": "112.26"
+          },
+          {
+            "Kurs": "MYR",
+            "Beli": "4364",
+            "Jual": "4383"
+          },
+          {
+            "Kurs": "NZD",
+            "Beli": "10448",
+            "Jual": "10474"
+          },
+          {
+            "Kurs": "SAR",
+            "Beli": "4749",
+            "Jual": "4773"
+          },
+          {
+            "Kurs": "SEK",
+            "Beli": "1840",
+            "Jual": "1890"
+          },
+          {
+            "Kurs": "SGD",
+            "Beli": "13940",
+            "Jual": "13971"
+          },
+          {
+            "Kurs": "THB",
+            "Beli": "537.36",
+            "Jual": "541.59"
+          },
+          {
+            "Kurs": "USD",
+            "Beli": "17860",
+            "Jual": "17890"
+          }
+        ]
+      },
+      {
+        "title": "Kurs Bank Central Asia (BCA)",
+        "headers": [
+          "Kurs",
+          "Beli",
+          "Jual"
+        ],
+        "rows": [
+          {
+            "Kurs": "AUD",
+            "Beli": "12.5723",
+            "Jual": "12.6286"
+          },
+          {
+            "Kurs": "CAD",
+            "Beli": "12.7952",
+            "Jual": "12.83"
+          },
+          {
+            "Kurs": "CHF",
+            "Beli": "21.9458",
+            "Jual": "22.0324"
+          },
+          {
+            "Kurs": "DKK",
+            "Beli": "2.7538",
+            "Jual": "2.7582"
+          },
+          {
+            "Kurs": "EUR",
+            "Beli": "20.5727",
+            "Jual": "20.6321"
+          },
+          {
+            "Kurs": "GBP",
+            "Beli": "24.0673",
+            "Jual": "24.1358"
+          },
+          {
+            "Kurs": "HKD",
+            "Beli": "2.2767",
+            "Jual": "2.2797"
+          },
+          {
+            "Kurs": "JPY",
+            "Beli": "11200",
+            "Jual": "11235"
+          },
+          {
+            "Kurs": "MYR",
+            "Beli": "4.3629",
+            "Jual": "4.3804"
+          },
+          {
+            "Kurs": "NZD",
+            "Beli": "10.4051",
+            "Jual": "10.4538"
+          },
+          {
+            "Kurs": "SAR",
+            "Beli": "4.7572",
+            "Jual": "4.7648"
+          },
+          {
+            "Kurs": "SEK",
+            "Beli": "1.8592",
+            "Jual": "1.8768"
+          },
+          {
+            "Kurs": "SGD",
+            "Beli": "13.9371",
+            "Jual": "13.9814"
+          },
+          {
+            "Kurs": "THB",
+            "Beli": "53619",
+            "Jual": "54260"
+          },
+          {
+            "Kurs": "USD",
+            "Beli": "17.866",
+            "Jual": "17.886"
           }
         ]
       },
@@ -225,7 +480,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2520966,
+          "price": 2508304,
           "priceCurrency": "IDR"
         },
         "provider": {
