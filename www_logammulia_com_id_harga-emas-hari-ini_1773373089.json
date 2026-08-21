@@ -1,524 +1,348 @@
 {
   "metadata": {
-    "url": "https://harga-emas.org/",
-    "source": "Harga-Emas.org",
-    "technique_used": "Direct Request",
-    "scrape_date": "2026-08-21T15:45:17.274835"
+    "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
+    "source": "Antam Logam Mulia",
+    "technique_used": "DOM Extraction",
+    "scrape_date": "2026-08-21T19:55:44.514472"
   },
   "data": {
-    "technique": "direct_request",
+    "technique": "dom_extraction",
     "tables": [
       {
-        "title": "Spot Harga Emas Hari Ini",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Emas Batangan",
         "headers": [
-          "Satuan",
-          "USD",
-          "IDR"
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
         ],
         "rows": [
           {
-            "Satuan": "Ounce (oz)",
-            "USD": "4.579,52(+89,33)",
-            "IDR": "80.975.612,86(+1.243.043,61)"
+            "Berat": "0.5 gr",
+            "Harga Dasar": "1,412,500",
+            "Harga (+Pajak PPh 0.25%)": "1,416,031"
           },
           {
-            "Satuan": "Gram (gr)",
-            "USD": "147,23(+2,87)",
-            "IDR": "2.603.426,41(+39.964,78)"
+            "Berat": "1 gr",
+            "Harga Dasar": "2,725,000",
+            "Harga (+Pajak PPh 0.25%)": "2,731,813"
           },
           {
-            "Satuan": "Kilogram (kg)",
-            "USD": "147.234,99(+2.872,03)",
-            "IDR": "2.603.426.410(+39.964.780)"
+            "Berat": "2 gr",
+            "Harga Dasar": "5,390,000",
+            "Harga (+Pajak PPh 0.25%)": "5,403,475"
+          },
+          {
+            "Berat": "3 gr",
+            "Harga Dasar": "8,060,000",
+            "Harga (+Pajak PPh 0.25%)": "8,080,150"
+          },
+          {
+            "Berat": "5 gr",
+            "Harga Dasar": "13,400,000",
+            "Harga (+Pajak PPh 0.25%)": "13,433,500"
+          },
+          {
+            "Berat": "10 gr",
+            "Harga Dasar": "26,745,000",
+            "Harga (+Pajak PPh 0.25%)": "26,811,863"
+          },
+          {
+            "Berat": "25 gr",
+            "Harga Dasar": "66,737,000",
+            "Harga (+Pajak PPh 0.25%)": "66,903,843"
+          },
+          {
+            "Berat": "50 gr",
+            "Harga Dasar": "133,395,000",
+            "Harga (+Pajak PPh 0.25%)": "133,728,488"
+          },
+          {
+            "Berat": "100 gr",
+            "Harga Dasar": "266,712,000",
+            "Harga (+Pajak PPh 0.25%)": "267,378,780"
+          },
+          {
+            "Berat": "250 gr",
+            "Harga Dasar": "666,515,000",
+            "Harga (+Pajak PPh 0.25%)": "668,181,288"
+          },
+          {
+            "Berat": "500 gr",
+            "Harga Dasar": "1,332,820,000",
+            "Harga (+Pajak PPh 0.25%)": "1,336,152,050"
+          },
+          {
+            "Berat": "1000 gr",
+            "Harga Dasar": "2,665,600,000",
+            "Harga (+Pajak PPh 0.25%)": "2,672,264,000"
           }
         ]
       },
       {
-        "title": "Antam & Pegadaian",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Emas Batangan Gift Series",
         "headers": [
-          "Satuan Gram",
-          "Antam per Gram (Rp)",
-          "Pegadaian per Gram (Rp)"
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
         ],
         "rows": [
           {
-            "Satuan Gram": "1000",
-            "Antam per Gram (Rp)": "2.615.600.000",
-            "Pegadaian per Gram (Rp)": "2.493.852.000"
+            "Berat": "0.5 gr",
+            "Harga Dasar": "1,482,500",
+            "Harga (+Pajak PPh 0.25%)": "1,486,206"
           },
           {
-            "Satuan Gram": "500",
-            "Antam per Gram (Rp)": "1.307.820.000",
-            "Pegadaian per Gram (Rp)": "1.246.926.000"
-          },
-          {
-            "Satuan Gram": "250",
-            "Antam per Gram (Rp)": "654.015.000",
-            "Pegadaian per Gram (Rp)": "623.464.000"
-          },
-          {
-            "Satuan Gram": "100",
-            "Antam per Gram (Rp)": "261.712.000",
-            "Pegadaian per Gram (Rp)": "250.000.000"
-          },
-          {
-            "Satuan Gram": "50",
-            "Antam per Gram (Rp)": "130.895.000",
-            "Pegadaian per Gram (Rp)": "125.062.000"
-          },
-          {
-            "Satuan Gram": "25",
-            "Antam per Gram (Rp)": "65.487.000",
-            "Pegadaian per Gram (Rp)": "62.581.000"
-          },
-          {
-            "Satuan Gram": "10",
-            "Antam per Gram (Rp)": "27.250.000",
-            "Pegadaian per Gram (Rp)": "25.167.000"
-          },
-          {
-            "Satuan Gram": "5",
-            "Antam per Gram (Rp)": "13.150.000",
-            "Pegadaian per Gram (Rp)": "12.617.000"
-          },
-          {
-            "Satuan Gram": "2",
-            "Antam per Gram (Rp)": "5.290.000",
-            "Pegadaian per Gram (Rp)": "5.084.000"
-          },
-          {
-            "Satuan Gram": "1",
-            "Antam per Gram (Rp)": "2.825.000",
-            "Pegadaian per Gram (Rp)": "2.573.000"
-          },
-          {
-            "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:16 Agustus 2026 pukul 00.00Harga pembelian kembali:Rp2.542.500/grm",
-            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:29 Juli 2026"
+            "Berat": "1 gr",
+            "Harga Dasar": "2,875,000",
+            "Harga (+Pajak PPh 0.25%)": "2,882,188"
           }
         ]
       },
       {
-        "title": "UBS Gold 99.99% - Jual & Beli",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Emas Batangan Batik Seri III",
         "headers": [
-          "Satuan Gram",
-          "Jual per Gram (Rp)",
-          "Beli per Gram (Rp)"
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
         ],
         "rows": [
           {
-            "Satuan Gram": "0.1",
-            "Jual per Gram (Rp)": "343.000",
-            "Beli per Gram (Rp)": "236.500"
+            "Berat": "10 gr",
+            "Harga Dasar": "27,750,000",
+            "Harga (+Pajak PPh 0.25%)": "27,819,375"
           },
           {
-            "Satuan Gram": "0.25",
-            "Jual per Gram (Rp)": "778.000",
-            "Beli per Gram (Rp)": "591.250"
-          },
-          {
-            "Satuan Gram": "0.5",
-            "Jual per Gram (Rp)": "1.388.000",
-            "Beli per Gram (Rp)": "1.182.500"
-          },
-          {
-            "Satuan Gram": "1",
-            "Jual per Gram (Rp)": "2.523.000",
-            "Beli per Gram (Rp)": "2.365.000"
-          },
-          {
-            "Satuan Gram": "2",
-            "Jual per Gram (Rp)": "4.978.000",
-            "Beli per Gram (Rp)": "4.730.000"
-          },
-          {
-            "Satuan Gram": "3",
-            "Jual per Gram (Rp)": "7.456.000",
-            "Beli per Gram (Rp)": "7.095.000"
-          },
-          {
-            "Satuan Gram": "4",
-            "Jual per Gram (Rp)": "9.903.000",
-            "Beli per Gram (Rp)": "9.460.000"
-          },
-          {
-            "Satuan Gram": "5",
-            "Jual per Gram (Rp)": "12.235.000",
-            "Beli per Gram (Rp)": "11.825.000"
-          },
-          {
-            "Satuan Gram": "10",
-            "Jual per Gram (Rp)": "24.271.000",
-            "Beli per Gram (Rp)": "23.650.000"
-          },
-          {
-            "Satuan Gram": "25",
-            "Jual per Gram (Rp)": "60.540.000",
-            "Beli per Gram (Rp)": "59.125.000"
-          },
-          {
-            "Satuan Gram": "50",
-            "Jual per Gram (Rp)": "120.614.000",
-            "Beli per Gram (Rp)": "118.250.000"
-          },
-          {
-            "Satuan Gram": "100",
-            "Jual per Gram (Rp)": "241.000.000",
-            "Beli per Gram (Rp)": "236.500.000"
+            "Berat": "20 gr",
+            "Harga Dasar": "54,700,000",
+            "Harga (+Pajak PPh 0.25%)": "54,836,750"
           }
         ]
       },
       {
-        "title": "Kurs Bank Indonesia (BI)",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Emas Batangan Karapan Sapi",
         "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
         ],
         "rows": [
           {
-            "Kurs": "AED",
-            "Beli": "4.8161",
-            "Jual": "4.8649"
-          },
-          {
-            "Kurs": "AUD",
-            "Beli": "12.6007",
-            "Jual": "12.7291"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12.8347",
-            "Jual": "12.9666"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "22.1514",
-            "Jual": "22.3824"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2.7668",
-            "Jual": "2.7947"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "20.6833",
-            "Jual": "20.8929"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "24.101",
-            "Jual": "24.3486"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2.2552",
-            "Jual": "2.278"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "11.1645",
-            "Jual": "11.2774"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "1269",
-            "Jual": "1283"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4.3744",
-            "Jual": "4.4238"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "10.5327",
-            "Jual": "10.6439"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4.7113",
-            "Jual": "4.7589"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1.8737",
-            "Jual": "1.8929"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "13.9172",
-            "Jual": "14.0581"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "53835",
-            "Jual": "54409"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "17.6901",
-            "Jual": "17.8679"
+            "Berat": "17 gr",
+            "Harga Dasar": "48,573,000",
+            "Harga (+Pajak PPh 0.25%)": "48,694,433"
           }
         ]
       },
       {
-        "title": "Kurs Bank Mandiri",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Koin Perak Gunung Bromo",
         "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
+          "Berat",
+          "Harga Dasar",
+          "Harga (+Pajak PPh 0.25%)"
         ],
         "rows": [
           {
-            "Kurs": "AED",
-            "Beli": "4813.48",
-            "Jual": "4851.78"
+            "Berat": "Berat",
+            "Harga Dasar": "Harga Dasar",
+            "Harga (+Pajak PPh 0.25%)": "Harga Sudah Termasuk PPN 11%"
           },
           {
-            "Kurs": "AUD",
-            "Beli": "12642",
-            "Jual": "12669"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12875",
-            "Jual": "12903"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "22188",
-            "Jual": "22234"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2744",
-            "Jual": "2809"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "20733",
-            "Jual": "20776"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "24204",
-            "Jual": "24250"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2258.28",
-            "Jual": "2268.16"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "111.57",
-            "Jual": "111.82"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "12.34",
-            "Jual": "13.36"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4377",
-            "Jual": "4399"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "10578",
-            "Jual": "10603"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4718",
-            "Jual": "4742"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1850",
-            "Jual": "1900"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "13958",
-            "Jual": "13989"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "538.21",
-            "Jual": "542.37"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "17735",
-            "Jual": "17765"
+            "Berat": "31.1 gr",
+            "Harga Dasar": "2,812,201",
+            "Harga (+Pajak PPh 0.25%)": "3,121,543"
           }
         ]
       },
       {
-        "title": "Kurs Bank Central Asia (BCA)",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Perak Murni",
         "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 11%"
         ],
         "rows": [
           {
-            "Kurs": "AED",
-            "Beli": "4.8076",
-            "Jual": "4.8293"
+            "Berat": "250 gr",
+            "Harga Dasar": "11,725,000",
+            "Harga Sudah Termasuk PPN 11%": "13,014,750"
           },
           {
-            "Kurs": "AUD",
-            "Beli": "12.6292",
-            "Jual": "12.6818"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12.8453",
-            "Jual": "12.8806"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "22.074",
-            "Jual": "22.1544"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2.7655",
-            "Jual": "2.77"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "20.6595",
-            "Jual": "20.7225"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "24.1122",
-            "Jual": "24.1736"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2.2556",
-            "Jual": "2.2588"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "11125",
-            "Jual": "11164"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "1239",
-            "Jual": "1321"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4.3663",
-            "Jual": "4.384"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "10.5367",
-            "Jual": "10.5853"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4.7098",
-            "Jual": "4.7171"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1.86",
-            "Jual": "1.8774"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "13.9193",
-            "Jual": "13.9573"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "53780",
-            "Jual": "54378"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "17.688",
-            "Jual": "17.708"
+            "Berat": "500 gr",
+            "Harga Dasar": "22,650,000",
+            "Harga Sudah Termasuk PPN 11%": "25,141,500"
           }
         ]
       },
       {
-        "title": "",
+        "title": "Harga Emas Hari Ini, 21 Aug 2026 - Perak Heritage",
         "headers": [
-          "Jenis Emas",
-          "Kisaran Spread"
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 11%"
         ],
         "rows": [
           {
-            "Jenis Emas": "Emas Fisik (Antam/UBS)7–14%",
-            "Kisaran Spread": "7–14%"
+            "Berat": "31.1 gr",
+            "Harga Dasar": "1,956,623",
+            "Harga Sudah Termasuk PPN 11%": "2,171,852"
           },
           {
-            "Jenis Emas": "Emas Digital (Pluang)",
-            "Kisaran Spread": "1–3%"
-          },
+            "Berat": "186.6 gr",
+            "Harga Dasar": "10,618,276",
+            "Harga Sudah Termasuk PPN 11%": "11,786,286"
+          }
+        ]
+      },
+      {
+        "title": "Liontin Batik Seri III",
+        "headers": [
+          "Berat",
+          "Harga Dasar",
+          "Harga Sudah Termasuk PPN 1.65%",
+          "Harga Sudah Termasuk PPN 1.1% + PPh 22 0.25%"
+        ],
+        "rows": [
           {
-            "Jenis Emas": "Token Emas (PAXG/XAUT)",
-            "Kisaran Spread": "~2%"
+            "Berat": "8 gr",
+            "Harga Dasar": "17,275,456",
+            "Harga Sudah Termasuk PPN 1.65%": "17,560,501",
+            "Harga Sudah Termasuk PPN 1.1% + PPh 22 0.25%": "17,508,675"
           }
         ]
       }
     ],
-    "inline_json": [
+    "articles": [
       {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "@id": "https://harga-emas.org/#organization",
-        "name": "Harga Emas",
-        "url": "https://harga-emas.org",
-        "logo": "https://image-cdn.pluang.com/harga-emas/images/hargaEmasIconBig.webp",
-        "publisher": {
-          "@type": "TradingPlatform",
-          "name": "Pluang"
-        },
-        "parentOrganization": {
-          "@id": "https://pluang.com/#organization"
-        },
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ID",
-          "postalCode": "10350",
-          "streetAddress": "The Plaza Office Tower 15th Floor Unit 15B-C, Jl. MH Thamrin Kav 28-30, Gondangdia, Menteng",
-          "addressLocality": "Central Jakarta, DKI Jakarta"
-        }
+        "judul": "Verifikasi Produk",
+        "url": "https://www.logammulia.com/product-verify",
+        "thumbnail": "",
+        "waktu": ""
       },
       {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Emas",
-        "description": "Emas adalah aset investasi yang stabil dan bernilai tinggi, digunakan sebagai penyimpan kekayaan jangka panjang. Harga emas dipengaruhi oleh kondisi pasar global, nilai tukar, serta permintaan industri dan perhiasan. Di Harga-Emas.org, Anda dapat memantau harga emas terbaru, grafik pergerakan, dan informasi lengkap untuk membantu keputusan beli emas dengan aman dan terpercaya.",
-        "category": "Emas",
-        "tickerSymbol": "GOLD",
-        "image": "https://image-cdn.pluang.com/icons/light/gold/gold-asset-icon/icon.svg",
-        "url": "https://harga-emas.org",
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock",
-          "price": 2542100,
-          "priceCurrency": "IDR"
-        },
-        "provider": {
-          "@id": "https://harga-emas.org/#organization"
-        },
-        "publisher": {
-          "@id": "https://harga-emas.org/#organization"
-        }
+        "judul": "Bahasa Indonesia",
+        "url": "https://www.logammulia.com/change-language/id",
+        "thumbnail": "https://www.logammulia.com/uploads/ngc_languages/5b3dc20ea0e2a_20180705140030-1.png",
+        "waktu": ""
+      },
+      {
+        "judul": "Seri Kemerdekaan",
+        "url": "https://www.logammulia.com/purchase/seri-kemerdekaan",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Idul Fitri",
+        "url": "https://www.logammulia.com/purchase/emas-idul-fitri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Batangan Batik",
+        "url": "https://www.logammulia.com/purchase/seri-batik-indonesia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Seri Kemerdekaan",
+        "url": "https://www.logammulia.com/product-list/seri-kemerdekaan",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Emas Idul Fitri",
+        "url": "https://www.logammulia.com/product-list/emas-idul-fitri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Perak Indonesian Heritage",
+        "url": "https://www.logammulia.com/product-list/silverheritage",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Produk Industri",
+        "url": "https://www.logammulia.com/product-list/produk-industri",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Perak Murni 99.95%",
+        "url": "https://www.logammulia.com/product-list/perak",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "View All Category",
+        "url": "https://www.logammulia.com/product-list",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Harga Emas Hari Ini",
+        "url": "https://www.logammulia.com/harga-emas-hari-ini",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Grafik Harga Emas",
+        "url": "https://www.logammulia.com/grafik-harga-emas",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Cek Alamat Butik",
+        "url": "https://www.logammulia.com/contact#butik-lm",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "SIMULASI BUYBACK",
+        "url": "https://www.logammulia.com/sell/gold",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Teknologi CertiEye",
+        "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "infolm@antam.com",
+        "url": "mailto:infolm@antam.com",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Pengujian dan Analisis",
+        "url": "https://www.logammulia.com/services/assaying-analysis",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Profil Logam Mulia",
+        "url": "https://www.logammulia.com/about",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Berita dan Promo",
+        "url": "https://www.logammulia.com/news",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Syarat dan Ketentuan",
+        "url": "https://www.logammulia.com/pages/term-and-conditions",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Kebijakan Privasi",
+        "url": "https://www.logammulia.com/pages/privacy-policy",
+        "thumbnail": "",
+        "waktu": ""
       }
     ]
   }
