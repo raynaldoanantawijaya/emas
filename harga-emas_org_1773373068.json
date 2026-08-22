@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-22T15:35:15.950572"
+    "scrape_date": "2026-08-22T23:29:50.839503"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.603,3(+23,92)",
-            "IDR": "81.237.968,83(+338.388,41)"
+            "USD": "4.603,3(-10,52)",
+            "IDR": "81.237.968,83(-228.101,7)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "148(+0,77)",
-            "IDR": "2.611.861,35(+10.879,44)"
+            "USD": "148(-0,34)",
+            "IDR": "2.611.861,35(-7.333,64)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "147.999,53(+769,05)",
-            "IDR": "2.611.861.350(+10.879.440)"
+            "USD": "147.999,53(-338,23)",
+            "IDR": "2.611.861.350(-7.333.640)"
           }
         ]
       },
@@ -510,7 +510,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2549362,
+          "price": 2549319,
           "priceCurrency": "IDR"
         },
         "provider": {
