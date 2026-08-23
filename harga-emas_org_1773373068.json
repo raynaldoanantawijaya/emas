@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-23T11:41:04.275670"
+    "scrape_date": "2026-08-23T15:34:43.363823"
   },
   "data": {
     "technique": "direct_request",
@@ -428,7 +428,7 @@
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.6794",
+            "Beli": "4.6791",
             "Jual": "4.7435"
           },
           {
@@ -510,7 +510,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2549253,
+          "price": 2549233,
           "priceCurrency": "IDR"
         },
         "provider": {
