@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-23T19:46:48.420433"
+    "scrape_date": "2026-08-23T23:30:36.606511"
   },
   "data": {
     "technique": "direct_request",
@@ -510,7 +510,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2549210,
+          "price": 2549190,
           "priceCurrency": "IDR"
         },
         "provider": {
