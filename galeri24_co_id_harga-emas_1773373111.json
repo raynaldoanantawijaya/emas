@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-08-26T23:50:46.917316"
+    "scrape_date": "2026-08-27T05:55:21.510065"
   },
   "data": {
     "technique": "network_capture",
@@ -14,6 +14,78 @@
         "createdAt": "2023-12-02T05:45:36.077Z",
         "updatedAt": "2026-05-23T08:29:06.027Z"
       },
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "08933288-3295-4478-a047-ae795803bf74",
+          "group": "HERO",
+          "title": "-",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "G24_AGUSTUS_WEEK_3 - PROMO HUT 8 TAHUN GALERI 24 Format Banner.jpg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/5da27b700394f429806039cc3328e610",
+          "createdAt": "2026-08-03T06:36:42.940Z",
+          "updatedAt": "2026-08-03T06:36:42.940Z"
+        },
+        {
+          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
+          "createdAt": "2026-06-11T14:26:06.395Z",
+          "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
+          "id": "4720e6c1-9bb9-4650-b58d-c7f6d668907c",
+          "group": "HERO",
+          "title": "-",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Info Pengiriman Online (1).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
+          "createdAt": "2026-07-27T07:31:23.389Z",
+          "updatedAt": "2026-07-27T07:31:23.389Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (3).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2026-06-11T14:27:14.221Z"
+        }
+      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -128,79 +200,7 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
-      },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "08933288-3295-4478-a047-ae795803bf74",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "G24_AGUSTUS_WEEK_3 - PROMO HUT 8 TAHUN GALERI 24 Format Banner.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/5da27b700394f429806039cc3328e610",
-          "createdAt": "2026-08-03T06:36:42.940Z",
-          "updatedAt": "2026-08-03T06:36:42.940Z"
-        },
-        {
-          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
-          "createdAt": "2026-06-11T14:26:06.395Z",
-          "updatedAt": "2026-06-11T14:26:06.395Z"
-        },
-        {
-          "id": "4720e6c1-9bb9-4650-b58d-c7f6d668907c",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Info Pengiriman Online (1).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
-          "createdAt": "2026-07-27T07:31:23.389Z",
-          "updatedAt": "2026-07-27T07:31:23.389Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (3).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2026-06-11T14:27:14.221Z"
-        }
-      ]
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2336,7 +2336,7 @@
       },
       [
         "Date",
-        "2026-08-26T16:50:21.859Z"
+        "2026-08-26T22:54:55.084Z"
       ],
       false,
       100,
