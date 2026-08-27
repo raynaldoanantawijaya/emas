@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-27T15:21:50.795891"
+    "scrape_date": "2026-08-28T05:01:32.662212"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "4.601,65(+7,66)",
+            "IDR": "81.628.519,63(+175.618,63)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "147,95(+0,25)",
+            "IDR": "2.624.417,85(+5.646,27)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "-(0)",
-            "IDR": "-(0)"
+            "USD": "147.946,48(+246,27)",
+            "IDR": "2.624.417.850(+5.646.270)"
           }
         ]
       },
@@ -368,88 +368,88 @@
         "rows": [
           {
             "Kurs": "AED",
-            "Beli": "4.8165",
-            "Jual": "4.8396"
+            "Beli": "4.8096",
+            "Jual": "4.8502"
           },
           {
             "Kurs": "AUD",
-            "Beli": "12.708",
-            "Jual": "12.7633"
+            "Beli": "12.6578",
+            "Jual": "12.8677"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.752",
-            "Jual": "12.7931"
+            "Beli": "12.7089",
+            "Jual": "12.9022"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.9538",
-            "Jual": "22.049"
+            "Beli": "21.8888",
+            "Jual": "22.2463"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.762",
-            "Jual": "2.7671"
+            "Beli": "2.747",
+            "Jual": "2.7841"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.6337",
-            "Jual": "20.7002"
+            "Beli": "20.5181",
+            "Jual": "20.8257"
           },
           {
             "Kurs": "GBP",
-            "Beli": "24.0552",
-            "Jual": "24.1408"
+            "Beli": "23.9266",
+            "Jual": "24.2983"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.2601",
-            "Jual": "2.2641"
+            "Beli": "2.248",
+            "Jual": "2.2781"
           },
           {
             "Kurs": "JPY",
-            "Beli": "11107",
-            "Jual": "11148"
+            "Beli": "11026",
+            "Jual": "11232"
           },
           {
             "Kurs": "KRW",
-            "Beli": "1245",
-            "Jual": "1328"
+            "Beli": "1242",
+            "Jual": "1330"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4.3935",
-            "Jual": "4.4139"
+            "Beli": "4.357",
+            "Jual": "4.4402"
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.5091",
-            "Jual": "10.563"
+            "Beli": "10.4617",
+            "Jual": "10.6466"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7181",
-            "Jual": "4.7271"
+            "Beli": "4.6951",
+            "Jual": "4.7544"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.851",
-            "Jual": "1.8689"
+            "Beli": "1.8501",
+            "Jual": "1.8782"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.9344",
-            "Jual": "13.975"
+            "Beli": "13.8525",
+            "Jual": "14.063"
           },
           {
             "Kurs": "THB",
-            "Beli": "53742",
-            "Jual": "54328"
+            "Beli": "53318",
+            "Jual": "54622"
           },
           {
             "Kurs": "USD",
-            "Beli": "17.719",
-            "Jual": "17.745"
+            "Beli": "17.695",
+            "Jual": "17.785"
           }
         ]
       },
@@ -510,7 +510,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2537198,
+          "price": 2533753,
           "priceCurrency": "IDR"
         },
         "provider": {
