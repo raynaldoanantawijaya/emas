@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-08-30T20:41:19.365279"
+    "scrape_date": "2026-08-31T02:10:54.725364"
   },
   "data": {
     "technique": "direct_request",
@@ -19,17 +19,17 @@
           {
             "Satuan": "Ounce (oz)",
             "USD": "4.455,43(0)",
-            "IDR": "79.116.793,51(0)"
+            "IDR": "79.089.447,33(+3.436,31)"
           },
           {
             "Satuan": "Gram (gr)",
             "USD": "143,25(0)",
-            "IDR": "2.543.663,98(0)"
+            "IDR": "2.542.784,78(+110,48)"
           },
           {
             "Satuan": "Kilogram (kg)",
             "USD": "143.245,4(0)",
-            "IDR": "2.543.663.980(0)"
+            "IDR": "2.542.784.780(+110.480)"
           }
         ]
       },
@@ -368,8 +368,8 @@
         "rows": [
           {
             "Kurs": "AED",
-            "Beli": "4.805",
-            "Jual": "4.8493"
+            "Beli": "4.8046",
+            "Jual": "4.8496"
           },
           {
             "Kurs": "AUD",
@@ -438,8 +438,8 @@
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.7826",
-            "Jual": "14.0297"
+            "Beli": "13.7869",
+            "Jual": "14.0341"
           },
           {
             "Kurs": "THB",
@@ -510,7 +510,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2483178,
+          "price": 2483150,
           "priceCurrency": "IDR"
         },
         "provider": {
