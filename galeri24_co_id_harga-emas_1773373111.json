@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-09-01T11:18:51.968124"
+    "scrape_date": "2026-09-01T20:18:00.303534"
   },
   "data": {
     "technique": "network_capture",
@@ -131,20 +131,6 @@
       },
       "https://galeri24.co.id/api/banners": [
         {
-          "id": "08933288-3295-4478-a047-ae795803bf74",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "G24_AGUSTUS_WEEK_3 - PROMO HUT 8 TAHUN GALERI 24 Format Banner.jpg",
-          "imageMimeType": "image/jpeg",
-          "imagePath": "images/5da27b700394f429806039cc3328e610",
-          "createdAt": "2026-08-03T06:36:42.940Z",
-          "updatedAt": "2026-08-03T06:36:42.940Z"
-        },
-        {
           "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
           "group": "HERO",
           "title": ".",
@@ -157,6 +143,20 @@
           "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
           "createdAt": "2026-06-11T14:26:06.395Z",
           "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
+          "id": "3ab23900-4baa-48b6-ae72-1be8b9e338b4",
+          "group": "HERO",
+          "title": "-",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Website Serenade of Gold.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/b8fcf276be5d642f4c3749ebf23d3992",
+          "createdAt": "2026-09-01T06:25:02.367Z",
+          "updatedAt": "2026-09-01T06:25:02.367Z"
         },
         {
           "id": "4720e6c1-9bb9-4650-b58d-c7f6d668907c",
@@ -2375,7 +2375,7 @@
       },
       [
         "Date",
-        "2026-09-01T04:18:28.110Z"
+        "2026-09-01T13:17:35.845Z"
       ],
       false,
       100,
