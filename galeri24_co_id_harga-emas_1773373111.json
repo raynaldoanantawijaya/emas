@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-09-05T10:41:27.268451"
+    "scrape_date": "2026-09-05T15:12:45.073468"
   },
   "data": {
     "technique": "network_capture",
@@ -980,11 +980,11 @@
         "updatedAt": 198,
         "vendorName": 199
       },
-      "25089239-d357-4ff3-9a6f-e671314d6dec",
-      "4444000",
-      "4667000",
+      "7a3872cc-34f6-449d-a3ad-ea6c1b911333",
+      "4396000",
+      "4616000",
       "00005202108020",
-      "2026-09-04T11:30:14.174Z",
+      "2026-09-05T03:37:53.308Z",
       "BABY SERIES INVESTASI",
       {
         "id": 201,
@@ -1001,9 +1001,9 @@
         "updatedAt": 203,
         "vendorName": 204
       },
-      "6555f3fb-250d-4a1f-9f13-e304b4d0bd1d",
+      "9fc77390-0159-476d-a6e6-5c7bde185626",
       "00005202108019",
-      "2026-09-04T11:30:02.721Z",
+      "2026-09-05T03:37:41.148Z",
       "BABY SERIES TUMBUHAN",
       {
         "id": 206,
@@ -2337,7 +2337,7 @@
       },
       [
         "Date",
-        "2026-09-05T03:41:03.159Z"
+        "2026-09-05T08:12:20.640Z"
       ],
       false,
       100,
@@ -4426,7 +4426,7 @@
         "rows": [
           {
             "Berat (Gram)": "1.5 gr",
-            "Harga Jual": "4.667.000",
+            "Harga Jual": "4.616.000",
             "Harga Beli (Buyback)": "0"
           }
         ]
@@ -4441,7 +4441,7 @@
         "rows": [
           {
             "Berat (Gram)": "1.5 gr",
-            "Harga Jual": "4.667.000",
+            "Harga Jual": "4.616.000",
             "Harga Beli (Buyback)": "0"
           }
         ]
