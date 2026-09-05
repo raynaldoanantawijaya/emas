@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-09-06T01:01:03.598873"
+    "scrape_date": "2026-09-06T04:59:22.299737"
   },
   "data": {
     "technique": "network_capture",
@@ -14,6 +14,78 @@
         "createdAt": "2023-12-02T05:45:36.077Z",
         "updatedAt": "2026-08-27T01:52:17.919Z"
       },
+      "https://galeri24.co.id/api/banners": [
+        {
+          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (2).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
+          "createdAt": "2026-06-11T14:26:06.395Z",
+          "updatedAt": "2026-06-11T14:26:06.395Z"
+        },
+        {
+          "id": "3ab23900-4baa-48b6-ae72-1be8b9e338b4",
+          "group": "HERO",
+          "title": "-",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Website Serenade of Gold.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/b8fcf276be5d642f4c3749ebf23d3992",
+          "createdAt": "2026-09-01T06:25:02.367Z",
+          "updatedAt": "2026-09-01T06:25:02.367Z"
+        },
+        {
+          "id": "4720e6c1-9bb9-4650-b58d-c7f6d668907c",
+          "group": "HERO",
+          "title": "-",
+          "description": "-",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Info Pengiriman Online (1).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
+          "createdAt": "2026-07-27T07:31:23.389Z",
+          "updatedAt": "2026-07-27T07:31:23.389Z"
+        },
+        {
+          "id": "cf4b1863-0955-429f-a021-0921485c6007",
+          "group": "HERO",
+          "title": ".",
+          "description": ".",
+          "orderNumber": 1,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
+          "createdAt": "2025-12-20T07:46:35.871Z",
+          "updatedAt": "2025-12-22T01:37:33.705Z"
+        },
+        {
+          "id": "88398fdd-e801-46f5-b237-c202d2233593",
+          "group": "HERO",
+          "title": "-",
+          "description": "",
+          "orderNumber": 2,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Copy of Template - Banner Website  (3).png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
+          "createdAt": "2024-11-20T08:37:57.954Z",
+          "updatedAt": "2026-06-11T14:27:14.221Z"
+        }
+      ],
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -128,79 +200,7 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
-      },
-      "https://galeri24.co.id/api/banners": [
-        {
-          "id": "3650faa8-638b-4838-a03d-f12f0627b88a",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (2).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/fba8686753ec792a17da6aad7fb84d4a",
-          "createdAt": "2026-06-11T14:26:06.395Z",
-          "updatedAt": "2026-06-11T14:26:06.395Z"
-        },
-        {
-          "id": "3ab23900-4baa-48b6-ae72-1be8b9e338b4",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Website Serenade of Gold.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/b8fcf276be5d642f4c3749ebf23d3992",
-          "createdAt": "2026-09-01T06:25:02.367Z",
-          "updatedAt": "2026-09-01T06:25:02.367Z"
-        },
-        {
-          "id": "4720e6c1-9bb9-4650-b58d-c7f6d668907c",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Info Pengiriman Online (1).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
-          "createdAt": "2026-07-27T07:31:23.389Z",
-          "updatedAt": "2026-07-27T07:31:23.389Z"
-        },
-        {
-          "id": "cf4b1863-0955-429f-a021-0921485c6007",
-          "group": "HERO",
-          "title": ".",
-          "description": ".",
-          "orderNumber": 1,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Melayani Sepenuh Hati - 1600x900.png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/11e0f5714449e2edf8749f88aeb9fef4",
-          "createdAt": "2025-12-20T07:46:35.871Z",
-          "updatedAt": "2025-12-22T01:37:33.705Z"
-        },
-        {
-          "id": "88398fdd-e801-46f5-b237-c202d2233593",
-          "group": "HERO",
-          "title": "-",
-          "description": "",
-          "orderNumber": 2,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "Copy of Template - Banner Website  (3).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/a17b2a75191f64836ab6eb1d2b57ee3b",
-          "createdAt": "2024-11-20T08:37:57.954Z",
-          "updatedAt": "2026-06-11T14:27:14.221Z"
-        }
-      ]
+      }
     },
     "api_count": 3,
     "__NUXT__": [
@@ -2337,7 +2337,7 @@
       },
       [
         "Date",
-        "2026-09-05T18:00:39.968Z"
+        "2026-09-05T21:58:57.061Z"
       ],
       false,
       100,
