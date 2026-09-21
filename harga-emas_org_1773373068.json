@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-09-21T11:06:45.663850"
+    "scrape_date": "2026-09-21T21:58:08.958955"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.359,17(-18,75)",
-            "IDR": "77.651.607,63(-328.193,93)"
+            "USD": "4.340,65(-37,27)",
+            "IDR": "77.632.467,17(-347.334,39)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "140,15(-0,6)",
-            "IDR": "2.496.557,16(-10.551,68)"
+            "USD": "139,56(-1,2)",
+            "IDR": "2.495.941,78(-11.167,06)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "140.150,57(-602,83)",
-            "IDR": "2.496.557.160(-10.551.680)"
+            "USD": "139.555,14(-1.198,26)",
+            "IDR": "2.495.941.780(-11.167.060)"
           }
         ]
       },
@@ -98,7 +98,7 @@
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:21 September 2026 pukul 03.09Harga pembelian kembali:Rp2.500.200/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:21 September 2026 pukul 14.54Harga pembelian kembali:Rp2.500.200/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:21 September 2026"
           }
         ]
@@ -113,63 +113,63 @@
         "rows": [
           {
             "Satuan Gram": "0.1",
-            "Jual per Gram (Rp)": "333.000",
-            "Beli per Gram (Rp)": "232.500"
+            "Jual per Gram (Rp)": "331.000",
+            "Beli per Gram (Rp)": "233.000"
           },
           {
             "Satuan Gram": "0.25",
-            "Jual per Gram (Rp)": "743.500",
-            "Beli per Gram (Rp)": "581.250"
+            "Jual per Gram (Rp)": "737.000",
+            "Beli per Gram (Rp)": "582.500"
           },
           {
             "Satuan Gram": "0.5",
-            "Jual per Gram (Rp)": "1.352.000",
-            "Beli per Gram (Rp)": "1.162.500"
+            "Jual per Gram (Rp)": "1.338.000",
+            "Beli per Gram (Rp)": "1.165.000"
           },
           {
             "Satuan Gram": "1",
-            "Jual per Gram (Rp)": "2.515.000",
-            "Beli per Gram (Rp)": "2.325.000"
+            "Jual per Gram (Rp)": "2.486.000",
+            "Beli per Gram (Rp)": "2.330.000"
           },
           {
             "Satuan Gram": "2",
-            "Jual per Gram (Rp)": "4.963.000",
-            "Beli per Gram (Rp)": "4.650.000"
+            "Jual per Gram (Rp)": "4.905.000",
+            "Beli per Gram (Rp)": "4.660.000"
           },
           {
             "Satuan Gram": "3",
-            "Jual per Gram (Rp)": "7.434.000",
-            "Beli per Gram (Rp)": "6.975.000"
+            "Jual per Gram (Rp)": "7.347.000",
+            "Beli per Gram (Rp)": "6.990.000"
           },
           {
             "Satuan Gram": "4",
-            "Jual per Gram (Rp)": "9.873.000",
-            "Beli per Gram (Rp)": "9.300.000"
+            "Jual per Gram (Rp)": "9.757.000",
+            "Beli per Gram (Rp)": "9.320.000"
           },
           {
             "Satuan Gram": "5",
-            "Jual per Gram (Rp)": "12.200.000",
-            "Beli per Gram (Rp)": "11.625.000"
+            "Jual per Gram (Rp)": "12.055.000",
+            "Beli per Gram (Rp)": "11.650.000"
           },
           {
             "Satuan Gram": "10",
-            "Jual per Gram (Rp)": "24.205.000",
-            "Beli per Gram (Rp)": "23.250.000"
+            "Jual per Gram (Rp)": "23.915.000",
+            "Beli per Gram (Rp)": "23.300.000"
           },
           {
             "Satuan Gram": "25",
-            "Jual per Gram (Rp)": "60.377.000",
-            "Beli per Gram (Rp)": "58.125.000"
+            "Jual per Gram (Rp)": "59.652.000",
+            "Beli per Gram (Rp)": "58.250.000"
           },
           {
             "Satuan Gram": "50",
-            "Jual per Gram (Rp)": "120.295.000",
-            "Beli per Gram (Rp)": "116.250.000"
+            "Jual per Gram (Rp)": "118.845.000",
+            "Beli per Gram (Rp)": "116.500.000"
           },
           {
             "Satuan Gram": "100",
-            "Jual per Gram (Rp)": "240.400.000",
-            "Beli per Gram (Rp)": "232.500.000"
+            "Jual per Gram (Rp)": "237.500.000",
+            "Beli per Gram (Rp)": "233.000.000"
           }
         ]
       },
@@ -373,88 +373,88 @@
         "rows": [
           {
             "Kurs": "AED",
-            "Beli": "4.8394",
-            "Jual": "4.8609"
+            "Beli": "4.8413",
+            "Jual": "4.8819"
           },
           {
             "Kurs": "AUD",
-            "Beli": "12.6651",
-            "Jual": "12.7195"
+            "Beli": "12.6264",
+            "Jual": "12.8289"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.7028",
-            "Jual": "12.7363"
+            "Beli": "12.6464",
+            "Jual": "12.8337"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.5899",
-            "Jual": "21.6955"
+            "Beli": "21.5386",
+            "Jual": "21.878"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.7322",
-            "Jual": "2.7362"
+            "Beli": "2.7212",
+            "Jual": "2.7582"
           },
           {
             "Kurs": "EUR",
-            "Beli": "20.4094",
-            "Jual": "20.4685"
+            "Beli": "20.3285",
+            "Jual": "20.6351"
           },
           {
             "Kurs": "GBP",
-            "Beli": "23.8044",
-            "Jual": "23.869"
+            "Beli": "23.7024",
+            "Jual": "24.0674"
           },
           {
             "Kurs": "HKD",
-            "Beli": "2.2689",
-            "Jual": "2.2721"
+            "Beli": "2.2605",
+            "Jual": "2.2909"
           },
           {
             "Kurs": "JPY",
-            "Beli": "11330",
-            "Jual": "11369"
+            "Beli": "11238",
+            "Jual": "11446"
           },
           {
             "Kurs": "KRW",
-            "Beli": "1248",
-            "Jual": "1329"
+            "Beli": "1257",
+            "Jual": "1346"
           },
           {
             "Kurs": "MYR",
-            "Beli": "4.3592",
-            "Jual": "4.3788"
+            "Beli": "4.3381",
+            "Jual": "4.4195"
           },
           {
             "Kurs": "NZD",
-            "Beli": "10.1762",
-            "Jual": "10.2209"
+            "Beli": "10.1305",
+            "Jual": "10.3041"
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7384",
-            "Jual": "4.7457"
+            "Beli": "4.7237",
+            "Jual": "4.7833"
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8012",
-            "Jual": "1.8196"
+            "Beli": "1.8029",
+            "Jual": "1.828"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.944",
-            "Jual": "13.9829"
+            "Beli": "13.8912",
+            "Jual": "14.0974"
           },
           {
             "Kurs": "THB",
-            "Beli": "53206",
-            "Jual": "53824"
+            "Beli": "53022",
+            "Jual": "54295"
           },
           {
             "Kurs": "USD",
-            "Beli": "17.803",
-            "Jual": "17.823"
+            "Beli": "17.81",
+            "Jual": "17.9"
           }
         ]
       },
@@ -515,7 +515,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2469639,
+          "price": 2458962,
           "priceCurrency": "IDR"
         },
         "provider": {
