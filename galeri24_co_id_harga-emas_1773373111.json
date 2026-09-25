@@ -2,8 +2,8 @@
   "metadata": {
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
-    "technique_used": "Network Capture",
-    "scrape_date": "2026-09-25T11:10:20.039931"
+    "technique_used": "Network Capture + DOM Extraction",
+    "scrape_date": "2026-09-25T20:25:46.449793"
   },
   "data": {
     "technique": "network_capture",
@@ -2339,7 +2339,7 @@
       },
       [
         "Date",
-        "2026-09-25T04:09:33.803Z"
+        "2026-09-25T13:25:23.387Z"
       ],
       false,
       100,
@@ -4532,6 +4532,80 @@
             "Harga Beli (Buyback)": "4.741.000"
           }
         ]
+      }
+    ],
+    "articles": [
+      {
+        "judul": "ANTAM MULIA RETRO",
+        "url": "https://galeri24.co.id/harga-emas#ANTAM%20MULIA%20RETRO",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "ANTAM NON PEGADAIAN",
+        "url": "https://galeri24.co.id/harga-emas#ANTAM%20NON%20PEGADAIAN",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "UBS MICKEY FULLBODY",
+        "url": "https://galeri24.co.id/harga-emas#UBS%20MICKEY%20FULLBODY",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "LOTUS ARCHI GIFT",
+        "url": "https://galeri24.co.id/harga-emas#LOTUS%20ARCHI%20GIFT",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "UBS HELLO KITTY",
+        "url": "https://galeri24.co.id/harga-emas#UBS%20HELLO%20KITTY",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "BABY SERIES TUMBUHAN",
+        "url": "https://galeri24.co.id/harga-emas#BABY%20SERIES%20TUMBUHAN",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "BABY SERIES INVESTASI",
+        "url": "https://galeri24.co.id/harga-emas#BABY%20SERIES%20INVESTASI",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "cs@galeri24.co.id",
+        "url": "mailto:cs@galeri24.co.id",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Gedung Kenari Baru Jl. Salemba Raya No 2, Jakarta Pusat",
+        "url": "https://goo.gl/maps/nSCsDh5uophyUz1d9",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Download on the\nApp Store",
+        "url": "https://apps.apple.com/id/app/galeri-24/id1558453057",
+        "thumbnail": "https://galeri24.co.id/image/apple.svg",
+        "waktu": ""
+      },
+      {
+        "judul": "GET IT ON\nGoogle Play",
+        "url": "https://play.google.com/store/apps/details?id=com.galeri24",
+        "thumbnail": "https://galeri24.co.id/image/playstore.svg",
+        "waktu": ""
+      },
+      {
+        "judul": "Belanja Emas Sekarang",
+        "url": "https://galeri24.co.id/produk",
+        "thumbnail": "",
+        "waktu": ""
       }
     ]
   }
