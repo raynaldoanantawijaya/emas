@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-09-25T20:25:46.449793"
+    "scrape_date": "2026-09-26T02:55:48.815798"
   },
   "data": {
     "technique": "network_capture",
@@ -131,6 +131,20 @@
       },
       "https://galeri24.co.id/api/banners": [
         {
+          "id": "1769d5c7-d3f1-4211-885e-c6503c7c0dc0",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "Web 26.26 Sept.png",
+          "imageMimeType": "image/png",
+          "imagePath": "images/4589b3c1f14534c3ca9b5098fa7319c7",
+          "createdAt": "2026-09-25T12:53:55.256Z",
+          "updatedAt": "2026-09-25T12:53:55.256Z"
+        },
+        {
           "id": "31a36bd5-d74b-4219-8770-4aa6a7b12be4",
           "group": "HERO",
           "title": ".",
@@ -171,20 +185,6 @@
           "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
           "createdAt": "2026-07-27T07:31:23.389Z",
           "updatedAt": "2026-07-27T07:31:23.389Z"
-        },
-        {
-          "id": "8fc341ca-384f-4656-9d76-2a405d2fa35a",
-          "group": "HERO",
-          "title": "-",
-          "description": "-",
-          "orderNumber": 0,
-          "ctaLabel": "",
-          "ctaUrl": "",
-          "imageName": "web emas murah (1).png",
-          "imageMimeType": "image/png",
-          "imagePath": "images/b4728745b9ed5056b1cb78bd4b330845",
-          "createdAt": "2026-09-17T02:23:41.053Z",
-          "updatedAt": "2026-09-17T02:23:41.053Z"
         },
         {
           "id": "cf4b1863-0955-429f-a021-0921485c6007",
@@ -2339,7 +2339,7 @@
       },
       [
         "Date",
-        "2026-09-25T13:25:23.387Z"
+        "2026-09-25T19:55:23.751Z"
       ],
       false,
       100,
