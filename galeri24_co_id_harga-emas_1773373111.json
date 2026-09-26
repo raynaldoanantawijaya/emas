@@ -3,17 +3,11 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-09-26T11:14:38.696069"
+    "scrape_date": "2026-09-26T19:49:34.391706"
   },
   "data": {
     "technique": "network_capture",
     "captured_apis": {
-      "https://galeri24.co.id/api/menu": {
-        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
-        "menuTree": "[{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi Misi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Gelang\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gelang\",\"children\":[]},{\"label\":\"Kalung\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Kalung\"},{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\",\"children\":[]},{\"label\":\"Liontin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Liontin\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"},{\"label\":\"Gift\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gift\"}]},{\"label\":\"Layanan Galeri 24\",\"children\":[{\"label\":\"Perhiasan\",\"pathParams\":{\"slug\":\"perhiasan\"},\"urlLink\":\"\",\"pathName\":\"information-slug\"},{\"label\":\"Sentra Buyback Emas Galeri 24\",\"pathParams\":{\"slug\":\"sentra-buyback\"},\"pathName\":\"information-slug\"},{\"label\":\"Emas Custom Galeri 24\",\"pathParams\":{\"slug\":\"custom-emas\"},\"pathName\":\"information-slug\"},{\"label\":\"Konsinyasi Galeri 24\",\"pathParams\":{\"slug\":\"konsinyasi-emas-batangan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"},\"children\":[]},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"},\"children\":[]},{\"label\":\"Persetujuan Data Nasabah\",\"pathParams\":{\"slug\":\"perlindungan-data-nasabah-o8wxp\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"}]",
-        "createdAt": "2023-12-02T05:45:36.077Z",
-        "updatedAt": "2026-09-16T01:59:44.450Z"
-      },
       "https://galeri24.co.id/api/product-categories?take=1000": {
         "count": 9,
         "next": null,
@@ -22,14 +16,14 @@
           {
             "id": "13b6c3f9-9470-4152-a677-f3c830e05b5c",
             "name": "Anting",
-            "description": "desain kekinian Cocok buat gaya santai atau party, nih! bikin penampilan makin hits!",
-            "imageName": "67e0a4959b24e071a9baa86b340d3048.jpg",
-            "imageMimeType": "image/jpeg",
-            "imagePath": "",
+            "description": "",
+            "imageName": "Anting.png",
+            "imageMimeType": "image/png",
+            "imagePath": "images/3a760cb70eb40777e6612fc2c9f5aed0",
             "isMenu": true,
-            "isHome": false,
+            "isHome": true,
             "createdAt": "2023-11-22T09:53:22.423Z",
-            "updatedAt": "2024-01-25T07:21:11.534Z"
+            "updatedAt": "2026-09-25T11:17:07.154Z"
           },
           {
             "id": "f6833ef4-5d22-4b43-bf15-ba4842b57232",
@@ -46,38 +40,38 @@
           {
             "id": "bde19b21-c773-490b-b771-7cf73be0b2ff",
             "name": "Cincin",
-            "description": "desain kekinian nge-hits, Stay cool dengan cincin yang jadi  statement fashion!",
-            "imageName": "20548a47c2bd686fc490f8f72468277a.jpg",
-            "imageMimeType": "image/jpeg",
-            "imagePath": "",
+            "description": "",
+            "imageName": "Cincin.png",
+            "imageMimeType": "image/png",
+            "imagePath": "images/20ea45781639938c3885ad555b52326c",
             "isMenu": true,
-            "isHome": false,
+            "isHome": true,
             "createdAt": "2023-11-22T09:53:32.709Z",
-            "updatedAt": "2024-01-25T07:23:52.793Z"
+            "updatedAt": "2026-09-25T11:16:41.313Z"
           },
           {
             "id": "f7e0a0b3-150e-4870-a5e7-5cc3fcabb4bd",
             "name": "Emas Batangan",
             "description": "",
-            "imageName": "DSC07733.jpg",
-            "imageMimeType": "image/jpeg",
-            "imagePath": "images/20ae6553a4d11c1b5d1e43be4c08e750",
+            "imageName": "Emas Batangan.png",
+            "imageMimeType": "image/png",
+            "imagePath": "images/7323cc444e71abbf61de9ab7e5f42be8",
             "isMenu": true,
             "isHome": true,
             "createdAt": "2023-11-22T09:48:25.753Z",
-            "updatedAt": "2024-02-13T08:46:48.194Z"
+            "updatedAt": "2026-09-25T11:15:44.205Z"
           },
           {
             "id": "91ecaf30-d3a0-49f9-a60a-964f3cd91c18",
             "name": "Gelang",
             "description": "",
-            "imageName": "DSC07685-3.jpg",
-            "imageMimeType": "image/jpeg",
-            "imagePath": "images/d17118479959bce8462da74e8c11d7d4",
+            "imageName": "Gelang.png",
+            "imageMimeType": "image/png",
+            "imagePath": "images/a1a22d60eca08c4b1a2457af35b87507",
             "isMenu": true,
             "isHome": true,
             "createdAt": "2023-11-22T09:53:09.320Z",
-            "updatedAt": "2024-02-13T08:49:05.810Z"
+            "updatedAt": "2026-09-25T11:16:04.493Z"
           },
           {
             "id": "76650451-4459-4b36-9505-91a0b19f0844",
@@ -95,13 +89,13 @@
             "id": "0e265ade-b6c8-4f94-a400-a555338800ec",
             "name": "Kalung",
             "description": "",
-            "imageName": "DSC07604-3.jpg",
-            "imageMimeType": "image/jpeg",
-            "imagePath": "images/0ccfc5451fcf2f3ec409361cf4742cc4",
+            "imageName": "Kalung.png",
+            "imageMimeType": "image/png",
+            "imagePath": "images/b6abe3a577530804f262148975321390",
             "isMenu": true,
             "isHome": true,
             "createdAt": "2023-11-22T09:53:14.843Z",
-            "updatedAt": "2024-02-13T08:50:10.648Z"
+            "updatedAt": "2026-09-25T11:16:16.046Z"
           },
           {
             "id": "78c837d5-b23a-4b8f-b1bf-bf0b53f4fabb",
@@ -128,6 +122,12 @@
             "updatedAt": "2024-01-25T07:27:29.985Z"
           }
         ]
+      },
+      "https://galeri24.co.id/api/menu": {
+        "id": "8229e558-afe7-413e-af28-d590bbb12b79",
+        "menuTree": "[{\"label\":\"Profil Perusahaan\",\"children\":[{\"label\":\"Tentang Galeri 24\",\"pathQuery\":{\"key\":\"value\"},\"children\":[{\"label\":\"Sejarah Galeri 24\",\"pathParams\":{\"slug\":\"sejarah-perusahaan\"},\"pathName\":\"information-slug\"},{\"label\":\"Visi Misi\",\"pathParams\":{\"slug\":\"visi-misi\"},\"pathName\":\"information-slug\"},{\"label\":\"Struktur Organisasi\",\"pathParams\":{\"slug\":\"struktur-organisasi\"},\"pathName\":\"information-slug\",\"children\":[]}]},{\"label\":\"Manajemen\",\"children\":[{\"label\":\"Jajaran Komisaris\",\"pathParams\":{\"slug\":\"jajaran-komisaris\"},\"pathName\":\"information-slug\"},{\"label\":\"Jajaran Direksi\",\"pathParams\":{\"slug\":\"jajaran-direksi\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Laporan Keuangan\",\"pathParams\":{\"slug\":\"laporan-keuangan\"},\"pathName\":\"information-slug\",\"children\":[]},{\"label\":\"Laporan Tahunan\",\"pathParams\":{\"slug\":\"laporan-tahunan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Produk & Layanan\",\"children\":[{\"label\":\"Produk Galeri 24\",\"children\":[{\"label\":\"Emas Batangan\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Emas%20Batangan\",\"children\":[]},{\"label\":\"Cincin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Cincin\"},{\"label\":\"Gelang\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gelang\",\"children\":[]},{\"label\":\"Kalung\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Kalung\"},{\"label\":\"Anting\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Anting\",\"children\":[]},{\"label\":\"Liontin\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Liontin\"},{\"label\":\"Berlian\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Berlian\",\"children\":[]},{\"label\":\"Souvenir\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Souvenir\"},{\"label\":\"Gift\",\"urlLink\":\"https://galeri24.co.id/produk/kategori/Gift\"}]},{\"label\":\"Layanan Galeri 24\",\"children\":[{\"label\":\"Perhiasan\",\"pathParams\":{\"slug\":\"perhiasan\"},\"urlLink\":\"\",\"pathName\":\"information-slug\"},{\"label\":\"Sentra Buyback Emas Galeri 24\",\"pathParams\":{\"slug\":\"sentra-buyback\"},\"pathName\":\"information-slug\"},{\"label\":\"Emas Custom Galeri 24\",\"pathParams\":{\"slug\":\"custom-emas\"},\"pathName\":\"information-slug\"},{\"label\":\"Konsinyasi Galeri 24\",\"pathParams\":{\"slug\":\"konsinyasi-emas-batangan\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Syarat dan Ketentuan\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"term-condition\"},\"children\":[]},{\"label\":\"FAQ\",\"pathName\":\"faq\"},{\"label\":\"Kebijakan Privasi\",\"pathName\":\"information-slug\",\"pathParams\":{\"slug\":\"privacy-policy\"},\"children\":[]},{\"label\":\"Persetujuan Data Nasabah\",\"pathParams\":{\"slug\":\"perlindungan-data-nasabah-o8wxp\"},\"pathName\":\"information-slug\"}]},{\"label\":\"Harga Emas\",\"pathName\":\"goldprice\",\"children\":[]},{\"label\":\"Outlet\",\"pathName\":\"outlet\"},{\"label\":\"Ruang Media\",\"children\":[{\"label\":\"Kabar Emas\",\"pathParams\":{\"slug\":\"Kabar-Emas\"},\"pathName\":\"articles-category-slug\"}]},{\"label\":\"Promo\",\"pathParams\":{\"slug\":\"Promo\"},\"pathName\":\"articles-category-slug\"}]",
+        "createdAt": "2023-12-02T05:45:36.077Z",
+        "updatedAt": "2026-09-16T01:59:44.450Z"
       },
       "https://galeri24.co.id/api/banners": [
         {
@@ -2349,7 +2349,7 @@
       },
       [
         "Date",
-        "2026-09-26T04:14:15.245Z"
+        "2026-09-26T12:49:10.160Z"
       ],
       false,
       100,

@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-09-26T11:14:41.001464"
+    "scrape_date": "2026-09-26T19:49:36.668832"
   },
   "data": {
     "technique": "direct_request",
@@ -18,18 +18,18 @@
         "rows": [
           {
             "Satuan": "Ounce (oz)",
-            "USD": "4.285,29(+13,74)",
-            "IDR": "76.767.056,17(+90.726,66)"
+            "USD": "4.285,29(-18,29)",
+            "IDR": "76.767.056,17(-465.877,21)"
           },
           {
             "Satuan": "Gram (gr)",
-            "USD": "137,78(+0,44)",
-            "IDR": "2.468.118,17(+2.916,93)"
+            "USD": "137,78(-0,59)",
+            "IDR": "2.468.118,17(-14.978,3)"
           },
           {
             "Satuan": "Kilogram (kg)",
-            "USD": "137.775,27(+441,75)",
-            "IDR": "2.468.118.170(+2.916.930)"
+            "USD": "137.775,27(-588,04)",
+            "IDR": "2.468.118.170(-14.978.300)"
           }
         ]
       },
@@ -43,62 +43,62 @@
         "rows": [
           {
             "Satuan Gram": "1000",
-            "Antam per Gram (Rp)": "2.530.600.000",
+            "Antam per Gram (Rp)": "2.553.600.000",
             "Pegadaian per Gram (Rp)": "2.470.173.000"
           },
           {
             "Satuan Gram": "500",
-            "Antam per Gram (Rp)": "1.265.320.000",
+            "Antam per Gram (Rp)": "1.276.820.000",
             "Pegadaian per Gram (Rp)": "1.235.087.000"
           },
           {
             "Satuan Gram": "250",
-            "Antam per Gram (Rp)": "632.765.000",
+            "Antam per Gram (Rp)": "638.515.000",
             "Pegadaian per Gram (Rp)": "617.544.000"
           },
           {
             "Satuan Gram": "100",
-            "Antam per Gram (Rp)": "253.212.000",
+            "Antam per Gram (Rp)": "255.512.000",
             "Pegadaian per Gram (Rp)": "247.626.000"
           },
           {
             "Satuan Gram": "50",
-            "Antam per Gram (Rp)": "126.645.000",
+            "Antam per Gram (Rp)": "127.795.000",
             "Pegadaian per Gram (Rp)": "123.874.000"
           },
           {
             "Satuan Gram": "25",
-            "Antam per Gram (Rp)": "63.362.000",
+            "Antam per Gram (Rp)": "63.937.000",
             "Pegadaian per Gram (Rp)": "61.986.000"
           },
           {
             "Satuan Gram": "10",
-            "Antam per Gram (Rp)": "26.400.000",
+            "Antam per Gram (Rp)": "26.630.000",
             "Pegadaian per Gram (Rp)": "24.929.000"
           },
           {
             "Satuan Gram": "5",
-            "Antam per Gram (Rp)": "12.725.000",
+            "Antam per Gram (Rp)": "12.840.000",
             "Pegadaian per Gram (Rp)": "12.498.000"
           },
           {
             "Satuan Gram": "2",
-            "Antam per Gram (Rp)": "5.120.000",
+            "Antam per Gram (Rp)": "5.166.000",
             "Pegadaian per Gram (Rp)": "5.036.000"
           },
           {
             "Satuan Gram": "1",
-            "Antam per Gram (Rp)": "2.740.000",
+            "Antam per Gram (Rp)": "2.763.000",
             "Pegadaian per Gram (Rp)": "2.549.000"
           },
           {
             "Satuan Gram": "0.5",
-            "Antam per Gram (Rp)": "1.415.000",
+            "Antam per Gram (Rp)": "1.426.500",
             "Pegadaian per Gram (Rp)": "1.337.000"
           },
           {
             "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:26 September 2026 pukul 00.01Harga pembelian kembali:Rp2.466.000/grm",
+            "Antam per Gram (Rp)": "Update harga LM Antam:26 September 2026 pukul 12.04Harga pembelian kembali:Rp2.486.700/grm",
             "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:26 September 2026"
           }
         ]
@@ -373,8 +373,8 @@
         "rows": [
           {
             "Kurs": "AED",
-            "Beli": "4.8504",
-            "Jual": "4.8938"
+            "Beli": "4.8498",
+            "Jual": "4.8942"
           },
           {
             "Kurs": "AUD",
@@ -515,7 +515,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2437378,
+          "price": 2437338,
           "priceCurrency": "IDR"
         },
         "provider": {
