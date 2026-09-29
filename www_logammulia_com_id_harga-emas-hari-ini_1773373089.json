@@ -3,13 +3,13 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "DOM Extraction",
-    "scrape_date": "2026-09-29T07:17:30.480547"
+    "scrape_date": "2026-09-29T17:31:52.370575"
   },
   "data": {
     "technique": "dom_extraction",
     "tables": [
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Emas Batangan",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Emas Batangan",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -18,68 +18,68 @@
         "rows": [
           {
             "Berat": "0.5 gr",
-            "Harga Dasar": "1,348,500",
-            "Harga (+Pajak PPh 0.25%)": "1,351,871"
+            "Harga Dasar": "1,340,000",
+            "Harga (+Pajak PPh 0.25%)": "1,343,350"
           },
           {
             "Berat": "1 gr",
-            "Harga Dasar": "2,597,000",
-            "Harga (+Pajak PPh 0.25%)": "2,603,493"
+            "Harga Dasar": "2,580,000",
+            "Harga (+Pajak PPh 0.25%)": "2,586,450"
           },
           {
             "Berat": "2 gr",
-            "Harga Dasar": "5,134,000",
-            "Harga (+Pajak PPh 0.25%)": "5,146,835"
+            "Harga Dasar": "5,100,000",
+            "Harga (+Pajak PPh 0.25%)": "5,112,750"
           },
           {
             "Berat": "3 gr",
-            "Harga Dasar": "7,676,000",
-            "Harga (+Pajak PPh 0.25%)": "7,695,190"
+            "Harga Dasar": "7,625,000",
+            "Harga (+Pajak PPh 0.25%)": "7,644,063"
           },
           {
             "Berat": "5 gr",
-            "Harga Dasar": "12,760,000",
-            "Harga (+Pajak PPh 0.25%)": "12,791,900"
+            "Harga Dasar": "12,675,000",
+            "Harga (+Pajak PPh 0.25%)": "12,706,688"
           },
           {
             "Berat": "10 gr",
-            "Harga Dasar": "25,465,000",
-            "Harga (+Pajak PPh 0.25%)": "25,528,663"
+            "Harga Dasar": "25,295,000",
+            "Harga (+Pajak PPh 0.25%)": "25,358,238"
           },
           {
             "Berat": "25 gr",
-            "Harga Dasar": "63,537,000",
-            "Harga (+Pajak PPh 0.25%)": "63,695,843"
+            "Harga Dasar": "63,112,000",
+            "Harga (+Pajak PPh 0.25%)": "63,269,780"
           },
           {
             "Berat": "50 gr",
-            "Harga Dasar": "126,995,000",
-            "Harga (+Pajak PPh 0.25%)": "127,312,488"
+            "Harga Dasar": "126,145,000",
+            "Harga (+Pajak PPh 0.25%)": "126,460,363"
           },
           {
             "Berat": "100 gr",
-            "Harga Dasar": "253,912,000",
-            "Harga (+Pajak PPh 0.25%)": "254,546,780"
+            "Harga Dasar": "252,212,000",
+            "Harga (+Pajak PPh 0.25%)": "252,842,530"
           },
           {
             "Berat": "250 gr",
-            "Harga Dasar": "634,515,000",
-            "Harga (+Pajak PPh 0.25%)": "636,101,288"
+            "Harga Dasar": "630,265,000",
+            "Harga (+Pajak PPh 0.25%)": "631,840,663"
           },
           {
             "Berat": "500 gr",
-            "Harga Dasar": "1,268,820,000",
-            "Harga (+Pajak PPh 0.25%)": "1,271,992,050"
+            "Harga Dasar": "1,260,320,000",
+            "Harga (+Pajak PPh 0.25%)": "1,263,470,800"
           },
           {
             "Berat": "1000 gr",
-            "Harga Dasar": "2,537,600,000",
-            "Harga (+Pajak PPh 0.25%)": "2,543,944,000"
+            "Harga Dasar": "2,520,600,000",
+            "Harga (+Pajak PPh 0.25%)": "2,526,901,500"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Emas Batangan Gift Series",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Emas Batangan Gift Series",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -88,18 +88,18 @@
         "rows": [
           {
             "Berat": "0.5 gr",
-            "Harga Dasar": "1,418,500",
-            "Harga (+Pajak PPh 0.25%)": "1,422,046"
+            "Harga Dasar": "1,410,000",
+            "Harga (+Pajak PPh 0.25%)": "1,413,525"
           },
           {
             "Berat": "1 gr",
-            "Harga Dasar": "2,747,000",
-            "Harga (+Pajak PPh 0.25%)": "2,753,868"
+            "Harga Dasar": "2,730,000",
+            "Harga (+Pajak PPh 0.25%)": "2,736,825"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Emas Batangan Batik Seri III",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Emas Batangan Batik Seri III",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -108,18 +108,18 @@
         "rows": [
           {
             "Berat": "10 gr",
-            "Harga Dasar": "26,470,000",
-            "Harga (+Pajak PPh 0.25%)": "26,536,175"
+            "Harga Dasar": "26,300,000",
+            "Harga (+Pajak PPh 0.25%)": "26,365,750"
           },
           {
             "Berat": "20 gr",
-            "Harga Dasar": "52,140,000",
-            "Harga (+Pajak PPh 0.25%)": "52,270,350"
+            "Harga Dasar": "51,800,000",
+            "Harga (+Pajak PPh 0.25%)": "51,929,500"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Emas Batangan Karapan Sapi",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Emas Batangan Karapan Sapi",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -128,13 +128,13 @@
         "rows": [
           {
             "Berat": "17 gr",
-            "Harga Dasar": "46,397,000",
-            "Harga (+Pajak PPh 0.25%)": "46,512,993"
+            "Harga Dasar": "46,108,000",
+            "Harga (+Pajak PPh 0.25%)": "46,223,270"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Koin Perak Gunung Bromo",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Koin Perak Gunung Bromo",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -148,13 +148,13 @@
           },
           {
             "Berat": "31.1 gr",
-            "Harga Dasar": "2,728,223",
-            "Harga (+Pajak PPh 0.25%)": "3,028,328"
+            "Harga Dasar": "2,672,238",
+            "Harga (+Pajak PPh 0.25%)": "2,966,184"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Perak Murni",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Perak Murni",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -163,18 +163,18 @@
         "rows": [
           {
             "Berat": "250 gr",
-            "Harga Dasar": "11,050,000",
-            "Harga Sudah Termasuk PPN 11%": "12,265,500"
+            "Harga Dasar": "10,600,000",
+            "Harga Sudah Termasuk PPN 11%": "11,766,000"
           },
           {
             "Berat": "500 gr",
-            "Harga Dasar": "21,300,000",
-            "Harga Sudah Termasuk PPN 11%": "23,643,000"
+            "Harga Dasar": "20,400,000",
+            "Harga Sudah Termasuk PPN 11%": "22,644,000"
           }
         ]
       },
       {
-        "title": "Harga Emas Hari Ini, 28 Sep 2026 - Perak Heritage",
+        "title": "Harga Emas Hari Ini, 29 Sep 2026 - Perak Heritage",
         "headers": [
           "Berat",
           "Harga Dasar",
@@ -183,13 +183,13 @@
         "rows": [
           {
             "Berat": "31.1 gr",
-            "Harga Dasar": "1,872,645",
-            "Harga Sudah Termasuk PPN 11%": "2,078,636"
+            "Harga Dasar": "1,816,660",
+            "Harga Sudah Termasuk PPN 11%": "2,016,493"
           },
           {
             "Berat": "186.6 gr",
-            "Harga Dasar": "10,114,456",
-            "Harga Sudah Termasuk PPN 11%": "11,227,046"
+            "Harga Dasar": "9,778,576",
+            "Harga Sudah Termasuk PPN 11%": "10,854,219"
           }
         ]
       },
