@@ -3,7 +3,7 @@
     "url": "https://galeri24.co.id/harga-emas",
     "source": "Galeri24",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-10-23T16:16:53.438176"
+    "scrape_date": "2026-10-23T23:45:11.585362"
   },
   "data": {
     "technique": "network_capture",
@@ -157,6 +157,20 @@
           "imagePath": "images/9f113516e5c746dd6542b3277895c83c",
           "createdAt": "2026-07-27T07:31:23.389Z",
           "updatedAt": "2026-07-27T07:31:23.389Z"
+        },
+        {
+          "id": "48b77455-e2e7-4d99-be67-4346daa97e0c",
+          "group": "HERO",
+          "title": ".",
+          "description": "",
+          "orderNumber": 0,
+          "ctaLabel": "",
+          "ctaUrl": "",
+          "imageName": "WhatsApp Image 2026-10-23 at 18.17.02.jpeg",
+          "imageMimeType": "image/jpeg",
+          "imagePath": "images/4a9e5be5c2d85c79fa05eb99daf648b6",
+          "createdAt": "2026-10-23T11:29:56.162Z",
+          "updatedAt": "2026-10-23T11:29:56.162Z"
         },
         {
           "id": "cf4b1863-0955-429f-a021-0921485c6007",
@@ -2419,7 +2433,7 @@
       },
       [
         "Date",
-        "2026-10-23T09:16:29.441Z"
+        "2026-10-23T16:44:47.701Z"
       ],
       false,
       100,
