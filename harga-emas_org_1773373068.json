@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-10-25T10:53:51.517779"
+    "scrape_date": "2026-10-25T16:02:02.737888"
   },
   "data": {
     "technique": "direct_request",
@@ -373,8 +373,8 @@
         "rows": [
           {
             "Kurs": "AED",
-            "Beli": "4.899",
-            "Jual": "4.9442"
+            "Beli": "4.8985",
+            "Jual": "4.9437"
           },
           {
             "Kurs": "AUD",
@@ -433,8 +433,8 @@
           },
           {
             "Kurs": "SAR",
-            "Beli": "4.7838",
-            "Jual": "4.85"
+            "Beli": "4.7827",
+            "Jual": "4.8488"
           },
           {
             "Kurs": "SEK",
@@ -515,7 +515,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2339333,
+          "price": 2339320,
           "priceCurrency": "IDR"
         },
         "provider": {
