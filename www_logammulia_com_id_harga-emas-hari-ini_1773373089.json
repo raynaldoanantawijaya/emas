@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-10-26T10:58:47.006253"
+    "scrape_date": "2026-10-26T17:01:38.867876"
   },
   "data": {
     "technique": "network_capture",
@@ -18,11 +18,11 @@
         "measurementId": "G-E8EZCXE4GL"
       },
       "https://firebaseinstallations.googleapis.com/v1/projects/sharp-effort-404009/installations": {
-        "name": "projects/650607720029/installations/d4u5QSOYxh7pyYe-XtFJPB",
-        "fid": "d4u5QSOYxh7pyYe-XtFJPB",
-        "refreshToken": "3_AS3qfwJpyNMQ9XQdy7QdIyfNQr5jxt9nXByMNW5K8yMICnq38ivNRh-ph-W9eAZkF9p6O502Ztz3O_Ri3Wf0xxIsOdHZKJb1zHqeF3U3e56JRg",
+        "name": "projects/650607720029/installations/dOE2zZlVVHCPIS6CRh8AEw",
+        "fid": "dOE2zZlVVHCPIS6CRh8AEw",
+        "refreshToken": "3_AS3qfwKYsc5_feJBp_vmhpW5ahwOwIiVO-PeZR76HWHtWR-Ob3w7rU8cn_3rEokij_Ix-eFkClZR3Gj1gmoMZBF75tELVoO0a17k_sZ5OAji9Hs",
         "authToken": {
-          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzkzNTkxODk3LCJmaWQiOiJkNHU1UVNPWXhoN3B5WWUtWHRGSlBCIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRQIhAN3Z2nyNKtw9WH2Zv0WXOkjVmGH9tDWFMSzJtB7T4XQWAiBeLBgr6BTH-8gRBu6fitYTNCWhxE47oWSZKkpdW8zlvg",
+          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzkzNjEzNjY5LCJmaWQiOiJkT0UyelpsVlZIQ1BJUzZDUmg4QUV3IiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRgIhANroWv6cYqxgSpxC7SYw-Vgm_3Vp3z7ZRIvJ8GdZRzjfAiEA7dxJ3VQiucjTVbzPcQrWFNOMe23oh1zhHFhcObnUSig",
           "expiresIn": "604800s"
         }
       }
@@ -43,6 +43,12 @@
         "waktu": ""
       },
       {
+        "judul": "INFO\nPanduan Integrasi Akun Website dan BRANKAS di Aplikasi ANTAM Logam Mulia\n26 Oktober 2026",
+        "url": "https://logammulia.com/berita-dan-promo/slug-32ec5644-f5ef-4939-b744-9af83fb96ec0/panduan-integrasi-akun-website-dan-brankas-di-aplikasi-antam-logam-mulia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
         "judul": "INFO\nLebih dari Sekadar Kado, ANTAM Hadirkan Desain Baru Emas Gift Series Ulang Tahun\n24 Oktober 2026",
         "url": "https://logammulia.com/berita-dan-promo/gift_series_ulang_tahun",
         "thumbnail": "",
@@ -51,12 +57,6 @@
       {
         "judul": "INFO\nBRANKAS Buka 7 Hari Seminggu, Beli Emas Kapan Saja!\n25 Maret 2026",
         "url": "https://logammulia.com/berita-dan-promo/BRANKAS-Buka-7-Hari-Seminggu-Beli-Emas-Kapan-Saja",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "INFO\nPembelian Emas di BRANKAS Tetap Tersedia Selama Libur Lebaran\n13 Maret 2026",
-        "url": "https://logammulia.com/berita-dan-promo/Pembelian-Emas-di-BRANKAS-Tetap-Tersedia-Selama-Libur-Lebaran",
         "thumbnail": "",
         "waktu": ""
       },
