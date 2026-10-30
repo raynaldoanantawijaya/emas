@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-10-30T12:00:36.483200"
+    "scrape_date": "2026-10-30T22:02:58.129468"
   },
   "data": {
     "technique": "network_capture",
@@ -18,11 +18,11 @@
         "measurementId": "G-E8EZCXE4GL"
       },
       "https://firebaseinstallations.googleapis.com/v1/projects/sharp-effort-404009/installations": {
-        "name": "projects/650607720029/installations/fKPm9oBzSoZxKRuwjuf-YS",
-        "fid": "fKPm9oBzSoZxKRuwjuf-YS",
-        "refreshToken": "3_AS3qfwI5pcdIhlONNUdzuQ-JPX5nZBWJYHDJdG1MHGPEvnawGj4OWjQc4CaaOlOoftFItDqoq47pttLg0uDMYAAyL9UXYsOHgaG8BCCKUiYSmjY",
+        "name": "projects/650607720029/installations/cz1FDL-jMsmO20jBGEQHVS",
+        "fid": "cz1FDL-jMsmO20jBGEQHVS",
+        "refreshToken": "3_AS3qfwKRK3y2r64DQFAzQyvkf3zhuJH9uVa6fW2RSPL6NEhzwzx07t9QPJKWv0KYa-Lewfm-hW2jsTiRC0VbkLRmoYeBHWXeo-TmBZJfS1c4wak",
         "authToken": {
-          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzkzOTQxMjA3LCJmaWQiOiJmS1BtOW9CelNvWnhLUnV3anVmLVlTIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRQIgRN6fTvDpIHBYHvyBRJVzM1Jv40HLJ64PVXMLw95_hCUCIQCGrz6HHfr7kZlqE8xlPxDSMjTTpR5drBP8ePd-pAYdjQ",
+          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzkzOTc3MzQ5LCJmaWQiOiJjejFGREwtak1zbU8yMGpCR0VRSFZTIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRQIhALK8oywpCkcXrnHMPTXZoU2_ublHKWJS8Bj6MkVYUWUVAiAifQ-QyOcc6Q-3LF8Nhkht1Xhd-e4aGC-Rj-3TqpHd0A",
           "expiresIn": "604800s"
         }
       }
@@ -56,7 +56,7 @@
       },
       {
         "judul": "INFO\nPanduan Pembaruan Dengan Email Akun Website Logammulia.com\n26 Oktober 2026",
-        "url": "https://logammulia.com/berita-dan-promo/Panduan-Pembaruan-Dengan-Email-Akun-Website-Logammulia",
+        "url": "https://logammulia.com/berita-dan-promo/Panduan_Pembaruan_Dengan_Email_Akun_Website_Logammulia",
         "thumbnail": "",
         "waktu": ""
       },
