@@ -3,7 +3,7 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-11-01T02:48:24.051380"
+    "scrape_date": "2026-11-01T06:12:36.874185"
   },
   "data": {
     "technique": "network_capture",
@@ -18,11 +18,11 @@
         "measurementId": "G-E8EZCXE4GL"
       },
       "https://firebaseinstallations.googleapis.com/v1/projects/sharp-effort-404009/installations": {
-        "name": "projects/650607720029/installations/d7zUVejaYjn8g3DCzkxm-p",
-        "fid": "d7zUVejaYjn8g3DCzkxm-p",
-        "refreshToken": "3_AS3qfwKaQsEdpUPqaTs9bAQ7ZGNEhYC_FqmiLr9sL6jQb_Wgti4SFobgzRuTGWlBvZJH3Zc699_VSvUk1GT6rb5KBEDaNgito5FJTQUlFrFkEw",
+        "name": "projects/650607720029/installations/cdWzB7bjVczK5sl8VbWA1U",
+        "fid": "cdWzB7bjVczK5sl8VbWA1U",
+        "refreshToken": "3_AS3qfwJBgeZj0MTqLa8DdWG_zl5nSIDJ4M21CnOQFuOKExnPvJKBgN9dChYe18z45jvVOhNxIvm-0anPOEIB1dNBRcxUNgrZZLngMe91A5dDv7k",
         "authToken": {
-          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzk0MDgwODc0LCJmaWQiOiJkN3pVVmVqYVlqbjhnM0RDemt4bS1wIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRgIhAKl5MFdO4bVbR6lefN_-HVlsxpRj-k1jWkxTrPiI8ZE1AiEA6qTFL1hVaDwpn5tThir30VGXVho7cYzNrbsXBpIZmnI",
+          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzk0MDkzMTI3LCJmaWQiOiJjZFd6QjdialZjeks1c2w4VmJXQTFVIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRQIhAOT04S9ETWXqtbN00HbJKU30E1mwm2XtzTgRwSdhSujMAiA8ngelp88bcM3IjTXpON5K1pwTzk286zsgr536rlW1VA",
           "expiresIn": "604800s"
         }
       }
