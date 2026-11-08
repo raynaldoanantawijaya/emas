@@ -3,7 +3,7 @@
     "url": "https://harga-emas.org/",
     "source": "Harga-Emas.org",
     "technique_used": "Direct Request",
-    "scrape_date": "2026-11-08T21:53:32.680084"
+    "scrape_date": "2026-11-09T03:18:02.498832"
   },
   "data": {
     "technique": "direct_request",
@@ -378,33 +378,33 @@
           },
           {
             "Kurs": "AUD",
-            "Beli": "12.3042",
-            "Jual": "12.5392"
+            "Beli": "12.324",
+            "Jual": "12.5519"
           },
           {
             "Kurs": "CAD",
-            "Beli": "12.6932",
-            "Jual": "12.915"
+            "Beli": "12.6878",
+            "Jual": "12.9096"
           },
           {
             "Kurs": "CHF",
-            "Beli": "21.8386",
-            "Jual": "22.2588"
+            "Beli": "21.8413",
+            "Jual": "22.2669"
           },
           {
             "Kurs": "DKK",
-            "Beli": "2.6749",
-            "Jual": "2.7187"
+            "Beli": "2.6745",
+            "Jual": "2.7182"
           },
           {
             "Kurs": "EUR",
-            "Beli": "19.9797",
-            "Jual": "20.3427"
+            "Beli": "19.9671",
+            "Jual": "20.3354"
           },
           {
             "Kurs": "GBP",
-            "Beli": "23.9476",
-            "Jual": "24.3586"
+            "Beli": "23.9657",
+            "Jual": "24.3749"
           },
           {
             "Kurs": "HKD",
@@ -413,13 +413,13 @@
           },
           {
             "Kurs": "JPY",
-            "Beli": "11290",
-            "Jual": "11543"
+            "Beli": "11295",
+            "Jual": "11546"
           },
           {
             "Kurs": "KRW",
-            "Beli": "1282",
-            "Jual": "1374"
+            "Beli": "1284",
+            "Jual": "1376"
           },
           {
             "Kurs": "MYR",
@@ -428,8 +428,8 @@
           },
           {
             "Kurs": "NZD",
-            "Beli": "9.9388",
-            "Jual": "10.1284"
+            "Beli": "9.9676",
+            "Jual": "10.1575"
           },
           {
             "Kurs": "SAR",
@@ -438,13 +438,13 @@
           },
           {
             "Kurs": "SEK",
-            "Beli": "1.8155",
-            "Jual": "1.8417"
+            "Beli": "1.8162",
+            "Jual": "1.8423"
           },
           {
             "Kurs": "SGD",
-            "Beli": "13.9781",
-            "Jual": "14.2261"
+            "Beli": "13.9863",
+            "Jual": "14.2344"
           },
           {
             "Kurs": "THB",
@@ -515,7 +515,7 @@
         "offers": {
           "@type": "Offer",
           "availability": "https://schema.org/InStock",
-          "price": 2373642,
+          "price": 2373631,
           "priceCurrency": "IDR"
         },
         "provider": {
