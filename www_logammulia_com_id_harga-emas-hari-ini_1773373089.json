@@ -1,529 +1,88 @@
 {
   "metadata": {
-    "url": "https://harga-emas.org/",
-    "source": "Harga-Emas.org",
-    "technique_used": "Direct Request",
-    "scrape_date": "2026-11-09T03:18:02.498832"
+    "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
+    "source": "Antam Logam Mulia",
+    "technique_used": "Network Capture + DOM Extraction",
+    "scrape_date": "2026-11-09T12:27:17.944492"
   },
   "data": {
-    "technique": "direct_request",
-    "tables": [
-      {
-        "title": "Spot Harga Emas Hari Ini",
-        "headers": [
-          "Satuan",
-          "USD",
-          "IDR"
-        ],
-        "rows": [
-          {
-            "Satuan": "Ounce (oz)",
-            "USD": "4.065,98(0)",
-            "IDR": "73.628.653,15(0)"
-          },
-          {
-            "Satuan": "Gram (gr)",
-            "USD": "130,72(0)",
-            "IDR": "2.367.216,17(0)"
-          },
-          {
-            "Satuan": "Kilogram (kg)",
-            "USD": "130.724,29(0)",
-            "IDR": "2.367.216.170(0)"
-          }
-        ]
+    "technique": "network_capture",
+    "captured_apis": {
+      "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:650607720029:web:880a4f06f1ad08334effb4/webConfig": {
+        "projectId": "sharp-effort-404009",
+        "appId": "1:650607720029:web:880a4f06f1ad08334effb4",
+        "storageBucket": "sharp-effort-404009.firebasestorage.app",
+        "locationId": "asia-southeast2",
+        "authDomain": "sharp-effort-404009.firebaseapp.com",
+        "messagingSenderId": "650607720029",
+        "measurementId": "G-E8EZCXE4GL"
       },
-      {
-        "title": "Antam & Pegadaian",
-        "headers": [
-          "Satuan Gram",
-          "Antam per Gram (Rp)",
-          "Pegadaian per Gram (Rp)"
-        ],
-        "rows": [
-          {
-            "Satuan Gram": "1000",
-            "Antam per Gram (Rp)": "2.480.600.000",
-            "Pegadaian per Gram (Rp)": "2.429.353.000"
-          },
-          {
-            "Satuan Gram": "500",
-            "Antam per Gram (Rp)": "1.240.320.000",
-            "Pegadaian per Gram (Rp)": "1.214.677.000"
-          },
-          {
-            "Satuan Gram": "250",
-            "Antam per Gram (Rp)": "620.265.000",
-            "Pegadaian per Gram (Rp)": "607.339.000"
-          },
-          {
-            "Satuan Gram": "100",
-            "Antam per Gram (Rp)": "248.212.000",
-            "Pegadaian per Gram (Rp)": "243.534.000"
-          },
-          {
-            "Satuan Gram": "50",
-            "Antam per Gram (Rp)": "124.145.000",
-            "Pegadaian per Gram (Rp)": "121.827.000"
-          },
-          {
-            "Satuan Gram": "25",
-            "Antam per Gram (Rp)": "62.112.000",
-            "Pegadaian per Gram (Rp)": "60.962.000"
-          },
-          {
-            "Satuan Gram": "10",
-            "Antam per Gram (Rp)": "25.900.000",
-            "Pegadaian per Gram (Rp)": "24.517.000"
-          },
-          {
-            "Satuan Gram": "5",
-            "Antam per Gram (Rp)": "12.475.000",
-            "Pegadaian per Gram (Rp)": "12.291.000"
-          },
-          {
-            "Satuan Gram": "2",
-            "Antam per Gram (Rp)": "5.020.000",
-            "Pegadaian per Gram (Rp)": "4.953.000"
-          },
-          {
-            "Satuan Gram": "1",
-            "Antam per Gram (Rp)": "2.690.000",
-            "Pegadaian per Gram (Rp)": "2.507.000"
-          },
-          {
-            "Satuan Gram": "0.5",
-            "Antam per Gram (Rp)": "1.390.000",
-            "Pegadaian per Gram (Rp)": "1.315.000"
-          },
-          {
-            "Satuan Gram": "",
-            "Antam per Gram (Rp)": "Update harga LM Antam:23 Oktober 2026 pukul 10.46Harga pembelian kembali:Rp2.421.000/grm",
-            "Pegadaian per Gram (Rp)": "Update harga LM Pegadaian:08 November 2026"
-          }
-        ]
-      },
-      {
-        "title": "UBS Gold 99.99% - Jual & Beli",
-        "headers": [
-          "Satuan Gram",
-          "Jual per Gram (Rp)",
-          "Beli per Gram (Rp)"
-        ],
-        "rows": [
-          {
-            "Satuan Gram": "1",
-            "Jual per Gram (Rp)": "325.000",
-            "Beli per Gram (Rp)": "228.000"
-          },
-          {
-            "Satuan Gram": "5",
-            "Jual per Gram (Rp)": "1.316.000",
-            "Beli per Gram (Rp)": "1.140.000"
-          },
-          {
-            "Satuan Gram": "10",
-            "Jual per Gram (Rp)": "2.445.000",
-            "Beli per Gram (Rp)": "2.280.000"
-          },
-          {
-            "Satuan Gram": "20",
-            "Jual per Gram (Rp)": "4.823.000",
-            "Beli per Gram (Rp)": "4.560.000"
-          },
-          {
-            "Satuan Gram": "25",
-            "Jual per Gram (Rp)": "725.000",
-            "Beli per Gram (Rp)": "570.000"
-          },
-          {
-            "Satuan Gram": "30",
-            "Jual per Gram (Rp)": "7.225.000",
-            "Beli per Gram (Rp)": "6.840.000"
-          },
-          {
-            "Satuan Gram": "40",
-            "Jual per Gram (Rp)": "9.595.000",
-            "Beli per Gram (Rp)": "9.120.000"
-          },
-          {
-            "Satuan Gram": "50",
-            "Jual per Gram (Rp)": "11.855.000",
-            "Beli per Gram (Rp)": "11.400.000"
-          },
-          {
-            "Satuan Gram": "100",
-            "Jual per Gram (Rp)": "23.518.000",
-            "Beli per Gram (Rp)": "22.800.000"
-          },
-          {
-            "Satuan Gram": "250",
-            "Jual per Gram (Rp)": "58.663.000",
-            "Beli per Gram (Rp)": "57.000.000"
-          },
-          {
-            "Satuan Gram": "500",
-            "Jual per Gram (Rp)": "116.874.000",
-            "Beli per Gram (Rp)": "114.000.000"
-          },
-          {
-            "Satuan Gram": "1000",
-            "Jual per Gram (Rp)": "233.600.000",
-            "Beli per Gram (Rp)": "228.000.000"
-          }
-        ]
-      },
-      {
-        "title": "Kurs Bank Indonesia (BI)",
-        "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
-        ],
-        "rows": [
-          {
-            "Kurs": "AED",
-            "Beli": "4.9013",
-            "Jual": "4.951"
-          },
-          {
-            "Kurs": "AUD",
-            "Beli": "12.6295",
-            "Jual": "12.7582"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12.9021",
-            "Jual": "13.0327"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "22.0713",
-            "Jual": "22.3068"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2.7078",
-            "Jual": "2.7352"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "20.2396",
-            "Jual": "20.4448"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "24.2472",
-            "Jual": "24.5036"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2.2949",
-            "Jual": "2.3181"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "11.3802",
-            "Jual": "11.4961"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "1343",
-            "Jual": "1357"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4.4464",
-            "Jual": "4.4944"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "10.1576",
-            "Jual": "10.2633"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4.7962",
-            "Jual": "4.8449"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1.8451",
-            "Jual": "1.8652"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "14.0994",
-            "Jual": "14.2422"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "53806",
-            "Jual": "54412"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "18.0035",
-            "Jual": "18.1845"
-          }
-        ]
-      },
-      {
-        "title": "Kurs Bank Mandiri",
-        "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
-        ],
-        "rows": [
-          {
-            "Kurs": "AED",
-            "Beli": "4901.83",
-            "Jual": "4940.13"
-          },
-          {
-            "Kurs": "AUD",
-            "Beli": "12507",
-            "Jual": "12536"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12884",
-            "Jual": "12912"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "22126",
-            "Jual": "22172"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2680",
-            "Jual": "2745"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "20261",
-            "Jual": "20298"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "24289",
-            "Jual": "24338"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2301",
-            "Jual": "2311"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "114.45",
-            "Jual": "114.71"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "12.81",
-            "Jual": "13.83"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4444",
-            "Jual": "4465"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "10092",
-            "Jual": "10117"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4806",
-            "Jual": "4825"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1817",
-            "Jual": "1867"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "14116",
-            "Jual": "14148"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "537.27",
-            "Jual": "541.48"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "18090",
-            "Jual": "18120"
-          }
-        ]
-      },
-      {
-        "title": "Kurs Bank Central Asia (BCA)",
-        "headers": [
-          "Kurs",
-          "Beli",
-          "Jual"
-        ],
-        "rows": [
-          {
-            "Kurs": "AED",
-            "Beli": "4.9026",
-            "Jual": "4.9489"
-          },
-          {
-            "Kurs": "AUD",
-            "Beli": "12.324",
-            "Jual": "12.5519"
-          },
-          {
-            "Kurs": "CAD",
-            "Beli": "12.6878",
-            "Jual": "12.9096"
-          },
-          {
-            "Kurs": "CHF",
-            "Beli": "21.8413",
-            "Jual": "22.2669"
-          },
-          {
-            "Kurs": "DKK",
-            "Beli": "2.6745",
-            "Jual": "2.7182"
-          },
-          {
-            "Kurs": "EUR",
-            "Beli": "19.9671",
-            "Jual": "20.3354"
-          },
-          {
-            "Kurs": "GBP",
-            "Beli": "23.9657",
-            "Jual": "24.3749"
-          },
-          {
-            "Kurs": "HKD",
-            "Beli": "2.289",
-            "Jual": "2.3264"
-          },
-          {
-            "Kurs": "JPY",
-            "Beli": "11295",
-            "Jual": "11546"
-          },
-          {
-            "Kurs": "KRW",
-            "Beli": "1284",
-            "Jual": "1376"
-          },
-          {
-            "Kurs": "MYR",
-            "Beli": "4.4085",
-            "Jual": "4.5059"
-          },
-          {
-            "Kurs": "NZD",
-            "Beli": "9.9676",
-            "Jual": "10.1575"
-          },
-          {
-            "Kurs": "SAR",
-            "Beli": "4.7871",
-            "Jual": "4.8528"
-          },
-          {
-            "Kurs": "SEK",
-            "Beli": "1.8162",
-            "Jual": "1.8423"
-          },
-          {
-            "Kurs": "SGD",
-            "Beli": "13.9863",
-            "Jual": "14.2344"
-          },
-          {
-            "Kurs": "THB",
-            "Beli": "53183",
-            "Jual": "54603"
-          },
-          {
-            "Kurs": "USD",
-            "Beli": "18.037",
-            "Jual": "18.147"
-          }
-        ]
-      },
-      {
-        "title": "",
-        "headers": [
-          "Jenis Emas",
-          "Kisaran Spread"
-        ],
-        "rows": [
-          {
-            "Jenis Emas": "Emas Fisik (Antam/UBS)7–14%",
-            "Kisaran Spread": "7–14%"
-          },
-          {
-            "Jenis Emas": "Emas Digital (Pluang)",
-            "Kisaran Spread": "1–3%"
-          },
-          {
-            "Jenis Emas": "Token Emas (PAXG/XAUT)",
-            "Kisaran Spread": "~2%"
-          }
-        ]
+      "https://firebaseinstallations.googleapis.com/v1/projects/sharp-effort-404009/installations": {
+        "name": "projects/650607720029/installations/eF4nYcFib3j4GbC8Ezzg_v",
+        "fid": "eF4nYcFib3j4GbC8Ezzg_v",
+        "refreshToken": "3_AS3qfwJhw0QCTkWMjXyBAnH0GqSiB3w1NJDlmyze_MybE8w54jUfh2Yc0PIftcEwrpJEJA_rFdgzQDwmg1KJs0p1qlfvdzIsuIBqx6KQBq4T5Ag",
+        "authToken": {
+          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzk0ODA2ODA3LCJmaWQiOiJlRjRuWWNGaWIzajRHYkM4RXp6Z192IiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRQIgWMj8AjUKhp3Gn8yyXfLQkksZRW8gKIypuBnjaHsUfbcCIQDq_mQIQiiJu__ipuCRtjrd7yn9gZEW2pHgiTRk3b61_w",
+          "expiresIn": "604800s"
+        }
       }
-    ],
-    "inline_json": [
+    },
+    "api_count": 2,
+    "tables": [],
+    "articles": [
       {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "@id": "https://harga-emas.org/#organization",
-        "name": "Harga Emas",
-        "url": "https://harga-emas.org",
-        "logo": "https://image-cdn.pluang.com/harga-emas/images/hargaEmasIconBig.webp",
-        "publisher": {
-          "@type": "TradingPlatform",
-          "name": "Pluang"
-        },
-        "parentOrganization": {
-          "@id": "https://pluang.com/#organization"
-        },
-        "address": {
-          "@type": "PostalAddress",
-          "addressCountry": "ID",
-          "postalCode": "10350",
-          "streetAddress": "The Plaza Office Tower 15th Floor Unit 15B-C, Jl. MH Thamrin Kav 28-30, Gondangdia, Menteng",
-          "addressLocality": "Central Jakarta, DKI Jakarta"
-        }
+        "judul": "INFO\nWebsite Logam Mulia dan Aplikasi ANTAM Logam Mulia Hadir dengan Tampilan dan Fitur Baru Mulai 26 Oktober 2026\n24 Oktober 2026",
+        "url": "https://logammulia.com/berita-dan-promo/aplikasi_antam_logam_mulia_tampilan_baru",
+        "thumbnail": "",
+        "waktu": ""
       },
       {
-        "@context": "https://schema.org",
-        "@type": "Product",
-        "name": "Emas",
-        "description": "Emas adalah aset investasi yang stabil dan bernilai tinggi, digunakan sebagai penyimpan kekayaan jangka panjang. Harga emas dipengaruhi oleh kondisi pasar global, nilai tukar, serta permintaan industri dan perhiasan. Di Harga-Emas.org, Anda dapat memantau harga emas terbaru, grafik pergerakan, dan informasi lengkap untuk membantu keputusan beli emas dengan aman dan terpercaya.",
-        "category": "Emas",
-        "tickerSymbol": "GOLD",
-        "image": "https://image-cdn.pluang.com/icons/light/gold/gold-asset-icon/icon.svg",
-        "url": "https://harga-emas.org",
-        "offers": {
-          "@type": "Offer",
-          "availability": "https://schema.org/InStock",
-          "price": 2373631,
-          "priceCurrency": "IDR"
-        },
-        "provider": {
-          "@id": "https://harga-emas.org/#organization"
-        },
-        "publisher": {
-          "@id": "https://harga-emas.org/#organization"
-        }
+        "judul": "INFO\nTampilan dan Pengalaman Baru Aplikasi ANTAM Logam Mulia\n24 Oktober 2026",
+        "url": "https://logammulia.com/berita-dan-promo/pengalamann_baru_aplikasi",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "INFO\nWaspada Penipuan Investasi Emas: Kenali Skema Ponzi dan Cara Menghindarinya\n29 Mei 2026",
+        "url": "https://logammulia.com/berita-dan-promo/Waspada-Penipuan-Investasi-Emas-Kenali-Skema-Ponzi-dan-Cara-Menghindarinya",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "INFO\nPanduan Integrasi Akun Website dan BRANKAS di Aplikasi ANTAM Logam Mulia\n26 Oktober 2026",
+        "url": "https://logammulia.com/berita-dan-promo/Panduan-Integrasi-Akun-Website-dan-BRANKAS-di-Aplikasi-ANTAM-Logam-Mulia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "INFO\nPanduan Pembaruan Dengan Email Akun Website Logammulia.com\n26 Oktober 2026",
+        "url": "https://logammulia.com/berita-dan-promo/Panduan_Pembaruan_Dengan_Email_Akun_Website_Logammulia",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Kebijakan Privasi",
+        "url": "https://logammulia.com/kebijakan",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "Syarat & Ketentuan",
+        "url": "https://logammulia.com/syarat-dan-ketentuan",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "infolm@antam.com",
+        "url": "mailto:infolm@antam.com",
+        "thumbnail": "",
+        "waktu": ""
+      },
+      {
+        "judul": "WhatsApp ALMIRA",
+        "url": "https://api.whatsapp.com/send?phone=628111002002",
+        "thumbnail": "",
+        "waktu": ""
       }
     ]
   }
