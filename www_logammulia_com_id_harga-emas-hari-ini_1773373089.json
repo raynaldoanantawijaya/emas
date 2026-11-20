@@ -3,42 +3,12 @@
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
     "technique_used": "DOM Extraction",
-    "scrape_date": "2026-11-20T13:27:34.338812"
+    "scrape_date": "2026-11-20T23:50:19.078174"
   },
   "data": {
     "technique": "dom_extraction",
     "tables": [],
     "articles": [
-      {
-        "judul": "INFO\nWebsite Logam Mulia dan Aplikasi ANTAM Logam Mulia Hadir dengan Tampilan dan Fitur Baru Mulai 26 Oktober 2026\n24 Oktober 2026",
-        "url": "https://logammulia.com/berita-dan-promo/aplikasi_antam_logam_mulia_tampilan_baru",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "INFO\nTampilan dan Pengalaman Baru Aplikasi ANTAM Logam Mulia\n24 Oktober 2026",
-        "url": "https://logammulia.com/berita-dan-promo/pengalamann_baru_aplikasi",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "INFO\nWaspada Penipuan Investasi Emas: Kenali Skema Ponzi dan Cara Menghindarinya\n29 Mei 2026",
-        "url": "https://logammulia.com/berita-dan-promo/Waspada-Penipuan-Investasi-Emas-Kenali-Skema-Ponzi-dan-Cara-Menghindarinya",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "INFO\nPanduan Integrasi Akun Website dan BRANKAS di Aplikasi ANTAM Logam Mulia\n26 Oktober 2026",
-        "url": "https://logammulia.com/berita-dan-promo/Panduan-Integrasi-Akun-Website-dan-BRANKAS-di-Aplikasi-ANTAM-Logam-Mulia",
-        "thumbnail": "",
-        "waktu": ""
-      },
-      {
-        "judul": "INFO\nPanduan Pembaruan Dengan Email Akun Website Logammulia.com\n26 Oktober 2026",
-        "url": "https://logammulia.com/berita-dan-promo/Panduan_Pembaruan_Dengan_Email_Akun_Website_Logammulia",
-        "thumbnail": "",
-        "waktu": ""
-      },
       {
         "judul": "Kebijakan Privasi",
         "url": "https://logammulia.com/kebijakan",
