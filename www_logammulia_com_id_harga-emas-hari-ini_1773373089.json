@@ -2,32 +2,11 @@
   "metadata": {
     "url": "https://www.logammulia.com/id/harga-emas-hari-ini",
     "source": "Antam Logam Mulia",
-    "technique_used": "Network Capture + DOM Extraction",
-    "scrape_date": "2026-11-20T05:58:41.168429"
+    "technique_used": "DOM Extraction",
+    "scrape_date": "2026-11-20T13:27:34.338812"
   },
   "data": {
-    "technique": "network_capture",
-    "captured_apis": {
-      "https://firebase.googleapis.com/v1alpha/projects/-/apps/1:650607720029:web:880a4f06f1ad08334effb4/webConfig": {
-        "projectId": "sharp-effort-404009",
-        "appId": "1:650607720029:web:880a4f06f1ad08334effb4",
-        "storageBucket": "sharp-effort-404009.firebasestorage.app",
-        "locationId": "asia-southeast2",
-        "authDomain": "sharp-effort-404009.firebaseapp.com",
-        "messagingSenderId": "650607720029",
-        "measurementId": "G-E8EZCXE4GL"
-      },
-      "https://firebaseinstallations.googleapis.com/v1/projects/sharp-effort-404009/installations": {
-        "name": "projects/650607720029/installations/cdbCSNgJvSaBsT_H3cG_SR",
-        "fid": "cdbCSNgJvSaBsT_H3cG_SR",
-        "refreshToken": "3_AS3qfwJgy4KjzormsHJx3K_13YWh5zgwHyG5vqreHQSR0aYT7BOTKBjo7iltOtuy8VzVAfn68B6L1emrv7ioPFDF_lXTu4ryKqwjByxRuYyAPZY",
-        "authToken": {
-          "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6NjUwNjA3NzIwMDI5OndlYjo4ODBhNGYwNmYxYWQwODMzNGVmZmI0IiwiZXhwIjoxNzk1NzMzODg0LCJmaWQiOiJjZGJDU05nSnZTYUJzVF9IM2NHX1NSIiwicHJvamVjdE51bWJlciI6NjUwNjA3NzIwMDI5fQ.AB2LPV8wRAIgUKjif4F_MT4G_QA7wh3Oa5KLw7g2-64XHwwHp25SqmsCIBHez0eA8fpNLqxshyi_b4mzhDmujAuC_KivlG35KPNE",
-          "expiresIn": "604800s"
-        }
-      }
-    },
-    "api_count": 2,
+    "technique": "dom_extraction",
     "tables": [],
     "articles": [
       {
